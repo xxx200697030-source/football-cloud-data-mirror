@@ -1,0 +1,419 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "code": 20260725,
+      "name": "07月26日 星期日",
+      "matchCount": 10,
+      "lastSyncAt": "2026-07-26T04:08:10.000Z"
+    },
+    {
+      "code": 20260724,
+      "name": "07月25日 星期六",
+      "matchCount": 2,
+      "lastSyncAt": "2026-07-26T04:08:10.000Z"
+    },
+    {
+      "code": 20260723,
+      "name": "07月24日 星期五",
+      "matchCount": 7,
+      "lastSyncAt": "2026-07-26T04:08:10.000Z"
+    },
+    {
+      "code": 20260722,
+      "name": "07月23日 星期四",
+      "matchCount": 10,
+      "lastSyncAt": "2026-07-26T03:43:08.000Z"
+    },
+    {
+      "code": 20260721,
+      "name": "07月22日 星期三",
+      "matchCount": 7,
+      "lastSyncAt": "2026-07-26T03:43:08.000Z"
+    },
+    {
+      "code": 20260720,
+      "name": "07月21日 星期二",
+      "matchCount": 4,
+      "lastSyncAt": "2026-07-26T03:43:08.000Z"
+    },
+    {
+      "code": 20260719,
+      "name": "07月20日 星期一",
+      "matchCount": 7,
+      "lastSyncAt": "2026-07-26T03:43:08.000Z"
+    },
+    {
+      "code": 20260718,
+      "name": "07月19日 星期日",
+      "matchCount": 15,
+      "lastSyncAt": "2026-07-25T12:13:08.000Z"
+    },
+    {
+      "code": 20260717,
+      "name": "07月18日 星期六",
+      "matchCount": 8,
+      "lastSyncAt": "2026-07-24T17:43:08.000Z"
+    },
+    {
+      "code": 20260716,
+      "name": "07月17日 星期五",
+      "matchCount": 10,
+      "lastSyncAt": "2026-07-23T18:43:08.000Z"
+    },
+    {
+      "code": 20260715,
+      "name": "07月16日 星期四",
+      "matchCount": 3,
+      "lastSyncAt": "2026-07-22T12:13:08.000Z"
+    },
+    {
+      "code": 20260714,
+      "name": "07月15日 星期三",
+      "matchCount": 3,
+      "lastSyncAt": "2026-07-21T12:29:32.000Z"
+    },
+    {
+      "code": 20260713,
+      "name": "07月14日 星期二",
+      "matchCount": 1,
+      "lastSyncAt": "2026-07-20T16:29:32.000Z"
+    },
+    {
+      "code": 20260712,
+      "name": "07月13日 星期一",
+      "matchCount": 13,
+      "lastSyncAt": "2026-07-19T12:29:32.000Z"
+    },
+    {
+      "code": 20260711,
+      "name": "07月12日 星期日",
+      "matchCount": 13,
+      "lastSyncAt": "2026-07-18T11:59:32.000Z"
+    },
+    {
+      "code": 20260710,
+      "name": "07月11日 星期六",
+      "matchCount": 2,
+      "lastSyncAt": "2026-07-17T18:29:32.000Z"
+    },
+    {
+      "code": 20260709,
+      "name": "07月10日 星期五",
+      "matchCount": 4,
+      "lastSyncAt": "2026-07-16T18:29:32.000Z"
+    },
+    {
+      "code": 20260708,
+      "name": "07月08日 星期三",
+      "matchCount": 1,
+      "lastSyncAt": "2026-07-15T19:59:32.000Z"
+    },
+    {
+      "code": 20260707,
+      "name": "07月08日 星期三",
+      "matchCount": 5,
+      "lastSyncAt": "2026-07-14T18:59:32.000Z"
+    },
+    {
+      "code": 20260706,
+      "name": "07月07日 星期二",
+      "matchCount": 4,
+      "lastSyncAt": "2026-07-13T18:29:31.000Z"
+    },
+    {
+      "code": 20260705,
+      "name": "07月06日 星期一",
+      "matchCount": 8,
+      "lastSyncAt": "2026-07-12T11:59:31.000Z"
+    },
+    {
+      "code": 20260704,
+      "name": "07月05日 星期日",
+      "matchCount": 11,
+      "lastSyncAt": "2026-07-11T11:59:31.000Z"
+    },
+    {
+      "code": 20260703,
+      "name": "07月04日 星期六",
+      "matchCount": 4,
+      "lastSyncAt": "2026-07-10T17:29:31.000Z"
+    },
+    {
+      "code": 20260702,
+      "name": "07月03日 星期五",
+      "matchCount": 3,
+      "lastSyncAt": "2026-07-09T19:29:31.000Z"
+    },
+    {
+      "code": 20260701,
+      "name": "07月02日 星期四",
+      "matchCount": 3,
+      "lastSyncAt": "2026-07-08T16:39:54.000Z"
+    },
+    {
+      "code": 20260630,
+      "name": "07月01日 星期三",
+      "matchCount": 3,
+      "lastSyncAt": "2026-07-07T17:39:14.000Z"
+    },
+    {
+      "code": 20260629,
+      "name": "06月30日 星期二",
+      "matchCount": 3,
+      "lastSyncAt": "2026-07-06T18:31:10.000Z"
+    },
+    {
+      "code": 20260628,
+      "name": "06月29日 星期一",
+      "matchCount": 1,
+      "lastSyncAt": "2026-07-05T12:01:10.000Z"
+    },
+    {
+      "code": 20260627,
+      "name": "06月28日 星期日",
+      "matchCount": 12,
+      "lastSyncAt": "2026-07-04T12:01:10.000Z"
+    },
+    {
+      "code": 20260626,
+      "name": "06月27日 星期六",
+      "matchCount": 6,
+      "lastSyncAt": "2026-07-03T18:40:06.000Z"
+    },
+    {
+      "code": 20260625,
+      "name": "06月26日 星期五",
+      "matchCount": 6,
+      "lastSyncAt": "2026-07-02T20:40:06.000Z"
+    },
+    {
+      "code": 20260624,
+      "name": "06月25日 星期四",
+      "matchCount": 6,
+      "lastSyncAt": "2026-07-01T17:40:06.000Z"
+    },
+    {
+      "code": 20260623,
+      "name": "06月24日 星期三",
+      "matchCount": 10,
+      "lastSyncAt": "2026-06-30T18:50:27.000Z"
+    },
+    {
+      "code": 20260622,
+      "name": "06月23日 星期二",
+      "matchCount": 4,
+      "lastSyncAt": "2026-06-29T18:50:27.000Z"
+    },
+    {
+      "code": 20260621,
+      "name": "06月22日 星期一",
+      "matchCount": 5,
+      "lastSyncAt": "2026-06-28T20:39:26.000Z"
+    },
+    {
+      "code": 20260620,
+      "name": "06月21日 星期日",
+      "matchCount": 3,
+      "lastSyncAt": "2026-06-27T12:39:26.000Z"
+    },
+    {
+      "code": 20260619,
+      "name": "06月20日 星期六",
+      "matchCount": 4,
+      "lastSyncAt": "2026-06-26T20:40:31.000Z"
+    },
+    {
+      "code": 20260618,
+      "name": "06月19日 星期五",
+      "matchCount": 5,
+      "lastSyncAt": "2026-06-25T21:40:31.000Z"
+    },
+    {
+      "code": 20260617,
+      "name": "06月18日 星期四",
+      "matchCount": 10,
+      "lastSyncAt": "2026-06-24T20:40:31.000Z"
+    },
+    {
+      "code": 20260616,
+      "name": "06月17日 星期三",
+      "matchCount": 3,
+      "lastSyncAt": "2026-06-23T16:40:31.000Z"
+    },
+    {
+      "code": 20260615,
+      "name": "06月16日 星期二",
+      "matchCount": 4,
+      "lastSyncAt": "2026-06-22T18:40:31.000Z"
+    },
+    {
+      "code": 20260614,
+      "name": "06月15日 星期一",
+      "matchCount": 5,
+      "lastSyncAt": "2026-06-21T05:42:58.000Z"
+    },
+    {
+      "code": 20260613,
+      "name": "06月14日 星期日",
+      "matchCount": 9,
+      "lastSyncAt": "2026-06-20T18:42:58.000Z"
+    },
+    {
+      "code": 20260612,
+      "name": "06月13日 星期六",
+      "matchCount": 2,
+      "lastSyncAt": "2026-06-19T20:42:58.000Z"
+    },
+    {
+      "code": 20260611,
+      "name": "06月12日 星期五",
+      "matchCount": 2,
+      "lastSyncAt": "2026-06-18T11:42:58.000Z"
+    },
+    {
+      "code": 20260610,
+      "name": "06月11日 星期四",
+      "matchCount": 2,
+      "lastSyncAt": "2026-06-17T05:42:58.000Z"
+    },
+    {
+      "code": 20260609,
+      "name": "06月10日 星期三",
+      "matchCount": 3,
+      "lastSyncAt": "2026-06-16T20:42:58.000Z"
+    },
+    {
+      "code": 20260608,
+      "name": "06月09日 星期二",
+      "matchCount": 3,
+      "lastSyncAt": "2026-06-15T17:28:34.000Z"
+    },
+    {
+      "code": 20260607,
+      "name": "06月08日 星期一",
+      "matchCount": 4,
+      "lastSyncAt": "2026-06-14T05:36:06.000Z"
+    },
+    {
+      "code": 20260606,
+      "name": "06月07日 星期日",
+      "matchCount": 17,
+      "lastSyncAt": "2026-06-13T13:54:16.000Z"
+    },
+    {
+      "code": 20260605,
+      "name": "06月06日 星期六",
+      "matchCount": 4,
+      "lastSyncAt": "2026-06-12T20:54:16.000Z"
+    },
+    {
+      "code": 20260604,
+      "name": "06月05日 星期五",
+      "matchCount": 5,
+      "lastSyncAt": "2026-06-11T20:44:26.000Z"
+    },
+    {
+      "code": 20260603,
+      "name": "06月04日 星期四",
+      "matchCount": 4,
+      "lastSyncAt": "2026-06-10T21:44:27.000Z"
+    },
+    {
+      "code": 20260602,
+      "name": "06月03日 星期三",
+      "matchCount": 3,
+      "lastSyncAt": "2026-06-09T13:13:41.000Z"
+    },
+    {
+      "code": 20260601,
+      "name": "06月02日 星期二",
+      "matchCount": 6,
+      "lastSyncAt": "2026-06-08T20:51:34.000Z"
+    },
+    {
+      "code": 20260531,
+      "name": "06月01日 星期一",
+      "matchCount": 12,
+      "lastSyncAt": "2026-06-07T20:25:22.000Z"
+    },
+    {
+      "code": 20260530,
+      "name": "05月31日 星期日",
+      "matchCount": 15,
+      "lastSyncAt": "2026-06-06T07:03:00.000Z"
+    },
+    {
+      "code": 20260529,
+      "name": "05月30日 星期六",
+      "matchCount": 9,
+      "lastSyncAt": "2026-06-05T12:56:43.000Z"
+    },
+    {
+      "code": 20260528,
+      "name": "05月29日 星期五",
+      "matchCount": 5,
+      "lastSyncAt": "2026-06-04T17:56:43.000Z"
+    },
+    {
+      "code": 20260527,
+      "name": "05月28日 星期四",
+      "matchCount": 7,
+      "lastSyncAt": "2026-06-03T19:36:28.000Z"
+    },
+    {
+      "code": 20260526,
+      "name": "05月27日 星期三",
+      "matchCount": 7,
+      "lastSyncAt": "2026-06-02T17:30:07.000Z"
+    },
+    {
+      "code": 20260525,
+      "name": "05月26日 星期二",
+      "matchCount": 9,
+      "lastSyncAt": "2026-06-01T17:38:05.000Z"
+    },
+    {
+      "code": 20260524,
+      "name": "05月25日 星期一",
+      "matchCount": 28,
+      "lastSyncAt": "2026-05-31T06:45:22.000Z"
+    },
+    {
+      "code": 20260523,
+      "name": "05月24日 星期日",
+      "matchCount": 30,
+      "lastSyncAt": "2026-05-30T07:01:04.000Z"
+    },
+    {
+      "code": 20260522,
+      "name": "05月23日 星期六",
+      "matchCount": 6,
+      "lastSyncAt": "2026-05-29T18:45:53.000Z"
+    },
+    {
+      "code": 20260521,
+      "name": "05月22日 星期五",
+      "matchCount": 8,
+      "lastSyncAt": "2026-05-28T02:35:15.000Z"
+    },
+    {
+      "code": 20260520,
+      "name": "05月21日 星期四",
+      "matchCount": 12,
+      "lastSyncAt": "2026-05-27T20:35:15.000Z"
+    },
+    {
+      "code": 20260519,
+      "name": "05月20日 星期三",
+      "matchCount": 5,
+      "lastSyncAt": "2026-05-26T16:20:29.000Z"
+    },
+    {
+      "code": 20260518,
+      "name": "05月19日 星期二",
+      "matchCount": 4,
+      "lastSyncAt": "2026-05-25T14:09:29.000Z"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "data": {
+    "dateCode": 20260724,
+    "groupTitle": "07月25日 星期六",
+    "matches": [
+      {
+        "scheduleId": 2912218,
+        "matchDateCode": 20260724,
+        "groupTitle": "07月25日 星期六",
+        "matchNo": "周五202",
+        "leagueName": "瑞典超",
+        "homeTeam": "韦斯特罗",
+        "guestTeam": "厄格里特",
+        "scoreText": "2-0",
+        "halfScoreText": "1-0",
+        "details": [
+          {
+            "name": "胜（-1）",
+            "odds": "2.66"
+          },
+          {
+            "name": "胜",
+            "odds": "1.51"
+          },
+          {
+            "name": "2:0",
+            "odds": "7.5"
+          },
+          {
+            "name": "2球",
+            "odds": "4"
+          },
+          {
+            "name": "胜胜",
+            "odds": "2.15"
+          }
+        ],
+        "updatedAt": "2026-07-24T18:53:08.000Z"
+      },
+      {
+        "scheduleId": 2913670,
+        "matchDateCode": 20260724,
+        "groupTitle": "07月25日 星期六",
+        "matchNo": "周五201",
+        "leagueName": "芬超",
+        "homeTeam": "雅罗",
+        "guestTeam": "塞伊奈",
+        "scoreText": "2-1",
+        "halfScoreText": "1-0",
+        "details": [
+          {
+            "name": "胜（+1）",
+            "odds": "1.59"
+          },
+          {
+            "name": "胜",
+            "odds": "2.95"
+          },
+          {
+            "name": "2:1",
+            "odds": "10"
+          },
+          {
+            "name": "3球",
+            "odds": "3.1"
+          },
+          {
+            "name": "胜胜",
+            "odds": "5.4"
+          }
+        ],
+        "updatedAt": "2026-07-24T17:58:08.000Z"
+      }
+    ]
+  },
+  "sync": {
+    "running": false,
+    "lastAt": "2026-07-26T04:08:10.271Z",
+    "lastCount": 19,
+    "intervalMs": 1800000
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "metrics": {
+    "from": "2026-01-01",
+    "to": "2026-07-26",
+    "generated_at": "2026-07-26T04:11:46.832Z",
+    "scoring": {
+      "brier": "mean multiclass squared error divided by 3; lower is better",
+      "log_loss": "negative natural log probability of realised 1X2 result; lower is better"
+    },
+    "overall": {
+      "count": 0,
+      "hit_count": 0,
+      "hit_rate": null,
+      "brier": null,
+      "log_loss": null,
+      "total_interval_count": 0,
+      "total_interval_hit_count": 0,
+      "total_interval_hit_rate": null,
+      "halftime_draw_count": 0,
+      "halftime_draw_hit_count": 0,
+      "halftime_draw_hit_rate": null,
+      "halftime_draw_brier": null
+    },
+    "by_status": {},
+    "by_league": {}
+  }
+}

@@ -2,125 +2,6 @@
   "code": 0,
   "data": [
     {
-      "scheduleId": 2908667,
-      "filterType": "jingcai",
-      "filterLabel": "竞彩",
-      "sclassId": 21,
-      "leagueName": "美职业",
-      "leagueColor": "#660033",
-      "homeTeam": "圣何塞地震",
-      "guestTeam": "洛杉矶银河",
-      "homeTeamId": 326,
-      "guestTeamId": 311,
-      "homeTeamLogo": "http://121.204.253.227:13003/Image/team/images/326/1gytydqn1g2z.png",
-      "guestTeamLogo": "http://121.204.253.227:13003/Image/team/images/311/1gshts0qkp29.png",
-      "matchTime": "10:40",
-      "matchTimeFull": "20260726104000",
-      "endSaleTimeText": "",
-      "endSaleTime": null,
-      "matchDateText": "",
-      "startTimeRaw": "20260726114348",
-      "matchState": 3,
-      "injuryTime": "",
-      "injuryLabel": "",
-      "stateText": "79'",
-      "liveMinute": "79'",
-      "stateLive": true,
-      "scoreText": "1-1",
-      "scoreLive": true,
-      "halfScore": "0-1",
-      "corners": "5-4",
-      "lotteryNo": "周六211",
-      "lotteryLabel": "周六211",
-      "hasVideo": true,
-      "liveUrl": "http://121.204.253.227:13002/api/score-football/live/stream.m3u8?schedule_id=2908667",
-      "dataSource": "upstream_sync",
-      "linkedFromBeidan": true,
-      "linkedFromBetBeidan": false,
-      "linkedFromBetJingcai": false,
-      "listSourceUsed": null,
-      "linkSourceUsed": null,
-      "association": {
-        "primaryKey": "scheduleId",
-        "scheduleId": 2908667,
-        "filterType": "jingcai",
-        "filterLabel": "竞彩",
-        "lotteryNo": "周六211",
-        "lotteryLabel": "周六211",
-        "beidanLotteryNo": "95",
-        "beidanLotteryLabel": "北单95",
-        "jingcaiLotteryNo": "周六211",
-        "jingcaiLotteryLabel": "竞彩周六211",
-        "zucaiLotteryNo": "2026095",
-        "zucaiLotteryLabel": "足彩2026095",
-        "sclassId": 21,
-        "homeTeamId": 326,
-        "guestTeamId": 311,
-        "dataSource": "upstream_sync",
-        "linkedFromBeidan": true,
-        "linkedFromBetBeidan": false,
-        "linkedFromBetJingcai": false,
-        "listSourceUsed": null,
-        "linkSourceUsed": null,
-        "resolveVia": null,
-        "intelligenceDataSource": "beidan",
-        "intelligenceFilterType": "beidan",
-        "listFilterType": "jingcai",
-        "note": "列表来自竞彩/足彩编号映射；比分由上游 sync；association 含 betMatchId 便于 JSON 跨查；情报用 schedule_id",
-        "apiExamples": {
-          "match": "/api/score-football/match?schedule_id=2908667&filter_type=jingcai",
-          "live": "/api/score-football/live?schedule_id=2908667",
-          "analysis": "/api/score-football/analysis?schedule_id=2908667",
-          "trend": "/api/score-football/trend?schedule_id=2908667",
-          "leagueInfo": "/api/score-football/league-info?sclass_id=21&tab=standings",
-          "betJingcaiList": "/api/matches/list",
-          "betBeidanList": "/api/beidan/list"
-        },
-        "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T04:16:15.000Z",
-        "matchesUpdatedAt": null,
-        "intelUpdatedAt": null,
-        "betMatchIdJingcai": null,
-        "betMatchIdBeidan": null,
-        "betApiExamples": {
-          "jingcaiDetail": null,
-          "beidanDetail": null,
-          "scoreMatch": "/api/score-football/match?schedule_id=2908667&filter_type=beidan",
-          "scoreLive": "/api/score-football/live?schedule_id=2908667"
-        }
-      },
-      "odds": {
-        "handicapLine": "0/0.5",
-        "homeHandicapOdds": 1.16,
-        "awayHandicapOdds": 0.73,
-        "ouLine": "2.5",
-        "overOdds": 1.05,
-        "underOdds": 0.8,
-        "homeTrend": 0,
-        "awayTrend": 0,
-        "overTrend": 0,
-        "underTrend": 0
-      },
-      "updatedAt": "2026-07-26T04:16:15.000Z",
-      "liveSources": [
-        {
-          "name": "线路1",
-          "url": "http://121.204.253.227:13002/api/score-football/live/stream.m3u8?schedule_id=2908667",
-          "embedUrl": "",
-          "remoteUrl": "http://121.204.253.227:8484/api/match-stream?competitionId=5288846&competitionType=SFC&index=0&kind=m3u8&sport=football",
-          "type": "m3u8",
-          "playMode": "hls",
-          "remoteSource": "qsdata",
-          "remoteId": "3192",
-          "sourceDb": "qsdata",
-          "playUrl": "http://121.204.253.227:13002/api/score-football/live/stream.m3u8?schedule_id=2908667"
-        }
-      ],
-      "livePlayMode": "hls",
-      "liveSourceCount": 1,
-      "livePlayUrl": "http://121.204.253.227:13002/api/score-football/live/stream.m3u8?schedule_id=2908667"
-    },
-    {
       "scheduleId": 2929674,
       "filterType": "jingcai",
       "filterLabel": "竞彩",
@@ -196,7 +77,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473201,
@@ -209,18 +90,18 @@
         }
       },
       "odds": {
-        "handicapLine": "0.5",
-        "homeHandicapOdds": 0.83,
-        "awayHandicapOdds": 1.05,
-        "ouLine": "2.5",
-        "overOdds": 0.87,
-        "underOdds": 1,
+        "handicapLine": "0.5/1",
+        "homeHandicapOdds": 0.98,
+        "awayHandicapOdds": 0.9,
+        "ouLine": "2.5/3",
+        "overOdds": 0.88,
+        "underOdds": 0.99,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2929673,
@@ -298,7 +179,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473202,
@@ -312,17 +193,17 @@
       },
       "odds": {
         "handicapLine": "0.5/1",
-        "homeHandicapOdds": 0.98,
-        "awayHandicapOdds": 0.9,
+        "homeHandicapOdds": 0.94,
+        "awayHandicapOdds": 0.94,
         "ouLine": "2",
-        "overOdds": 0.82,
-        "underOdds": 1.05,
+        "overOdds": 0.86,
+        "underOdds": 1.01,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2929672,
@@ -400,7 +281,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473203,
@@ -414,17 +295,17 @@
       },
       "odds": {
         "handicapLine": "-0.5",
-        "homeHandicapOdds": 0.92,
-        "awayHandicapOdds": 0.96,
+        "homeHandicapOdds": 0.91,
+        "awayHandicapOdds": 0.97,
         "ouLine": "2/2.5",
-        "overOdds": 1.09,
-        "underOdds": 0.78,
+        "overOdds": 1.04,
+        "underOdds": 0.83,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2929671,
@@ -502,7 +383,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473204,
@@ -516,17 +397,17 @@
       },
       "odds": {
         "handicapLine": "-0.5",
-        "homeHandicapOdds": 0.87,
-        "awayHandicapOdds": 1.01,
-        "ouLine": "2",
-        "overOdds": 0.8,
-        "underOdds": 1.07,
+        "homeHandicapOdds": 0.81,
+        "awayHandicapOdds": 1.07,
+        "ouLine": "2/2.5",
+        "overOdds": 1.04,
+        "underOdds": 0.83,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z",
+      "updatedAt": "2026-07-26T06:47:52.000Z",
       "liveSources": [
         {
           "name": "线路1",
@@ -621,7 +502,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473205,
@@ -635,17 +516,17 @@
       },
       "odds": {
         "handicapLine": "-1/1.5",
-        "homeHandicapOdds": 0.9,
-        "awayHandicapOdds": 0.98,
-        "ouLine": "3",
-        "overOdds": 0.84,
-        "underOdds": 1.03,
+        "homeHandicapOdds": 0.92,
+        "awayHandicapOdds": 0.96,
+        "ouLine": "3/3.5",
+        "overOdds": 0.99,
+        "underOdds": 0.88,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2912217,
@@ -723,7 +604,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473206,
@@ -737,17 +618,17 @@
       },
       "odds": {
         "handicapLine": "1/1.5",
-        "homeHandicapOdds": 0.95,
-        "awayHandicapOdds": 0.93,
+        "homeHandicapOdds": 0.91,
+        "awayHandicapOdds": 0.97,
         "ouLine": "3/3.5",
-        "overOdds": 0.92,
-        "underOdds": 0.95,
+        "overOdds": 0.85,
+        "underOdds": 1.02,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2913674,
@@ -825,7 +706,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473207,
@@ -839,17 +720,17 @@
       },
       "odds": {
         "handicapLine": "0.5/1",
-        "homeHandicapOdds": 1.01,
-        "awayHandicapOdds": 0.87,
-        "ouLine": "2.5",
-        "overOdds": 0.84,
-        "underOdds": 1.03,
+        "homeHandicapOdds": 1.07,
+        "awayHandicapOdds": 0.81,
+        "ouLine": "2.5/3",
+        "overOdds": 1.02,
+        "underOdds": 0.85,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2913673,
@@ -927,7 +808,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473208,
@@ -944,14 +825,14 @@
         "homeHandicapOdds": 1.05,
         "awayHandicapOdds": 0.83,
         "ouLine": "2.5/3",
-        "overOdds": 0.82,
-        "underOdds": 1.05,
+        "overOdds": 0.85,
+        "underOdds": 1.02,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2912844,
@@ -984,7 +865,7 @@
       "corners": "",
       "lotteryNo": "周日209",
       "lotteryLabel": "周日209",
-      "hasVideo": false,
+      "hasVideo": true,
       "liveUrl": "",
       "dataSource": "upstream_sync",
       "linkedFromBeidan": true,
@@ -1029,7 +910,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473209,
@@ -1043,8 +924,8 @@
       },
       "odds": {
         "handicapLine": "0.5/1",
-        "homeHandicapOdds": 0.96,
-        "awayHandicapOdds": 0.92,
+        "homeHandicapOdds": 0.88,
+        "awayHandicapOdds": 1,
         "ouLine": "3/3.5",
         "overOdds": 0.9,
         "underOdds": 0.97,
@@ -1053,7 +934,7 @@
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2913675,
@@ -1131,7 +1012,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473210,
@@ -1144,18 +1025,18 @@
         }
       },
       "odds": {
-        "handicapLine": "1",
-        "homeHandicapOdds": 0.85,
-        "awayHandicapOdds": 1.03,
-        "ouLine": "3",
-        "overOdds": 0.86,
-        "underOdds": 1.01,
+        "handicapLine": "1/1.5",
+        "homeHandicapOdds": 0.99,
+        "awayHandicapOdds": 0.89,
+        "ouLine": "3/3.5",
+        "overOdds": 1.04,
+        "underOdds": 0.83,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2912213,
@@ -1233,7 +1114,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473211,
@@ -1257,7 +1138,7 @@
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2912216,
@@ -1335,7 +1216,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473212,
@@ -1349,17 +1230,17 @@
       },
       "odds": {
         "handicapLine": "0.5",
-        "homeHandicapOdds": 0.91,
-        "awayHandicapOdds": 0.97,
+        "homeHandicapOdds": 0.96,
+        "awayHandicapOdds": 0.92,
         "ouLine": "2.5/3",
-        "overOdds": 0.91,
-        "underOdds": 0.96,
+        "overOdds": 0.83,
+        "underOdds": 1.04,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2912849,
@@ -1437,7 +1318,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473213,
@@ -1451,8 +1332,8 @@
       },
       "odds": {
         "handicapLine": "0.5/1",
-        "homeHandicapOdds": 0.93,
-        "awayHandicapOdds": 0.95,
+        "homeHandicapOdds": 0.92,
+        "awayHandicapOdds": 0.96,
         "ouLine": "3",
         "overOdds": 0.97,
         "underOdds": 0.9,
@@ -1461,7 +1342,7 @@
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2912845,
@@ -1539,7 +1420,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473214,
@@ -1553,8 +1434,8 @@
       },
       "odds": {
         "handicapLine": "-0/0.5",
-        "homeHandicapOdds": 0.94,
-        "awayHandicapOdds": 0.94,
+        "homeHandicapOdds": 0.92,
+        "awayHandicapOdds": 0.96,
         "ouLine": "2.5/3",
         "overOdds": 0.88,
         "underOdds": 0.99,
@@ -1563,7 +1444,7 @@
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2912848,
@@ -1641,7 +1522,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473215,
@@ -1655,17 +1536,17 @@
       },
       "odds": {
         "handicapLine": "-1.5",
-        "homeHandicapOdds": 0.96,
-        "awayHandicapOdds": 0.92,
+        "homeHandicapOdds": 0.98,
+        "awayHandicapOdds": 0.9,
         "ouLine": "3.5",
-        "overOdds": 1.04,
-        "underOdds": 0.83,
+        "overOdds": 0.92,
+        "underOdds": 0.95,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2912843,
@@ -1743,7 +1624,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473216,
@@ -1757,17 +1638,17 @@
       },
       "odds": {
         "handicapLine": "-1/1.5",
-        "homeHandicapOdds": 0.82,
-        "awayHandicapOdds": 1.06,
+        "homeHandicapOdds": 0.8,
+        "awayHandicapOdds": 1.08,
         "ouLine": "3/3.5",
-        "overOdds": 0.85,
-        "underOdds": 1.02,
+        "overOdds": 0.84,
+        "underOdds": 1.03,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2910821,
@@ -1845,7 +1726,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473217,
@@ -1859,8 +1740,8 @@
       },
       "odds": {
         "handicapLine": "1/1.5",
-        "homeHandicapOdds": 1.08,
-        "awayHandicapOdds": 0.8,
+        "homeHandicapOdds": 1.07,
+        "awayHandicapOdds": 0.81,
         "ouLine": "2.5",
         "overOdds": 0.91,
         "underOdds": 0.96,
@@ -1869,7 +1750,7 @@
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2910822,
@@ -1947,7 +1828,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5473218,
@@ -1971,7 +1852,7 @@
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z"
+      "updatedAt": "2026-07-26T06:47:52.000Z"
     },
     {
       "scheduleId": 2908664,
@@ -2023,8 +1904,8 @@
         "beidanLotteryLabel": "北单92",
         "jingcaiLotteryNo": "周六210",
         "jingcaiLotteryLabel": "竞彩周六210",
-        "zucaiLotteryNo": "2026095",
-        "zucaiLotteryLabel": "足彩2026095",
+        "zucaiLotteryNo": null,
+        "zucaiLotteryLabel": null,
         "sclassId": 21,
         "homeTeamId": 73015,
         "guestTeamId": 321,
@@ -2049,7 +1930,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-26T03:45:30.000Z",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": null,
@@ -2073,13 +1954,13 @@
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-26T03:45:30.000Z",
+      "updatedAt": "2026-07-26T06:47:52.000Z",
       "liveSources": [
         {
           "name": "线路1",
           "url": "http://121.204.253.227:13002/api/score-football/live/stream.m3u8?schedule_id=2908664",
           "embedUrl": "",
-          "remoteUrl": "http://121.204.253.227:8484/api/match-stream?competitionId=5288844&competitionType=SFC&index=0&kind=m3u8&sport=football",
+          "remoteUrl": "http://121.204.253.227:8484/api/match-stream?competitionId=5288849&competitionType=SFC&index=0&kind=m3u8&sport=football",
           "type": "m3u8",
           "playMode": "hls",
           "remoteSource": "qsdata",
@@ -2091,18 +1972,137 @@
       "livePlayMode": "hls",
       "liveSourceCount": 1,
       "livePlayUrl": "http://121.204.253.227:13002/api/score-football/live/stream.m3u8?schedule_id=2908664"
+    },
+    {
+      "scheduleId": 2908667,
+      "filterType": "jingcai",
+      "filterLabel": "竞彩",
+      "sclassId": 21,
+      "leagueName": "美职业",
+      "leagueColor": "#660033",
+      "homeTeam": "圣何塞地震",
+      "guestTeam": "洛杉矶银河",
+      "homeTeamId": 326,
+      "guestTeamId": 311,
+      "homeTeamLogo": "http://121.204.253.227:13003/Image/team/images/326/1gytydqn1g2z.png",
+      "guestTeamLogo": "http://121.204.253.227:13003/Image/team/images/311/1gshts0qkp29.png",
+      "matchTime": "10:40",
+      "matchTimeFull": "20260726104000",
+      "endSaleTimeText": "",
+      "endSaleTime": null,
+      "matchDateText": "",
+      "startTimeRaw": "20260726104000",
+      "matchState": -1,
+      "injuryTime": "",
+      "injuryLabel": "",
+      "stateText": "完",
+      "liveMinute": "",
+      "stateLive": false,
+      "scoreText": "1-1",
+      "scoreLive": false,
+      "halfScore": "0-1",
+      "corners": "6-6",
+      "lotteryNo": "周六211",
+      "lotteryLabel": "周六211",
+      "hasVideo": true,
+      "liveUrl": "http://121.204.253.227:13002/api/score-football/live/stream.m3u8?schedule_id=2908667",
+      "dataSource": "upstream_sync",
+      "linkedFromBeidan": true,
+      "linkedFromBetBeidan": false,
+      "linkedFromBetJingcai": false,
+      "listSourceUsed": null,
+      "linkSourceUsed": null,
+      "association": {
+        "primaryKey": "scheduleId",
+        "scheduleId": 2908667,
+        "filterType": "jingcai",
+        "filterLabel": "竞彩",
+        "lotteryNo": "周六211",
+        "lotteryLabel": "周六211",
+        "beidanLotteryNo": "95",
+        "beidanLotteryLabel": "北单95",
+        "jingcaiLotteryNo": "周六211",
+        "jingcaiLotteryLabel": "竞彩周六211",
+        "zucaiLotteryNo": null,
+        "zucaiLotteryLabel": null,
+        "sclassId": 21,
+        "homeTeamId": 326,
+        "guestTeamId": 311,
+        "dataSource": "upstream_sync",
+        "linkedFromBeidan": true,
+        "linkedFromBetBeidan": false,
+        "linkedFromBetJingcai": false,
+        "listSourceUsed": null,
+        "linkSourceUsed": null,
+        "resolveVia": null,
+        "intelligenceDataSource": "beidan",
+        "intelligenceFilterType": "beidan",
+        "listFilterType": "jingcai",
+        "note": "列表来自竞彩/足彩编号映射；比分由上游 sync；association 含 betMatchId 便于 JSON 跨查；情报用 schedule_id",
+        "apiExamples": {
+          "match": "/api/score-football/match?schedule_id=2908667&filter_type=jingcai",
+          "live": "/api/score-football/live?schedule_id=2908667",
+          "analysis": "/api/score-football/analysis?schedule_id=2908667",
+          "trend": "/api/score-football/trend?schedule_id=2908667",
+          "leagueInfo": "/api/score-football/league-info?sclass_id=21&tab=standings",
+          "betJingcaiList": "/api/matches/list",
+          "betBeidanList": "/api/beidan/list"
+        },
+        "scoreSourceUsed": "schedule",
+        "scoreUpdatedAt": "2026-07-26T06:47:52.000Z",
+        "matchesUpdatedAt": null,
+        "intelUpdatedAt": null,
+        "betMatchIdJingcai": null,
+        "betMatchIdBeidan": null,
+        "betApiExamples": {
+          "jingcaiDetail": null,
+          "beidanDetail": null,
+          "scoreMatch": "/api/score-football/match?schedule_id=2908667&filter_type=beidan",
+          "scoreLive": "/api/score-football/live?schedule_id=2908667"
+        }
+      },
+      "odds": {
+        "handicapLine": "0.5/1",
+        "homeHandicapOdds": 1.04,
+        "awayHandicapOdds": 0.84,
+        "ouLine": "3/3.5",
+        "overOdds": 0.88,
+        "underOdds": 0.99,
+        "homeTrend": 0,
+        "awayTrend": 0,
+        "overTrend": 0,
+        "underTrend": 0
+      },
+      "updatedAt": "2026-07-26T06:47:52.000Z",
+      "liveSources": [
+        {
+          "name": "线路1",
+          "url": "http://121.204.253.227:13002/api/score-football/live/stream.m3u8?schedule_id=2908667",
+          "embedUrl": "",
+          "remoteUrl": "http://121.204.253.227:8484/api/match-stream?competitionId=5288846&competitionType=SFC&index=0&kind=m3u8&sport=football",
+          "type": "m3u8",
+          "playMode": "hls",
+          "remoteSource": "qsdata",
+          "remoteId": "3192",
+          "sourceDb": "qsdata",
+          "playUrl": "http://121.204.253.227:13002/api/score-football/live/stream.m3u8?schedule_id=2908667"
+        }
+      ],
+      "livePlayMode": "hls",
+      "liveSourceCount": 1,
+      "livePlayUrl": "http://121.204.253.227:13002/api/score-football/live/stream.m3u8?schedule_id=2908667"
     }
   ],
   "sync": {
     "running": false,
     "runningSince": null,
-    "lastAt": "2026-07-26T04:16:54.432Z",
-    "lastCount": 112,
+    "lastAt": "2026-07-26T07:39:29.846Z",
+    "lastCount": 107,
     "timeDiff": -32,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000,
-    "gatewayWaitMs": 18907,
-    "gatewayAttempts": 7
+    "gatewayWaitMs": 11684,
+    "gatewayAttempts": 3
   },
   "filter": "jingcai",
   "dataSource": "beidan",

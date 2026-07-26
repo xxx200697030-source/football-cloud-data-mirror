@@ -22213,10 +22213,10 @@
     }
   },
   "sync": {
-    "running": true,
-    "runningSince": "2026-07-26T04:17:06.523Z",
-    "lastAt": "2026-07-26T04:17:04.950Z",
-    "lastCount": 112,
+    "running": false,
+    "runningSince": null,
+    "lastAt": "2026-07-26T07:39:38.425Z",
+    "lastCount": 107,
     "timeDiff": -32,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000

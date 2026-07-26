@@ -5,6 +5,40 @@
     "groupTitle": "07月26日 星期日",
     "matches": [
       {
+        "scheduleId": 2908667,
+        "matchDateCode": 20260725,
+        "groupTitle": "07月26日 星期日",
+        "matchNo": "周六211",
+        "leagueName": "美职业",
+        "homeTeam": "圣何塞地震",
+        "guestTeam": "洛杉矶银河",
+        "scoreText": "1-1",
+        "halfScoreText": "0-1",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "1.95"
+          },
+          {
+            "name": "平",
+            "odds": "4.05"
+          },
+          {
+            "name": "1:1",
+            "odds": "7.75"
+          },
+          {
+            "name": "2球",
+            "odds": "4.7"
+          },
+          {
+            "name": "负平",
+            "odds": "14"
+          }
+        ],
+        "updatedAt": "2026-07-26T04:43:08.000Z"
+      },
+      {
         "scheduleId": 2908664,
         "matchDateCode": 20260725,
         "groupTitle": "07月26日 星期日",
@@ -348,8 +382,8 @@
   },
   "sync": {
     "running": false,
-    "lastAt": "2026-07-26T04:13:10.301Z",
-    "lastCount": 19,
+    "lastAt": "2026-07-26T07:38:10.388Z",
+    "lastCount": 20,
     "intervalMs": 1800000
   }
 }

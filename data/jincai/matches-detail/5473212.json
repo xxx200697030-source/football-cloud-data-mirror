@@ -29,40 +29,9 @@
           {
             "idx": 0,
             "label": "胜",
-            "odds": 1.77,
+            "odds": 1.74,
             "isSingle": false,
-            "prevOdds": 1.77,
-            "oddsTrend": 0
-          },
-          {
-            "idx": 1,
-            "label": "平",
-            "odds": 3.6,
-            "isSingle": false,
-            "prevOdds": 3.6,
-            "oddsTrend": 0
-          },
-          {
-            "idx": 2,
-            "label": "负",
-            "odds": 3.5,
-            "isSingle": false,
-            "prevOdds": 3.5,
-            "oddsTrend": 0
-          }
-        ]
-      },
-      {
-        "playType": 1,
-        "playName": "让球",
-        "isSingle": false,
-        "options": [
-          {
-            "idx": 0,
-            "label": "胜",
-            "odds": 3.25,
-            "isSingle": false,
-            "prevOdds": 3.25,
+            "prevOdds": 1.74,
             "oddsTrend": 0
           },
           {
@@ -76,9 +45,40 @@
           {
             "idx": 2,
             "label": "负",
-            "odds": 1.83,
+            "odds": 3.56,
             "isSingle": false,
-            "prevOdds": 1.83,
+            "prevOdds": 3.56,
+            "oddsTrend": 0
+          }
+        ]
+      },
+      {
+        "playType": 1,
+        "playName": "让球",
+        "isSingle": false,
+        "options": [
+          {
+            "idx": 0,
+            "label": "胜",
+            "odds": 3.18,
+            "isSingle": false,
+            "prevOdds": 3.18,
+            "oddsTrend": 0
+          },
+          {
+            "idx": 1,
+            "label": "平",
+            "odds": 3.6,
+            "isSingle": false,
+            "prevOdds": 3.6,
+            "oddsTrend": 0
+          },
+          {
+            "idx": 2,
+            "label": "负",
+            "odds": 1.86,
+            "isSingle": false,
+            "prevOdds": 1.86,
             "oddsTrend": 0
           }
         ]
@@ -354,33 +354,33 @@
           {
             "idx": 1,
             "label": "1",
-            "odds": 5.75,
+            "odds": 6.1,
             "isSingle": true,
-            "prevOdds": 5.75,
+            "prevOdds": 6.1,
             "oddsTrend": 0
           },
           {
             "idx": 2,
             "label": "2",
-            "odds": 3.8,
+            "odds": 3.9,
             "isSingle": true,
-            "prevOdds": 3.8,
+            "prevOdds": 3.9,
             "oddsTrend": 0
           },
           {
             "idx": 3,
             "label": "3",
-            "odds": 3.5,
+            "odds": 3.4,
             "isSingle": true,
-            "prevOdds": 3.5,
+            "prevOdds": 3.4,
             "oddsTrend": 0
           },
           {
             "idx": 4,
             "label": "4",
-            "odds": 4.75,
+            "odds": 4.6,
             "isSingle": true,
-            "prevOdds": 4.75,
+            "prevOdds": 4.6,
             "oddsTrend": 0
           },
           {

@@ -68,17 +68,17 @@
           {
             "idx": 1,
             "label": "平",
-            "odds": 3.8,
+            "odds": 3.91,
             "isSingle": false,
-            "prevOdds": 3.8,
+            "prevOdds": 3.91,
             "oddsTrend": 0
           },
           {
             "idx": 2,
             "label": "负",
-            "odds": 1.58,
+            "odds": 1.56,
             "isSingle": false,
-            "prevOdds": 1.58,
+            "prevOdds": 1.56,
             "oddsTrend": 0
           }
         ]

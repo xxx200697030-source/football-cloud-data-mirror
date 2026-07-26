@@ -29,9 +29,9 @@
           {
             "idx": 0,
             "label": "胜",
-            "odds": 1.77,
+            "odds": 1.75,
             "isSingle": true,
-            "prevOdds": 1.77,
+            "prevOdds": 1.75,
             "oddsTrend": 0
           },
           {
@@ -45,9 +45,9 @@
           {
             "idx": 2,
             "label": "负",
-            "odds": 3.36,
+            "odds": 3.43,
             "isSingle": false,
-            "prevOdds": 3.36,
+            "prevOdds": 3.43,
             "oddsTrend": 0
           }
         ]

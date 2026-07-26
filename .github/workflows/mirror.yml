@@ -1,0 +1,167 @@
+name: Refresh football data mirror
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "45 1,3,5,7,8,9,11,13,15 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: football-data-mirror
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch public read-only football data
+        shell: bash
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          const base = 'https://web.jingcai6.cn/api/cloud-football';
+          const root = 'data';
+          const results = [];
+          const requiredFailures = [];
+          fs.rmSync(root, { recursive: true, force: true });
+          fs.mkdirSync(root, { recursive: true });
+
+          function writeJson(file, value) {
+            const target = path.join(root, file);
+            fs.mkdirSync(path.dirname(target), { recursive: true });
+            fs.writeFileSync(target, JSON.stringify(value, null, 2) + '
+');
+          }
+
+          async function fetchJson(relativeUrl, file, required = false) {
+            const startedAt = new Date().toISOString();
+            try {
+              const response = await fetch(base + relativeUrl, {
+                headers: { 'user-agent': 'football-cloud-data-mirror/1.0' },
+                signal: AbortSignal.timeout(90000)
+              });
+              const text = await response.text();
+              let body;
+              try { body = JSON.parse(text); }
+              catch { body = { parse_error: true, raw_preview: text.slice(0, 1000) }; }
+              writeJson(file, body);
+              results.push({ relativeUrl, file, ok: response.ok, status: response.status, fetchedAt: startedAt, bytes: Buffer.byteLength(text) });
+              if (required && !response.ok) requiredFailures.push(relativeUrl + ' HTTP ' + response.status);
+              return response.ok ? body : null;
+            } catch (error) {
+              const failure = { ok: false, error: String(error), fetchedAt: startedAt, relativeUrl };
+              writeJson(file, failure);
+              results.push({ relativeUrl, file, ok: false, status: null, fetchedAt: startedAt, error: String(error) });
+              if (required) requiredFailures.push(relativeUrl + ' ' + String(error));
+              return null;
+            }
+          }
+
+          function beijingDate(offsetDays = 0, compact = false) {
+            const shifted = new Date(Date.now() + 8 * 3600000 + offsetDays * 86400000);
+            const y = shifted.getUTCFullYear();
+            const m = String(shifted.getUTCMonth() + 1).padStart(2, '0');
+            const d = String(shifted.getUTCDate()).padStart(2, '0');
+            return compact ? y + m + d : y + '-' + m + '-' + d;
+          }
+
+          function collectIds(value, matchIds, scheduleIds) {
+            if (Array.isArray(value)) {
+              for (const item of value) collectIds(item, matchIds, scheduleIds);
+              return;
+            }
+            if (!value || typeof value !== 'object') return;
+            for (const [key, item] of Object.entries(value)) {
+              if ((key === 'matchId' || key === 'match_id') && (typeof item === 'string' || typeof item === 'number')) matchIds.add(String(item));
+              if ((key === 'scheduleId' || key === 'schedule_id') && (typeof item === 'string' || typeof item === 'number')) scheduleIds.add(String(item));
+              collectIds(item, matchIds, scheduleIds);
+            }
+          }
+
+          async function pooled(items, concurrency, worker) {
+            let cursor = 0;
+            async function run() {
+              while (cursor < items.length) {
+                const index = cursor++;
+                await worker(items[index]);
+              }
+            }
+            await Promise.all(Array.from({ length: Math.min(concurrency, items.length) }, run));
+          }
+
+          (async () => {
+            await fetchJson('/jincai/health', 'jincai/health.json', true);
+            await fetchJson('/ledger/health', 'ledger/health.json', true);
+            const matches = await fetchJson('/jincai/matches/list?full=1&fresh=1', 'jincai/matches-list.json', true);
+            await fetchJson('/jincai/score-football/list?filter=jingcai&fresh=1', 'jincai/score-football-list.json', true);
+            await fetchJson('/jincai/draw-football/dates', 'jincai/draw-football-dates.json', false);
+
+            for (const offset of [-2, -1, 0]) {
+              const compact = beijingDate(offset, true);
+              await fetchJson('/jincai/draw-football/list?date=' + compact, 'jincai/draw-football/' + compact + '.json', false);
+            }
+
+            for (const offset of [-1, 0]) {
+              const date = beijingDate(offset, false);
+              await fetchJson('/ledger/summary?date=' + date, 'ledger/summary/' + date + '.json', false);
+            }
+
+            const today = beijingDate(0, false);
+            const from30 = beijingDate(-30, false);
+            const yearStart = today.slice(0, 4) + '-01-01';
+            await fetchJson('/ledger/metrics?from=' + from30 + '&to=' + today, 'ledger/metrics/last-30-days.json', false);
+            await fetchJson('/ledger/metrics?from=' + yearStart + '&to=' + today, 'ledger/metrics/current-year.json', false);
+
+            const matchIds = new Set();
+            const scheduleIds = new Set();
+            collectIds(matches, matchIds, scheduleIds);
+            const safeMatchIds = [...matchIds].filter(x => /^[A-Za-z0-9_-]+$/.test(x)).slice(0, 100);
+            const safeScheduleIds = [...scheduleIds].filter(x => /^[A-Za-z0-9_-]+$/.test(x)).slice(0, 100);
+
+            await pooled(safeMatchIds, 4, async id => {
+              await fetchJson('/jincai/matches/detail/' + encodeURIComponent(id), 'jincai/matches-detail/' + id + '.json', false);
+            });
+            await pooled(safeScheduleIds, 4, async id => {
+              await fetchJson('/jincai/score-football/analysis?schedule_id=' + encodeURIComponent(id), 'jincai/analysis/' + id + '.json', false);
+              await fetchJson('/jincai/score-football/trend?schedule_id=' + encodeURIComponent(id), 'jincai/trend/' + id + '.json', false);
+            });
+
+            const status = {
+              ok: requiredFailures.length === 0,
+              service: 'football-cloud-data-mirror',
+              generatedAt: new Date().toISOString(),
+              timezone: 'Asia/Shanghai',
+              beijingDate: today,
+              sourceBase: base,
+              matchIdCount: safeMatchIds.length,
+              scheduleIdCount: safeScheduleIds.length,
+              requiredFailures,
+              requests: results
+            };
+            writeJson('mirror-status.json', status);
+            if (requiredFailures.length) process.exitCode = 1;
+          })().catch(error => {
+            writeJson('mirror-status.json', { ok: false, generatedAt: new Date().toISOString(), fatal: String(error) });
+            process.exitCode = 1;
+          });
+          NODE
+
+      - name: Publish refreshed JSON
+        if: success()
+        shell: bash
+        run: |
+          git config user.name "football-data-mirror[bot]"
+          git config user.email "football-data-mirror@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No mirror changes"
+          else
+            git commit -m "data: refresh football mirror"
+            git push
+          fi

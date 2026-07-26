@@ -35,8 +35,7 @@ jobs:
           function writeJson(file, value) {
             const target = path.join(root, file);
             fs.mkdirSync(path.dirname(target), { recursive: true });
-            fs.writeFileSync(target, JSON.stringify(value, null, 2) + '
-');
+            fs.writeFileSync(target, JSON.stringify(value, null, 2));
           }
 
           async function fetchJson(relativeUrl, file, required = false) {

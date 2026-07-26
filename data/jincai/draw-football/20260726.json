@@ -5,6 +5,40 @@
     "groupTitle": "07月26日 星期日",
     "matches": [
       {
+        "scheduleId": 2912844,
+        "matchDateCode": 20260726,
+        "groupTitle": "07月26日 星期日",
+        "matchNo": "周日209",
+        "leagueName": "挪超",
+        "homeTeam": "布兰",
+        "guestTeam": "瓦勒伦加",
+        "scoreText": "2-3",
+        "halfScoreText": "0-3",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "2.15"
+          },
+          {
+            "name": "负",
+            "odds": "4.2"
+          },
+          {
+            "name": "2:3",
+            "odds": "26"
+          },
+          {
+            "name": "5球",
+            "odds": "5.5"
+          },
+          {
+            "name": "负负",
+            "odds": "7.5"
+          }
+        ],
+        "updatedAt": "2026-07-26T14:33:10.000Z"
+      },
+      {
         "scheduleId": 2913673,
         "matchDateCode": 20260726,
         "groupTitle": "07月26日 星期日",
@@ -280,8 +314,8 @@
   },
   "sync": {
     "running": false,
-    "lastAt": "2026-07-26T14:08:10.709Z",
-    "lastCount": 21,
+    "lastAt": "2026-07-26T15:43:10.762Z",
+    "lastCount": 22,
     "intervalMs": 1800000
   }
 }

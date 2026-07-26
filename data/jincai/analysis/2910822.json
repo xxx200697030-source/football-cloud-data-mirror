@@ -28429,10 +28429,10 @@
   },
   "sync": {
     "running": true,
-    "runningSince": "2026-07-26T09:37:34.783Z",
-    "lastAt": "2026-07-26T09:37:34.255Z",
+    "runningSince": "2026-07-26T11:47:06.950Z",
+    "lastAt": "2026-07-26T11:46:59.902Z",
     "lastCount": 107,
-    "timeDiff": -32,
+    "timeDiff": -33,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000
   },

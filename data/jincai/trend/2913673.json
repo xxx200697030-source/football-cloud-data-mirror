@@ -1204,11 +1204,11 @@
     "scheduleId": 2913673
   },
   "sync": {
-    "running": true,
-    "runningSince": "2026-07-26T09:37:34.783Z",
-    "lastAt": "2026-07-26T09:37:34.255Z",
+    "running": false,
+    "runningSince": null,
+    "lastAt": "2026-07-26T11:46:59.902Z",
     "lastCount": 107,
-    "timeDiff": -32,
+    "timeDiff": -33,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000
   },

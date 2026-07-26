@@ -29,25 +29,25 @@
           {
             "idx": 0,
             "label": "胜",
-            "odds": 1.74,
+            "odds": 1.7,
             "isSingle": false,
-            "prevOdds": 1.74,
+            "prevOdds": 1.7,
             "oddsTrend": 0
           },
           {
             "idx": 1,
             "label": "平",
-            "odds": 3.65,
+            "odds": 3.7,
             "isSingle": false,
-            "prevOdds": 3.65,
+            "prevOdds": 3.7,
             "oddsTrend": 0
           },
           {
             "idx": 2,
             "label": "负",
-            "odds": 3.56,
+            "odds": 3.7,
             "isSingle": false,
-            "prevOdds": 3.56,
+            "prevOdds": 3.7,
             "oddsTrend": 0
           }
         ]
@@ -60,25 +60,25 @@
           {
             "idx": 0,
             "label": "胜",
-            "odds": 3.18,
+            "odds": 3.14,
             "isSingle": false,
-            "prevOdds": 3.18,
+            "prevOdds": 3.14,
             "oddsTrend": 0
           },
           {
             "idx": 1,
             "label": "平",
-            "odds": 3.6,
+            "odds": 3.55,
             "isSingle": false,
-            "prevOdds": 3.6,
+            "prevOdds": 3.55,
             "oddsTrend": 0
           },
           {
             "idx": 2,
             "label": "负",
-            "odds": 1.86,
+            "odds": 1.89,
             "isSingle": false,
-            "prevOdds": 1.86,
+            "prevOdds": 1.89,
             "oddsTrend": 0
           }
         ]
@@ -441,9 +441,9 @@
           {
             "idx": 3,
             "label": "平胜",
-            "odds": 4.65,
+            "odds": 4.45,
             "isSingle": true,
-            "prevOdds": 4.65,
+            "prevOdds": 4.45,
             "oddsTrend": 0
           },
           {
@@ -457,9 +457,9 @@
           {
             "idx": 5,
             "label": "平负",
-            "odds": 8.5,
+            "odds": 8.7,
             "isSingle": true,
-            "prevOdds": 8.5,
+            "prevOdds": 8.7,
             "oddsTrend": 0
           },
           {
@@ -481,9 +481,9 @@
           {
             "idx": 8,
             "label": "负负",
-            "odds": 6,
+            "odds": 6.25,
             "isSingle": true,
-            "prevOdds": 6,
+            "prevOdds": 6.25,
             "oddsTrend": 0
           }
         ]

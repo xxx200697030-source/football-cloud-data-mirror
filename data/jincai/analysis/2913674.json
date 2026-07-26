@@ -20493,11 +20493,11 @@
     }
   },
   "sync": {
-    "running": false,
-    "runningSince": null,
-    "lastAt": "2026-07-26T07:39:38.425Z",
+    "running": true,
+    "runningSince": "2026-07-26T09:37:06.823Z",
+    "lastAt": "2026-07-26T09:37:03.945Z",
     "lastCount": 107,
-    "timeDiff": -32,
+    "timeDiff": -33,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000
   },

@@ -60,17 +60,17 @@
           {
             "idx": 0,
             "label": "胜",
-            "odds": 2.15,
+            "odds": 2.2,
             "isSingle": false,
-            "prevOdds": 2.15,
+            "prevOdds": 2.2,
             "oddsTrend": 0
           },
           {
             "idx": 1,
             "label": "平",
-            "odds": 3.35,
+            "odds": 3.24,
             "isSingle": false,
-            "prevOdds": 3.35,
+            "prevOdds": 3.24,
             "oddsTrend": 0
           },
           {
@@ -362,49 +362,49 @@
           {
             "idx": 2,
             "label": "2",
-            "odds": 3.5,
+            "odds": 3.3,
             "isSingle": true,
-            "prevOdds": 3.5,
+            "prevOdds": 3.3,
             "oddsTrend": 0
           },
           {
             "idx": 3,
             "label": "3",
-            "odds": 3.35,
+            "odds": 3.3,
             "isSingle": true,
-            "prevOdds": 3.35,
+            "prevOdds": 3.3,
             "oddsTrend": 0
           },
           {
             "idx": 4,
             "label": "4",
-            "odds": 5.2,
+            "odds": 5.4,
             "isSingle": true,
-            "prevOdds": 5.2,
+            "prevOdds": 5.4,
             "oddsTrend": 0
           },
           {
             "idx": 5,
             "label": "5",
-            "odds": 9.5,
+            "odds": 10,
             "isSingle": true,
-            "prevOdds": 9.5,
+            "prevOdds": 10,
             "oddsTrend": 0
           },
           {
             "idx": 6,
             "label": "6",
-            "odds": 18,
+            "odds": 20,
             "isSingle": true,
-            "prevOdds": 18,
+            "prevOdds": 20,
             "oddsTrend": 0
           },
           {
             "idx": 7,
             "label": "7+",
-            "odds": 28,
+            "odds": 31,
             "isSingle": true,
-            "prevOdds": 28,
+            "prevOdds": 31,
             "oddsTrend": 0
           }
         ]

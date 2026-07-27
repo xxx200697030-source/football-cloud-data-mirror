@@ -20167,11 +20167,11 @@
     }
   },
   "sync": {
-    "running": false,
-    "runningSince": null,
-    "lastAt": "2026-07-27T08:05:40.260Z",
+    "running": true,
+    "runningSince": "2026-07-27T11:56:33.676Z",
+    "lastAt": "2026-07-27T11:56:32.117Z",
     "lastCount": 19,
-    "timeDiff": -33,
+    "timeDiff": -34,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000
   },

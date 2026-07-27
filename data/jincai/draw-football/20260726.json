@@ -2,8 +2,314 @@
   "code": 0,
   "data": {
     "dateCode": 20260726,
-    "groupTitle": "07月26日 星期日",
+    "groupTitle": "07月27日 星期一",
     "matches": [
+      {
+        "scheduleId": 2910822,
+        "matchDateCode": 20260726,
+        "groupTitle": "07月27日 星期一",
+        "matchNo": "周日218",
+        "leagueName": "巴西甲",
+        "homeTeam": "格雷米奥",
+        "guestTeam": "弗鲁米嫩塞",
+        "scoreText": "1-1",
+        "halfScoreText": "0-0",
+        "details": [
+          {
+            "name": "胜（+1）",
+            "odds": "1.45"
+          },
+          {
+            "name": "平",
+            "odds": "2.87"
+          },
+          {
+            "name": "1:1",
+            "odds": "5.6"
+          },
+          {
+            "name": "2球",
+            "odds": "2.9"
+          },
+          {
+            "name": "平平",
+            "odds": "3.95"
+          }
+        ],
+        "updatedAt": "2026-07-26T23:33:10.000Z"
+      },
+      {
+        "scheduleId": 2910821,
+        "matchDateCode": 20260726,
+        "groupTitle": "07月27日 星期一",
+        "matchNo": "周日217",
+        "leagueName": "巴西甲",
+        "homeTeam": "弗拉门戈",
+        "guestTeam": "圣保罗",
+        "scoreText": "1-1",
+        "halfScoreText": "0-0",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "2.78"
+          },
+          {
+            "name": "平",
+            "odds": "4.4"
+          },
+          {
+            "name": "1:1",
+            "odds": "7.75"
+          },
+          {
+            "name": "2球",
+            "odds": "3.2"
+          },
+          {
+            "name": "平平",
+            "odds": "7"
+          }
+        ],
+        "updatedAt": "2026-07-26T23:38:10.000Z"
+      },
+      {
+        "scheduleId": 2912843,
+        "matchDateCode": 20260726,
+        "groupTitle": "07月27日 星期一",
+        "matchNo": "周日216",
+        "leagueName": "挪超",
+        "homeTeam": "奥勒松",
+        "guestTeam": "维京",
+        "scoreText": "1-1",
+        "halfScoreText": "0-1",
+        "details": [
+          {
+            "name": "胜（+1）",
+            "odds": "2.69"
+          },
+          {
+            "name": "平",
+            "odds": "4.9"
+          },
+          {
+            "name": "1:1",
+            "odds": "9.5"
+          },
+          {
+            "name": "2球",
+            "odds": "4.9"
+          },
+          {
+            "name": "负平",
+            "odds": "17"
+          }
+        ],
+        "updatedAt": "2026-07-26T19:08:10.000Z"
+      },
+      {
+        "scheduleId": 2912848,
+        "matchDateCode": 20260726,
+        "groupTitle": "07月26日 星期日",
+        "matchNo": "周日215",
+        "leagueName": "挪超",
+        "homeTeam": "桑德菲杰",
+        "guestTeam": "博德闪耀",
+        "scoreText": "0-3",
+        "halfScoreText": "0-1",
+        "details": [
+          {
+            "name": "负（+1）",
+            "odds": "1.65"
+          },
+          {
+            "name": "负",
+            "odds": "1.19"
+          },
+          {
+            "name": "0:3",
+            "odds": "8.4"
+          },
+          {
+            "name": "3球",
+            "odds": "3.45"
+          },
+          {
+            "name": "负负",
+            "odds": "1.62"
+          }
+        ],
+        "updatedAt": "2026-07-26T16:53:10.000Z"
+      },
+      {
+        "scheduleId": 2912845,
+        "matchDateCode": 20260726,
+        "groupTitle": "07月26日 星期日",
+        "matchNo": "周日214",
+        "leagueName": "挪超",
+        "homeTeam": "KFUM奥斯陆",
+        "guestTeam": "莫尔德",
+        "scoreText": "2-4",
+        "halfScoreText": "1-1",
+        "details": [
+          {
+            "name": "负（+1）",
+            "odds": "3.8"
+          },
+          {
+            "name": "负",
+            "odds": "1.96"
+          },
+          {
+            "name": "2:4",
+            "odds": "50"
+          },
+          {
+            "name": "6球",
+            "odds": "14.5"
+          },
+          {
+            "name": "平负",
+            "odds": "4.75"
+          }
+        ],
+        "updatedAt": "2026-07-26T17:03:10.000Z"
+      },
+      {
+        "scheduleId": 2912849,
+        "matchDateCode": 20260726,
+        "groupTitle": "07月26日 星期日",
+        "matchNo": "周日213",
+        "leagueName": "挪超",
+        "homeTeam": "萨普斯堡",
+        "guestTeam": "汉坎",
+        "scoreText": "1-0",
+        "halfScoreText": "1-0",
+        "details": [
+          {
+            "name": "平（-1）",
+            "odds": "3.2"
+          },
+          {
+            "name": "胜",
+            "odds": "1.47"
+          },
+          {
+            "name": "1:0",
+            "odds": "9.5"
+          },
+          {
+            "name": "1球",
+            "odds": "6.8"
+          },
+          {
+            "name": "胜胜",
+            "odds": "2.12"
+          }
+        ],
+        "updatedAt": "2026-07-26T16:58:10.000Z"
+      },
+      {
+        "scheduleId": 2912216,
+        "matchDateCode": 20260726,
+        "groupTitle": "07月26日 星期日",
+        "matchNo": "周日212",
+        "leagueName": "瑞典超",
+        "homeTeam": "马尔默",
+        "guestTeam": "埃尔夫斯堡",
+        "scoreText": "1-2",
+        "halfScoreText": "1-2",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "1.74"
+          },
+          {
+            "name": "负",
+            "odds": "3.34"
+          },
+          {
+            "name": "1:2",
+            "odds": "10.5"
+          },
+          {
+            "name": "3球",
+            "odds": "3.3"
+          },
+          {
+            "name": "负负",
+            "odds": "6.2"
+          }
+        ],
+        "updatedAt": "2026-07-26T16:28:10.000Z"
+      },
+      {
+        "scheduleId": 2912213,
+        "matchDateCode": 20260726,
+        "groupTitle": "07月26日 星期日",
+        "matchNo": "周日211",
+        "leagueName": "瑞典超",
+        "homeTeam": "盖斯",
+        "guestTeam": "哈尔姆斯达斯",
+        "scoreText": "1-1",
+        "halfScoreText": "0-0",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "2.65"
+          },
+          {
+            "name": "平",
+            "odds": "4.5"
+          },
+          {
+            "name": "1:1",
+            "odds": "8"
+          },
+          {
+            "name": "2球",
+            "odds": "4"
+          },
+          {
+            "name": "平平",
+            "odds": "7"
+          }
+        ],
+        "updatedAt": "2026-07-26T16:23:10.000Z"
+      },
+      {
+        "scheduleId": 2913675,
+        "matchDateCode": 20260726,
+        "groupTitle": "07月26日 星期日",
+        "matchNo": "周日210",
+        "leagueName": "芬超",
+        "homeTeam": "赫尔辛基",
+        "guestTeam": "TPS图尔库",
+        "scoreText": "1-0",
+        "halfScoreText": "1-0",
+        "details": [
+          {
+            "name": "平（-1）",
+            "odds": "3.75"
+          },
+          {
+            "name": "胜",
+            "odds": "1.24"
+          },
+          {
+            "name": "1:0",
+            "odds": "9.25"
+          },
+          {
+            "name": "1球",
+            "odds": "8.5"
+          },
+          {
+            "name": "胜胜",
+            "odds": "1.74"
+          }
+        ],
+        "updatedAt": "2026-07-26T15:53:10.000Z"
+      },
       {
         "scheduleId": 2912844,
         "matchDateCode": 20260726,
@@ -314,8 +620,8 @@
   },
   "sync": {
     "running": false,
-    "lastAt": "2026-07-26T15:43:10.762Z",
-    "lastCount": 22,
+    "lastAt": "2026-07-27T04:23:11.094Z",
+    "lastCount": 31,
     "intervalMs": 1800000
   }
 }

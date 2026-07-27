@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "data": {
+    "dateCode": 20260727,
+    "groupTitle": null,
+    "matches": []
+  },
+  "sync": {
+    "running": false,
+    "lastAt": "2026-07-27T04:23:11.094Z",
+    "lastCount": 31,
+    "intervalMs": 1800000
+  }
+}

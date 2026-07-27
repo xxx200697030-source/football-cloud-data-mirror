@@ -20169,7 +20169,7 @@
   "sync": {
     "running": false,
     "runningSince": null,
-    "lastAt": "2026-07-27T04:25:33.868Z",
+    "lastAt": "2026-07-27T08:05:40.260Z",
     "lastCount": 19,
     "timeDiff": -33,
     "intervalMs": 3600000,

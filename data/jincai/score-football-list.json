@@ -77,7 +77,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-27T03:57:23.000Z",
+        "scoreUpdatedAt": "2026-07-27T07:43:44.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5474201,
@@ -91,17 +91,17 @@
       },
       "odds": {
         "handicapLine": "0.5",
-        "homeHandicapOdds": 0.86,
-        "awayHandicapOdds": 1.02,
-        "ouLine": "3",
-        "overOdds": 0.77,
-        "underOdds": 1.11,
+        "homeHandicapOdds": 0.91,
+        "awayHandicapOdds": 0.97,
+        "ouLine": "3/3.5",
+        "overOdds": 0.91,
+        "underOdds": 0.96,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-27T03:57:23.000Z"
+      "updatedAt": "2026-07-27T07:43:44.000Z"
     },
     {
       "scheduleId": 2912847,
@@ -179,7 +179,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-27T03:57:23.000Z",
+        "scoreUpdatedAt": "2026-07-27T07:43:44.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5474202,
@@ -192,30 +192,30 @@
         }
       },
       "odds": {
-        "handicapLine": "0.5/1",
-        "homeHandicapOdds": 0.83,
-        "awayHandicapOdds": 1.05,
+        "handicapLine": "1",
+        "homeHandicapOdds": 1.03,
+        "awayHandicapOdds": 0.85,
         "ouLine": "2.5/3",
-        "overOdds": 0.98,
-        "underOdds": 0.89,
+        "overOdds": 0.93,
+        "underOdds": 0.94,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-27T03:57:23.000Z"
+      "updatedAt": "2026-07-27T07:43:44.000Z"
     }
   ],
   "sync": {
     "running": false,
     "runningSince": null,
-    "lastAt": "2026-07-27T04:25:20.455Z",
+    "lastAt": "2026-07-27T08:05:27.716Z",
     "lastCount": 19,
-    "timeDiff": -33,
+    "timeDiff": -34,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000,
-    "gatewayWaitMs": 17403,
-    "gatewayAttempts": 4
+    "gatewayWaitMs": 22224,
+    "gatewayAttempts": 7
   },
   "filter": "jingcai",
   "dataSource": "beidan",

@@ -26,36 +26,36 @@
           "playType": 0,
           "optionIdx": 0,
           "label": "胜",
-          "odds": 1.77,
+          "odds": 1.79,
           "isSingle": true,
-          "prevOdds": 1.77,
+          "prevOdds": 1.79,
           "oddsTrend": 0
         },
         {
           "playType": 0,
           "optionIdx": 1,
           "label": "平",
-          "odds": 3.57,
+          "odds": 3.4,
           "isSingle": false,
-          "prevOdds": 3.57,
+          "prevOdds": 3.4,
           "oddsTrend": 0
         },
         {
           "playType": 0,
           "optionIdx": 2,
           "label": "负",
-          "odds": 3.52,
+          "odds": 3.62,
           "isSingle": false,
-          "prevOdds": 3.52,
+          "prevOdds": 3.62,
           "oddsTrend": 0
         },
         {
           "playType": 1,
           "optionIdx": 0,
           "label": "胜",
-          "odds": 3.22,
+          "odds": 3.3,
           "isSingle": false,
-          "prevOdds": 3.22,
+          "prevOdds": 3.3,
           "oddsTrend": 0
         },
         {
@@ -71,36 +71,36 @@
           "playType": 1,
           "optionIdx": 2,
           "label": "负",
-          "odds": 1.81,
+          "odds": 1.79,
           "isSingle": false,
-          "prevOdds": 1.81,
+          "prevOdds": 1.79,
           "oddsTrend": 0
         },
         {
           "playType": 2,
           "optionIdx": 0,
           "label": "0:0",
-          "odds": 21,
+          "odds": 24,
           "isSingle": true,
-          "prevOdds": 21,
+          "prevOdds": 24,
           "oddsTrend": 0
         },
         {
           "playType": 2,
           "optionIdx": 1,
           "label": "0:1",
-          "odds": 16,
+          "odds": 18,
           "isSingle": true,
-          "prevOdds": 16,
+          "prevOdds": 18,
           "oddsTrend": 0
         },
         {
           "playType": 2,
           "optionIdx": 2,
           "label": "0:2",
-          "odds": 23,
+          "odds": 25,
           "isSingle": true,
-          "prevOdds": 23,
+          "prevOdds": 25,
           "oddsTrend": 0
         },
         {
@@ -116,9 +116,9 @@
           "playType": 2,
           "optionIdx": 4,
           "label": "1:0",
-          "odds": 10.5,
+          "odds": 12,
           "isSingle": true,
-          "prevOdds": 10.5,
+          "prevOdds": 12,
           "oddsTrend": 0
         },
         {
@@ -152,9 +152,9 @@
           "playType": 2,
           "optionIdx": 8,
           "label": "2:0",
-          "odds": 11,
+          "odds": 11.5,
           "isSingle": true,
-          "prevOdds": 11,
+          "prevOdds": 11.5,
           "oddsTrend": 0
         },
         {
@@ -170,18 +170,18 @@
           "playType": 2,
           "optionIdx": 10,
           "label": "2:2",
-          "odds": 10.5,
+          "odds": 9.75,
           "isSingle": true,
-          "prevOdds": 10.5,
+          "prevOdds": 9.75,
           "oddsTrend": 0
         },
         {
           "playType": 2,
           "optionIdx": 11,
           "label": "2:3",
-          "odds": 22,
+          "odds": 21,
           "isSingle": true,
-          "prevOdds": 22,
+          "prevOdds": 21,
           "oddsTrend": 0
         },
         {
@@ -215,9 +215,9 @@
           "playType": 2,
           "optionIdx": 15,
           "label": "3:3",
-          "odds": 35,
+          "odds": 28,
           "isSingle": true,
-          "prevOdds": 35,
+          "prevOdds": 28,
           "oddsTrend": 0
         },
         {
@@ -260,18 +260,18 @@
           "playType": 2,
           "optionIdx": 20,
           "label": "1:4",
-          "odds": 70,
+          "odds": 65,
           "isSingle": true,
-          "prevOdds": 70,
+          "prevOdds": 65,
           "oddsTrend": 0
         },
         {
           "playType": 2,
           "optionIdx": 21,
           "label": "2:4",
-          "odds": 70,
+          "odds": 65,
           "isSingle": true,
-          "prevOdds": 70,
+          "prevOdds": 65,
           "oddsTrend": 0
         },
         {
@@ -305,42 +305,15 @@
           "playType": 2,
           "optionIdx": 25,
           "label": "0:5",
-          "odds": 350,
+          "odds": 300,
           "isSingle": true,
-          "prevOdds": 350,
+          "prevOdds": 300,
           "oddsTrend": 0
         },
         {
           "playType": 2,
           "optionIdx": 26,
           "label": "1:5",
-          "odds": 200,
-          "isSingle": true,
-          "prevOdds": 200,
-          "oddsTrend": 0
-        },
-        {
-          "playType": 2,
-          "optionIdx": 27,
-          "label": "2:5",
-          "odds": 200,
-          "isSingle": true,
-          "prevOdds": 200,
-          "oddsTrend": 0
-        },
-        {
-          "playType": 2,
-          "optionIdx": 28,
-          "label": "胜其他",
-          "odds": 27,
-          "isSingle": true,
-          "prevOdds": 27,
-          "oddsTrend": 0
-        },
-        {
-          "playType": 2,
-          "optionIdx": 29,
-          "label": "平其他",
           "odds": 150,
           "isSingle": true,
           "prevOdds": 150,
@@ -348,92 +321,119 @@
         },
         {
           "playType": 2,
+          "optionIdx": 27,
+          "label": "2:5",
+          "odds": 150,
+          "isSingle": true,
+          "prevOdds": 150,
+          "oddsTrend": 0
+        },
+        {
+          "playType": 2,
+          "optionIdx": 28,
+          "label": "胜其他",
+          "odds": 25,
+          "isSingle": true,
+          "prevOdds": 25,
+          "oddsTrend": 0
+        },
+        {
+          "playType": 2,
+          "optionIdx": 29,
+          "label": "平其他",
+          "odds": 90,
+          "isSingle": true,
+          "prevOdds": 90,
+          "oddsTrend": 0
+        },
+        {
+          "playType": 2,
           "optionIdx": 30,
           "label": "负其他",
-          "odds": 60,
+          "odds": 50,
           "isSingle": true,
-          "prevOdds": 60,
+          "prevOdds": 50,
           "oddsTrend": 0
         },
         {
           "playType": 3,
           "optionIdx": 0,
           "label": "0",
-          "odds": 21,
+          "odds": 24,
           "isSingle": true,
-          "prevOdds": 21,
+          "prevOdds": 24,
           "oddsTrend": 0
         },
         {
           "playType": 3,
           "optionIdx": 1,
           "label": "1",
-          "odds": 7,
+          "odds": 7.8,
           "isSingle": true,
-          "prevOdds": 7,
+          "prevOdds": 7.8,
           "oddsTrend": 0
         },
         {
           "playType": 3,
           "optionIdx": 2,
           "label": "2",
-          "odds": 4.2,
+          "odds": 4.65,
           "isSingle": true,
-          "prevOdds": 4.2,
+          "prevOdds": 4.65,
           "oddsTrend": 0
         },
         {
           "playType": 3,
           "optionIdx": 3,
           "label": "3",
-          "odds": 3.4,
+          "odds": 3.25,
           "isSingle": true,
-          "prevOdds": 3.4,
+          "prevOdds": 3.25,
           "oddsTrend": 0
         },
         {
           "playType": 3,
           "optionIdx": 4,
           "label": "4",
-          "odds": 4.3,
+          "odds": 4,
           "isSingle": true,
-          "prevOdds": 4.3,
+          "prevOdds": 4,
           "oddsTrend": 0
         },
         {
           "playType": 3,
           "optionIdx": 5,
           "label": "5",
-          "odds": 6.7,
+          "odds": 6.5,
           "isSingle": true,
-          "prevOdds": 6.7,
+          "prevOdds": 6.5,
           "oddsTrend": 0
         },
         {
           "playType": 3,
           "optionIdx": 6,
           "label": "6",
-          "odds": 12,
+          "odds": 11.5,
           "isSingle": true,
-          "prevOdds": 12,
+          "prevOdds": 11.5,
           "oddsTrend": 0
         },
         {
           "playType": 3,
           "optionIdx": 7,
           "label": "7+",
-          "odds": 15,
+          "odds": 14,
           "isSingle": true,
-          "prevOdds": 15,
+          "prevOdds": 14,
           "oddsTrend": 0
         },
         {
           "playType": 4,
           "optionIdx": 0,
           "label": "胜胜",
-          "odds": 2.8,
+          "odds": 2.85,
           "isSingle": true,
-          "prevOdds": 2.8,
+          "prevOdds": 2.85,
           "oddsTrend": 0
         },
         {
@@ -449,9 +449,9 @@
           "playType": 4,
           "optionIdx": 2,
           "label": "胜负",
-          "odds": 30,
+          "odds": 28,
           "isSingle": true,
-          "prevOdds": 30,
+          "prevOdds": 28,
           "oddsTrend": 0
         },
         {
@@ -467,9 +467,9 @@
           "playType": 4,
           "optionIdx": 4,
           "label": "平平",
-          "odds": 6.15,
+          "odds": 6,
           "isSingle": true,
-          "prevOdds": 6.15,
+          "prevOdds": 6,
           "oddsTrend": 0
         },
         {
@@ -509,7 +509,7 @@
           "oddsTrend": 0
         }
       ],
-      "updatedAt": "2026-07-27T04:25:15.000Z"
+      "updatedAt": "2026-07-27T08:05:17.000Z"
     },
     {
       "matchId": 5474202,
@@ -536,54 +536,54 @@
           "playType": 0,
           "optionIdx": 0,
           "label": "胜",
-          "odds": 1.53,
+          "odds": 1.48,
           "isSingle": false,
-          "prevOdds": 1.53,
+          "prevOdds": 1.48,
           "oddsTrend": 0
         },
         {
           "playType": 0,
           "optionIdx": 1,
           "label": "平",
-          "odds": 3.8,
+          "odds": 3.95,
           "isSingle": false,
-          "prevOdds": 3.8,
+          "prevOdds": 3.95,
           "oddsTrend": 0
         },
         {
           "playType": 0,
           "optionIdx": 2,
           "label": "负",
-          "odds": 4.7,
+          "odds": 5,
           "isSingle": false,
-          "prevOdds": 4.7,
+          "prevOdds": 5,
           "oddsTrend": 0
         },
         {
           "playType": 1,
           "optionIdx": 0,
           "label": "胜",
-          "odds": 2.77,
+          "odds": 2.65,
           "isSingle": false,
-          "prevOdds": 2.77,
+          "prevOdds": 2.65,
           "oddsTrend": 0
         },
         {
           "playType": 1,
           "optionIdx": 1,
           "label": "平",
-          "odds": 3.35,
+          "odds": 3.25,
           "isSingle": false,
-          "prevOdds": 3.35,
+          "prevOdds": 3.25,
           "oddsTrend": 0
         },
         {
           "playType": 1,
           "optionIdx": 2,
           "label": "负",
-          "odds": 2.13,
+          "odds": 2.25,
           "isSingle": false,
-          "prevOdds": 2.13,
+          "prevOdds": 2.25,
           "oddsTrend": 0
         },
         {
@@ -599,18 +599,18 @@
           "playType": 2,
           "optionIdx": 1,
           "label": "0:1",
-          "odds": 14,
+          "odds": 15,
           "isSingle": true,
-          "prevOdds": 14,
+          "prevOdds": 15,
           "oddsTrend": 0
         },
         {
           "playType": 2,
           "optionIdx": 2,
           "label": "0:2",
-          "odds": 28,
+          "odds": 31,
           "isSingle": true,
-          "prevOdds": 28,
+          "prevOdds": 31,
           "oddsTrend": 0
         },
         {
@@ -635,33 +635,6 @@
           "playType": 2,
           "optionIdx": 5,
           "label": "1:1",
-          "odds": 7,
-          "isSingle": true,
-          "prevOdds": 7,
-          "oddsTrend": 0
-        },
-        {
-          "playType": 2,
-          "optionIdx": 6,
-          "label": "1:2",
-          "odds": 13.5,
-          "isSingle": true,
-          "prevOdds": 13.5,
-          "oddsTrend": 0
-        },
-        {
-          "playType": 2,
-          "optionIdx": 7,
-          "label": "1:3",
-          "odds": 45,
-          "isSingle": true,
-          "prevOdds": 45,
-          "oddsTrend": 0
-        },
-        {
-          "playType": 2,
-          "optionIdx": 8,
-          "label": "2:0",
           "odds": 7.5,
           "isSingle": true,
           "prevOdds": 7.5,
@@ -669,11 +642,38 @@
         },
         {
           "playType": 2,
+          "optionIdx": 6,
+          "label": "1:2",
+          "odds": 14.5,
+          "isSingle": true,
+          "prevOdds": 14.5,
+          "oddsTrend": 0
+        },
+        {
+          "playType": 2,
+          "optionIdx": 7,
+          "label": "1:3",
+          "odds": 48,
+          "isSingle": true,
+          "prevOdds": 48,
+          "oddsTrend": 0
+        },
+        {
+          "playType": 2,
+          "optionIdx": 8,
+          "label": "2:0",
+          "odds": 7,
+          "isSingle": true,
+          "prevOdds": 7,
+          "oddsTrend": 0
+        },
+        {
+          "playType": 2,
           "optionIdx": 9,
           "label": "2:1",
-          "odds": 6,
+          "odds": 5.75,
           "isSingle": true,
-          "prevOdds": 6,
+          "prevOdds": 5.75,
           "oddsTrend": 0
         },
         {
@@ -689,27 +689,27 @@
           "playType": 2,
           "optionIdx": 11,
           "label": "2:3",
-          "odds": 45,
+          "odds": 48,
           "isSingle": true,
-          "prevOdds": 45,
+          "prevOdds": 48,
           "oddsTrend": 0
         },
         {
           "playType": 2,
           "optionIdx": 12,
           "label": "3:0",
-          "odds": 12,
+          "odds": 11.5,
           "isSingle": true,
-          "prevOdds": 12,
+          "prevOdds": 11.5,
           "oddsTrend": 0
         },
         {
           "playType": 2,
           "optionIdx": 13,
           "label": "3:1",
-          "odds": 10.5,
+          "odds": 10,
           "isSingle": true,
-          "prevOdds": 10.5,
+          "prevOdds": 10,
           "oddsTrend": 0
         },
         {
@@ -851,9 +851,9 @@
           "playType": 2,
           "optionIdx": 29,
           "label": "平其他",
-          "odds": 400,
+          "odds": 300,
           "isSingle": true,
-          "prevOdds": 400,
+          "prevOdds": 300,
           "oddsTrend": 0
         },
         {
@@ -878,9 +878,9 @@
           "playType": 3,
           "optionIdx": 1,
           "label": "1",
-          "odds": 5,
+          "odds": 5.25,
           "isSingle": true,
-          "prevOdds": 5,
+          "prevOdds": 5.25,
           "oddsTrend": 0
         },
         {
@@ -896,9 +896,9 @@
           "playType": 3,
           "optionIdx": 3,
           "label": "3",
-          "odds": 3.4,
+          "odds": 3.3,
           "isSingle": true,
-          "prevOdds": 3.4,
+          "prevOdds": 3.3,
           "oddsTrend": 0
         },
         {
@@ -941,18 +941,18 @@
           "playType": 4,
           "optionIdx": 0,
           "label": "胜胜",
-          "odds": 2.2,
+          "odds": 2.05,
           "isSingle": true,
-          "prevOdds": 2.2,
+          "prevOdds": 2.05,
           "oddsTrend": 0
         },
         {
           "playType": 4,
           "optionIdx": 1,
           "label": "胜平",
-          "odds": 17,
+          "odds": 18,
           "isSingle": true,
-          "prevOdds": 17,
+          "prevOdds": 18,
           "oddsTrend": 0
         },
         {
@@ -977,18 +977,18 @@
           "playType": 4,
           "optionIdx": 4,
           "label": "平平",
-          "odds": 6.5,
+          "odds": 6.75,
           "isSingle": true,
-          "prevOdds": 6.5,
+          "prevOdds": 6.75,
           "oddsTrend": 0
         },
         {
           "playType": 4,
           "optionIdx": 5,
           "label": "平负",
-          "odds": 11,
+          "odds": 12,
           "isSingle": true,
-          "prevOdds": 11,
+          "prevOdds": 12,
           "oddsTrend": 0
         },
         {
@@ -1004,27 +1004,27 @@
           "playType": 4,
           "optionIdx": 7,
           "label": "负平",
-          "odds": 17,
+          "odds": 18,
           "isSingle": true,
-          "prevOdds": 17,
+          "prevOdds": 18,
           "oddsTrend": 0
         },
         {
           "playType": 4,
           "optionIdx": 8,
           "label": "负负",
-          "odds": 8,
+          "odds": 8.9,
           "isSingle": true,
-          "prevOdds": 8,
+          "prevOdds": 8.9,
           "oddsTrend": 0
         }
       ],
-      "updatedAt": "2026-07-27T04:25:16.000Z"
+      "updatedAt": "2026-07-27T08:05:17.000Z"
     }
   ],
   "sync": {
     "running": false,
-    "lastAt": "2026-07-27T04:25:16.260Z",
+    "lastAt": "2026-07-27T08:05:17.807Z",
     "lastCount": 2,
     "intervalMs": 180000
   },

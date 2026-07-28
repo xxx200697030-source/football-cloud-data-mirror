@@ -2,12 +2,81 @@
   "code": 0,
   "data": {
     "dateCode": 20260727,
-    "groupTitle": null,
-    "matches": []
+    "groupTitle": "07月28日 星期二",
+    "matches": [
+      {
+        "scheduleId": 2912847,
+        "matchDateCode": 20260727,
+        "groupTitle": "07月28日 星期二",
+        "matchNo": "周一202",
+        "leagueName": "挪超",
+        "homeTeam": "罗森博格",
+        "guestTeam": "费德列斯达",
+        "scoreText": "4-0",
+        "halfScoreText": "2-0",
+        "details": [
+          {
+            "name": "胜（-1）",
+            "odds": "2.4"
+          },
+          {
+            "name": "胜",
+            "odds": "1.37"
+          },
+          {
+            "name": "4:0",
+            "odds": "24"
+          },
+          {
+            "name": "4球",
+            "odds": "4.8"
+          },
+          {
+            "name": "胜胜",
+            "odds": "1.9"
+          }
+        ],
+        "updatedAt": "2026-07-27T18:58:11.000Z"
+      },
+      {
+        "scheduleId": 2912214,
+        "matchDateCode": 20260727,
+        "groupTitle": "07月28日 星期二",
+        "matchNo": "周一201",
+        "leagueName": "瑞典超",
+        "homeTeam": "赫根",
+        "guestTeam": "索尔纳",
+        "scoreText": "0-0",
+        "halfScoreText": "0-0",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "1.8"
+          },
+          {
+            "name": "平",
+            "odds": "3.5"
+          },
+          {
+            "name": "0:0",
+            "odds": "27"
+          },
+          {
+            "name": "0球",
+            "odds": "27"
+          },
+          {
+            "name": "平平",
+            "odds": "6"
+          }
+        ],
+        "updatedAt": "2026-07-27T18:58:11.000Z"
+      }
+    ]
   },
   "sync": {
     "running": false,
-    "lastAt": "2026-07-27T15:28:11.790Z",
+    "lastAt": "2026-07-28T03:48:11.809Z",
     "lastCount": 31,
     "intervalMs": 1800000
   }

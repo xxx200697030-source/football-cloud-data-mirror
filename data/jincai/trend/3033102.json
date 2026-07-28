@@ -1,0 +1,1257 @@
+{
+  "code": 0,
+  "data": {
+    "markets": {
+      "handicap": [
+        {
+          "live": [
+            "1.16",
+            "0",
+            "0.62"
+          ],
+          "company": "澳*",
+          "initial": [
+            "1.16",
+            "0",
+            "0.62"
+          ],
+          "companyId": 1,
+          "liveTrends": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "live": [
+            "0.78",
+            "0/-0.5",
+            "1.04"
+          ],
+          "company": "Crow*",
+          "initial": [
+            "0.98",
+            "0",
+            "0.84"
+          ],
+          "companyId": 3,
+          "liveTrends": [
+            -1,
+            -1,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.83",
+            "0/-0.5",
+            "0.98"
+          ],
+          "company": "36*",
+          "initial": [
+            "1.00",
+            "0",
+            "0.80"
+          ],
+          "companyId": 8,
+          "liveTrends": [
+            -1,
+            -1,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.88",
+            "0/-0.5",
+            "0.94"
+          ],
+          "company": "易*",
+          "initial": [
+            "0.93",
+            "0/-0.5",
+            "0.85"
+          ],
+          "companyId": 12,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.88",
+            "0/-0.5",
+            "0.97"
+          ],
+          "company": "伟*",
+          "initial": [
+            "0.99",
+            "0/0.5",
+            "0.76"
+          ],
+          "companyId": 14,
+          "liveTrends": [
+            -1,
+            -1,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.84",
+            "0/-0.5",
+            "0.96"
+          ],
+          "company": "明*",
+          "initial": [
+            "0.97",
+            "0",
+            "0.83"
+          ],
+          "companyId": 17,
+          "liveTrends": [
+            -1,
+            -1,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.82",
+            "0/-0.5",
+            "0.98"
+          ],
+          "company": "12*",
+          "initial": [
+            "0.97",
+            "0",
+            "0.83"
+          ],
+          "companyId": 24,
+          "liveTrends": [
+            -1,
+            -1,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.86",
+            "0/-0.5",
+            "0.96"
+          ],
+          "company": "利*",
+          "initial": [
+            "0.96",
+            "0",
+            "0.86"
+          ],
+          "companyId": 31,
+          "liveTrends": [
+            -1,
+            -1,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.83",
+            "0/-0.5",
+            "0.99"
+          ],
+          "company": "盈*",
+          "initial": [
+            "0.99",
+            "0",
+            "0.79"
+          ],
+          "companyId": 35,
+          "liveTrends": [
+            -1,
+            -1,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.82",
+            "0/-0.5",
+            "0.94"
+          ],
+          "company": "18*",
+          "initial": [
+            "0.92",
+            "0",
+            "0.81"
+          ],
+          "companyId": 42,
+          "liveTrends": [
+            -1,
+            -1,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.88",
+            "0/-0.5",
+            "0.94"
+          ],
+          "company": "平*",
+          "initial": [
+            "0.98",
+            "0/0.5",
+            "0.79"
+          ],
+          "companyId": 47,
+          "liveTrends": [
+            -1,
+            -1,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.75",
+            "0/-0.5",
+            "1.03"
+          ],
+          "company": "香港马*",
+          "initial": [
+            "1.03",
+            "0",
+            "0.75"
+          ],
+          "companyId": 48,
+          "liveTrends": [
+            -1,
+            -1,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.80",
+            "0/-0.5",
+            "0.86"
+          ],
+          "company": "威*",
+          "initial": [
+            "0.50",
+            "-0.5",
+            "1.50"
+          ],
+          "companyId": 9,
+          "liveTrends": [
+            1,
+            1,
+            -1
+          ]
+        },
+        {
+          "live": [
+            "1.10",
+            "0",
+            "0.65"
+          ],
+          "company": "Interwet*",
+          "initial": [
+            "0.95",
+            "0",
+            "0.75"
+          ],
+          "companyId": 19,
+          "liveTrends": [
+            1,
+            0,
+            -1
+          ]
+        },
+        {
+          "live": [
+            "1.24",
+            "0",
+            "0.66"
+          ],
+          "company": "1x*",
+          "initial": [
+            "0.98",
+            "0",
+            "0.79"
+          ],
+          "companyId": 50,
+          "liveTrends": [
+            1,
+            0,
+            -1
+          ]
+        }
+      ],
+      "overUnder": [
+        {
+          "live": [
+            "0.84",
+            "2.5",
+            "0.88"
+          ],
+          "company": "澳*",
+          "initial": [
+            "0.91",
+            "2.5",
+            "0.81"
+          ],
+          "companyId": 1,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.88",
+            "2.5",
+            "0.92"
+          ],
+          "company": "Crow*",
+          "initial": [
+            "0.95",
+            "2.5",
+            "0.85"
+          ],
+          "companyId": 3,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.90",
+            "2.5",
+            "0.90"
+          ],
+          "company": "36*",
+          "initial": [
+            "0.90",
+            "2.5",
+            "0.90"
+          ],
+          "companyId": 8,
+          "liveTrends": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "live": [
+            "0.85",
+            "2.5",
+            "0.95"
+          ],
+          "company": "易*",
+          "initial": [
+            "0.94",
+            "2.5",
+            "0.84"
+          ],
+          "companyId": 12,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.89",
+            "2.5",
+            "0.98"
+          ],
+          "company": "伟*",
+          "initial": [
+            "0.88",
+            "2.5",
+            "0.86"
+          ],
+          "companyId": 14,
+          "liveTrends": [
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.85",
+            "2.5",
+            "0.95"
+          ],
+          "company": "明*",
+          "initial": [
+            "0.95",
+            "2.5",
+            "0.85"
+          ],
+          "companyId": 17,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.79",
+            "2.5",
+            "0.92"
+          ],
+          "company": "10*",
+          "initial": [
+            "0.83",
+            "2.5",
+            "0.83"
+          ],
+          "companyId": 22,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.85",
+            "2.5",
+            "0.95"
+          ],
+          "company": "12*",
+          "initial": [
+            "0.95",
+            "2.5",
+            "0.85"
+          ],
+          "companyId": 24,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.84",
+            "2.5",
+            "0.96"
+          ],
+          "company": "利*",
+          "initial": [
+            "0.96",
+            "2.5",
+            "0.84"
+          ],
+          "companyId": 31,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.85",
+            "2.5",
+            "0.95"
+          ],
+          "company": "盈*",
+          "initial": [
+            "0.88",
+            "2.5",
+            "0.88"
+          ],
+          "companyId": 35,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.83",
+            "2.5",
+            "0.91"
+          ],
+          "company": "18*",
+          "initial": [
+            "0.86",
+            "2.5",
+            "0.86"
+          ],
+          "companyId": 42,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.83",
+            "2.5",
+            "0.91"
+          ],
+          "company": "立*",
+          "initial": [
+            "0.85",
+            "2.5",
+            "0.85"
+          ],
+          "companyId": 4,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.85",
+            "2.5",
+            "0.95"
+          ],
+          "company": "平*",
+          "initial": [
+            "0.91",
+            "2.5",
+            "0.85"
+          ],
+          "companyId": 47,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.75",
+            "2.5",
+            "0.95"
+          ],
+          "company": "香港马*",
+          "initial": [
+            "0.75",
+            "2.5",
+            "0.95"
+          ],
+          "companyId": 48,
+          "liveTrends": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "live": [
+            "0.82",
+            "2.5",
+            "0.88"
+          ],
+          "company": "BWi*",
+          "initial": [
+            "0.85",
+            "2.5",
+            "0.85"
+          ],
+          "companyId": 49,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.85",
+            "2.5",
+            "0.85"
+          ],
+          "company": "威*",
+          "initial": [
+            "0.91",
+            "2.5",
+            "0.83"
+          ],
+          "companyId": 9,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.80",
+            "2.5",
+            "0.90"
+          ],
+          "company": "Interwet*",
+          "initial": [
+            "0.85",
+            "2.5",
+            "0.85"
+          ],
+          "companyId": 19,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        },
+        {
+          "live": [
+            "0.87",
+            "2.5",
+            "0.96"
+          ],
+          "company": "1x*",
+          "initial": [
+            "0.88",
+            "2.5",
+            "0.88"
+          ],
+          "companyId": 50,
+          "liveTrends": [
+            -1,
+            0,
+            1
+          ]
+        }
+      ],
+      "winDrawLoss": {
+        "rows": [
+          {
+            "live": [
+              "3.00",
+              "3.45",
+              "2.24"
+            ],
+            "company": "10B",
+            "initial": [
+              "2.65",
+              "3.30",
+              "2.42"
+            ],
+            "iconType": "main",
+            "companyId": 16,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "2.87",
+              "3.25",
+              "2.15"
+            ],
+            "company": "12B.com",
+            "initial": [
+              "2.79",
+              "3.20",
+              "2.23"
+            ],
+            "iconType": "main",
+            "companyId": 18,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "2.95",
+              "3.50",
+              "2.25"
+            ],
+            "company": "18B",
+            "initial": [
+              "2.65",
+              "3.40",
+              "2.40"
+            ],
+            "iconType": "main",
+            "companyId": 976,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "2.90",
+              "3.50",
+              "2.30"
+            ],
+            "company": "365",
+            "initial": [
+              "2.70",
+              "3.40",
+              "2.45"
+            ],
+            "iconType": "main",
+            "companyId": 281,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "3.00",
+              "3.50",
+              "2.25"
+            ],
+            "company": "博弈世家",
+            "initial": [
+              "2.70",
+              "3.40",
+              "2.45"
+            ],
+            "iconType": "main",
+            "companyId": 173,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "3.20",
+              "3.70",
+              "2.36"
+            ],
+            "company": "必发",
+            "initial": [
+              "2.54",
+              "2.54",
+              "2.80"
+            ],
+            "iconType": "euro",
+            "companyId": 2,
+            "changeType": 2,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "2.98",
+              "3.35",
+              "2.28"
+            ],
+            "company": "Betsson",
+            "initial": [
+              "2.72",
+              "3.35",
+              "2.48"
+            ],
+            "iconType": "euro",
+            "companyId": 665,
+            "changeType": 2,
+            "liveTrends": [
+              1,
+              0,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "3.12",
+              "3.50",
+              "2.25"
+            ],
+            "company": "BetVictor",
+            "initial": [
+              "2.80",
+              "3.30",
+              "2.45"
+            ],
+            "iconType": "main",
+            "companyId": 1017,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "3.00",
+              "3.60",
+              "2.20"
+            ],
+            "company": "Bwin",
+            "initial": [
+              "2.70",
+              "3.50",
+              "2.50"
+            ],
+            "iconType": "main",
+            "companyId": 255,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "3.00",
+              "3.60",
+              "2.20"
+            ],
+            "company": "Coral",
+            "initial": [
+              "2.75",
+              "3.50",
+              "2.50"
+            ],
+            "iconType": "main",
+            "companyId": 88,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "2.73",
+              "3.40",
+              "2.17"
+            ],
+            "company": "Crown",
+            "initial": [
+              "2.53",
+              "3.35",
+              "2.36"
+            ],
+            "iconType": "main",
+            "companyId": 545,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "2.87",
+              "3.25",
+              "2.15"
+            ],
+            "company": "IBCBET",
+            "initial": [
+              "2.79",
+              "3.20",
+              "2.23"
+            ],
+            "iconType": "main",
+            "companyId": 649,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "2.95",
+              "3.30",
+              "2.30"
+            ],
+            "company": "Interwetten",
+            "initial": [
+              "2.75",
+              "3.40",
+              "2.50"
+            ],
+            "iconType": "main",
+            "companyId": 104,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              -1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "3.20",
+              "3.70",
+              "2.38"
+            ],
+            "company": "Matchbook",
+            "initial": [
+              "3.35",
+              "3.45",
+              "2.18"
+            ],
+            "iconType": "euro",
+            "companyId": 352,
+            "changeType": 2,
+            "liveTrends": [
+              -1,
+              1,
+              1
+            ]
+          },
+          {
+            "live": [
+              "2.96",
+              "3.47",
+              "2.21"
+            ],
+            "company": "平博",
+            "initial": [
+              "2.26",
+              "3.30",
+              "2.83"
+            ],
+            "iconType": "main",
+            "companyId": 177,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "2.73",
+              "3.30",
+              "2.20"
+            ],
+            "company": "澳门",
+            "initial": [
+              "2.75",
+              "3.33",
+              "2.17"
+            ],
+            "iconType": "main",
+            "companyId": 80,
+            "changeType": 1,
+            "liveTrends": [
+              -1,
+              -1,
+              1
+            ]
+          },
+          {
+            "live": [
+              "3.00",
+              "3.60",
+              "2.20"
+            ],
+            "company": "博天堂",
+            "initial": [
+              "2.70",
+              "3.50",
+              "2.50"
+            ],
+            "iconType": "main",
+            "companyId": 422,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "2.74",
+              "3.30",
+              "2.17"
+            ],
+            "company": "Lottery Official",
+            "initial": [
+              "2.60",
+              "3.30",
+              "2.27"
+            ],
+            "iconType": "main",
+            "companyId": 1129,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              0,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "3.00",
+              "3.60",
+              "2.20"
+            ],
+            "company": "立博",
+            "initial": [
+              "2.70",
+              "3.40",
+              "2.45"
+            ],
+            "iconType": "main",
+            "companyId": 82,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "2.74",
+              "3.02",
+              "2.25"
+            ],
+            "company": "Sbobet",
+            "initial": [
+              "2.52",
+              "3.03",
+              "2.40"
+            ],
+            "iconType": "main",
+            "companyId": 474,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              -1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "2.87",
+              "3.25",
+              "2.15"
+            ],
+            "company": "mansion.com",
+            "initial": [
+              "2.89",
+              "3.20",
+              "2.17"
+            ],
+            "iconType": "main",
+            "companyId": 517,
+            "changeType": 1,
+            "liveTrends": [
+              -1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "3.00",
+              "3.20",
+              "2.15"
+            ],
+            "company": "威廉希尔",
+            "initial": [
+              "2.45",
+              "3.10",
+              "2.63"
+            ],
+            "iconType": "main",
+            "companyId": 115,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "3.10",
+              "3.50",
+              "2.25"
+            ],
+            "company": "伟得",
+            "initial": [
+              "2.30",
+              "3.40",
+              "2.90"
+            ],
+            "iconType": "main",
+            "companyId": 81,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "2.70",
+              "3.20",
+              "2.24"
+            ],
+            "company": "香港马会",
+            "initial": [
+              "2.62",
+              "3.30",
+              "2.26"
+            ],
+            "iconType": "main",
+            "companyId": 432,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              -1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "2.90",
+              "3.50",
+              "2.25"
+            ],
+            "company": "易胜",
+            "initial": [
+              "3.10",
+              "3.30",
+              "2.09"
+            ],
+            "iconType": "main",
+            "companyId": 90,
+            "changeType": 1,
+            "liveTrends": [
+              -1,
+              1,
+              1
+            ]
+          },
+          {
+            "live": [
+              "2.83",
+              "3.30",
+              "2.23"
+            ],
+            "company": "Wewbet",
+            "initial": [
+              "2.64",
+              "3.26",
+              "2.43"
+            ],
+            "iconType": "main",
+            "companyId": 659,
+            "changeType": 1,
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          }
+        ],
+        "summary": [
+          {
+            "live": [
+              "3.20",
+              "3.70",
+              "2.38"
+            ],
+            "label": "最高值",
+            "initial": [
+              "3.35",
+              "3.50",
+              "2.90"
+            ],
+            "liveTrends": [
+              -1,
+              1,
+              -1
+            ]
+          },
+          {
+            "live": [
+              "2.70",
+              "3.02",
+              "2.15"
+            ],
+            "label": "最低值",
+            "initial": [
+              "2.26",
+              "2.54",
+              "2.09"
+            ],
+            "liveTrends": [
+              1,
+              1,
+              1
+            ]
+          },
+          {
+            "live": [
+              "2.94",
+              "3.42",
+              "2.23"
+            ],
+            "label": "平均值",
+            "initial": [
+              "2.69",
+              "3.30",
+              "2.43"
+            ],
+            "liveTrends": [
+              1,
+              1,
+              -1
+            ]
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-07-28T03:49:15.479Z",
+    "scheduleId": 3033102
+  },
+  "sync": {
+    "running": false,
+    "runningSince": null,
+    "lastAt": "2026-07-28T03:50:49.385Z",
+    "lastCount": 17,
+    "timeDiff": -34,
+    "intervalMs": 3600000,
+    "liveIntervalMs": 15000
+  },
+  "scheduleId": 3033102,
+  "resolveVia": "schedule_id"
+}

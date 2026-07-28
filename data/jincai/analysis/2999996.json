@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "scheduleId": 2999996,
-    "updatedAt": "2026-07-28T03:50:53.110Z",
+    "updatedAt": "2026-07-28T07:22:12.109Z",
     "homeTeam": "波兹南莱赫",
     "guestTeam": "奥胡斯",
     "preMatchOdds": [
@@ -55,9 +55,9 @@
           "3.8"
         ],
         "live": [
-          "1.68",
-          "3.7",
-          "3.8"
+          "1.63",
+          "3.8",
+          "3.95"
         ]
       },
       {
@@ -68,9 +68,9 @@
           "1.94"
         ],
         "live": [
-          "3.1",
+          "2.95",
           "3.45",
-          "1.94"
+          "2"
         ]
       }
     ],
@@ -15899,9 +15899,9 @@
     }
   },
   "sync": {
-    "running": false,
-    "runningSince": null,
-    "lastAt": "2026-07-28T03:50:49.385Z",
+    "running": true,
+    "runningSince": "2026-07-28T07:22:09.467Z",
+    "lastAt": "2026-07-28T07:22:07.567Z",
     "lastCount": 17,
     "timeDiff": -34,
     "intervalMs": 3600000,

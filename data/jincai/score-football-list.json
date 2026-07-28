@@ -91,8 +91,8 @@
       },
       "odds": {
         "handicapLine": "-0/0.5",
-        "homeHandicapOdds": 0.83,
-        "awayHandicapOdds": 0.99,
+        "homeHandicapOdds": 0.78,
+        "awayHandicapOdds": 1.04,
         "ouLine": "2.5",
         "overOdds": 0.88,
         "underOdds": 0.92,
@@ -134,7 +134,7 @@
       "corners": "",
       "lotteryNo": "周二002",
       "lotteryLabel": "周二002",
-      "hasVideo": false,
+      "hasVideo": true,
       "liveUrl": "",
       "dataSource": "upstream_sync",
       "linkedFromBeidan": true,
@@ -179,7 +179,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-28T03:43:23.000Z",
+        "scoreUpdatedAt": "2026-07-28T07:02:33.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5475002,
@@ -192,29 +192,29 @@
         }
       },
       "odds": {
-        "handicapLine": "0.5",
-        "homeHandicapOdds": 0.8,
-        "awayHandicapOdds": 1.02,
+        "handicapLine": "0.5/1",
+        "homeHandicapOdds": 0.99,
+        "awayHandicapOdds": 0.83,
         "ouLine": "3",
-        "overOdds": 0.95,
-        "underOdds": 0.85,
+        "overOdds": 0.9,
+        "underOdds": 0.9,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-28T03:43:23.000Z"
+      "updatedAt": "2026-07-28T07:02:33.000Z"
     }
   ],
   "sync": {
     "running": false,
     "runningSince": null,
-    "lastAt": "2026-07-28T03:50:39.452Z",
+    "lastAt": "2026-07-28T07:21:57.588Z",
     "lastCount": 17,
     "timeDiff": -34,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000,
-    "gatewayWaitMs": 18648,
+    "gatewayWaitMs": 19265,
     "gatewayAttempts": 7
   },
   "filter": "jingcai",

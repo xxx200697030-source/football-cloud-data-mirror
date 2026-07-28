@@ -620,7 +620,7 @@
   },
   "sync": {
     "running": false,
-    "lastAt": "2026-07-28T07:18:11.915Z",
+    "lastAt": "2026-07-28T10:13:12.001Z",
     "lastCount": 31,
     "intervalMs": 1800000
   }

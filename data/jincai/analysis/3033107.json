@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "scheduleId": 3033107,
-    "updatedAt": "2026-07-28T07:22:12.213Z",
+    "updatedAt": "2026-07-28T10:13:35.874Z",
     "homeTeam": "阿拉木图凯拉特",
     "guestTeam": "奥莫尼亚",
     "preMatchOdds": [
@@ -20093,8 +20093,8 @@
   },
   "sync": {
     "running": true,
-    "runningSince": "2026-07-28T07:22:09.467Z",
-    "lastAt": "2026-07-28T07:22:07.567Z",
+    "runningSince": "2026-07-28T10:13:33.263Z",
+    "lastAt": "2026-07-28T10:13:32.248Z",
     "lastCount": 17,
     "timeDiff": -34,
     "intervalMs": 3600000,

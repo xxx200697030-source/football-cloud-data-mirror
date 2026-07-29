@@ -2,15 +2,15 @@
   "code": 0,
   "data": {
     "scheduleId": 2910834,
-    "updatedAt": "2026-07-29T02:29:26.871Z",
+    "updatedAt": "2026-07-29T11:55:29.911Z",
     "homeTeam": "米拉索",
     "guestTeam": "瑞模贝雷",
     "preMatchOdds": [
       {
         "live": [
-          "1.74",
+          "1.69",
           "3.65",
-          "4.35"
+          "4.6"
         ],
         "type": "欧",
         "initial": [
@@ -21,9 +21,9 @@
       },
       {
         "live": [
-          "0.94",
+          "0.91",
           "0.5/1",
-          "0.94"
+          "0.98"
         ],
         "type": "亚",
         "initial": [
@@ -49,9 +49,9 @@
     "jingcaiOdds": [
       {
         "live": [
-          "1.55",
-          "3.65",
-          "4.75"
+          "1.52",
+          "3.75",
+          "4.9"
         ],
         "initial": [
           "1.55",
@@ -62,8 +62,8 @@
       },
       {
         "live": [
-          "2.85",
-          "3.2",
+          "3.02",
+          "3",
           "2.15"
         ],
         "initial": [
@@ -17854,11 +17854,11 @@
     }
   },
   "sync": {
-    "running": true,
-    "runningSince": "2026-07-29T10:16:33.882Z",
-    "lastAt": "2026-07-29T10:16:32.772Z",
+    "running": false,
+    "runningSince": null,
+    "lastAt": "2026-07-29T12:32:46.638Z",
     "lastCount": 40,
-    "timeDiff": -34,
+    "timeDiff": -35,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000
   },

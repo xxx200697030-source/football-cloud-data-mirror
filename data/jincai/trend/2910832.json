@@ -1246,9 +1246,9 @@
   "sync": {
     "running": false,
     "runningSince": null,
-    "lastAt": "2026-07-29T10:16:44.945Z",
+    "lastAt": "2026-07-29T12:32:46.638Z",
     "lastCount": 40,
-    "timeDiff": -34,
+    "timeDiff": -35,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000
   },

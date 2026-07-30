@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "date": "2026-07-30",
+  "snapshot_count": 2,
+  "prediction_freeze_count": 0,
+  "latest_snapshot": {
+    "snapshot_id": "20260730T025522Z-prefetch-1100",
+    "captured_at": "2026-07-30T02:55:22.837Z",
+    "trigger": "prefetch-1100",
+    "source_status": {
+      "draw_today": "active_verified",
+      "draw_dates": "active_verified",
+      "matches": "active_verified",
+      "scores": "active_verified"
+    },
+    "immutable_hash": "0271ee70f9b9b9f7a6aff44fc1d9f37cf9fe56ed3410caafb216b44f5abc5a5e"
+  }
+}

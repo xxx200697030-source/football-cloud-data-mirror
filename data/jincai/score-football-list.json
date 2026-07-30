@@ -77,7 +77,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-30T06:43:57.000Z",
+        "scoreUpdatedAt": "2026-07-30T09:45:27.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5477001,
@@ -91,17 +91,17 @@
       },
       "odds": {
         "handicapLine": "0.5",
-        "homeHandicapOdds": 0.9,
-        "awayHandicapOdds": 0.92,
-        "ouLine": "2.5/3",
-        "overOdds": 0.83,
-        "underOdds": 0.97,
+        "homeHandicapOdds": 0.84,
+        "awayHandicapOdds": 0.98,
+        "ouLine": "3",
+        "overOdds": 1.01,
+        "underOdds": 0.79,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-30T06:43:57.000Z"
+      "updatedAt": "2026-07-30T09:45:27.000Z"
     },
     {
       "scheduleId": 3035513,
@@ -193,11 +193,11 @@
       },
       "odds": {
         "handicapLine": "0.5/1",
-        "homeHandicapOdds": 1.01,
-        "awayHandicapOdds": 0.81,
+        "homeHandicapOdds": 0.98,
+        "awayHandicapOdds": 0.84,
         "ouLine": "2.5",
-        "overOdds": 0.9,
-        "underOdds": 0.9,
+        "overOdds": 0.94,
+        "underOdds": 0.86,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
@@ -281,7 +281,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-30T06:43:57.000Z",
+        "scoreUpdatedAt": "2026-07-30T09:45:27.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5477003,
@@ -295,8 +295,8 @@
       },
       "odds": {
         "handicapLine": "0/0.5",
-        "homeHandicapOdds": 0.96,
-        "awayHandicapOdds": 0.86,
+        "homeHandicapOdds": 0.9,
+        "awayHandicapOdds": 0.92,
         "ouLine": "2.5/3",
         "overOdds": 1,
         "underOdds": 0.8,
@@ -305,7 +305,7 @@
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-30T06:43:57.000Z"
+      "updatedAt": "2026-07-30T09:45:27.000Z"
     },
     {
       "scheduleId": 3035516,
@@ -383,7 +383,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-30T06:43:57.000Z",
+        "scoreUpdatedAt": "2026-07-30T09:45:27.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5477004,
@@ -397,17 +397,17 @@
       },
       "odds": {
         "handicapLine": "-0/0.5",
-        "homeHandicapOdds": 0.85,
-        "awayHandicapOdds": 0.97,
-        "ouLine": "2.5/3",
-        "overOdds": 0.85,
-        "underOdds": 0.95,
+        "homeHandicapOdds": 0.88,
+        "awayHandicapOdds": 0.94,
+        "ouLine": "3",
+        "overOdds": 0.94,
+        "underOdds": 0.86,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-30T06:43:57.000Z"
+      "updatedAt": "2026-07-30T09:45:27.000Z"
     },
     {
       "scheduleId": 2999957,
@@ -485,7 +485,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-30T06:43:57.000Z",
+        "scoreUpdatedAt": "2026-07-30T09:45:27.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5477005,
@@ -509,7 +509,7 @@
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-30T06:43:57.000Z"
+      "updatedAt": "2026-07-30T09:45:27.000Z"
     },
     {
       "scheduleId": 2910830,
@@ -587,7 +587,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-30T06:43:57.000Z",
+        "scoreUpdatedAt": "2026-07-30T09:45:27.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": 5477006,
@@ -601,17 +601,17 @@
       },
       "odds": {
         "handicapLine": "0.5",
-        "homeHandicapOdds": 0.95,
-        "awayHandicapOdds": 0.94,
+        "homeHandicapOdds": 0.96,
+        "awayHandicapOdds": 0.93,
         "ouLine": "2",
-        "overOdds": 0.9,
-        "underOdds": 0.97,
+        "overOdds": 0.92,
+        "underOdds": 0.95,
         "homeTrend": 0,
         "awayTrend": 0,
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-30T06:43:57.000Z"
+      "updatedAt": "2026-07-30T09:45:27.000Z"
     },
     {
       "scheduleId": 2910832,
@@ -689,7 +689,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-30T06:43:57.000Z",
+        "scoreUpdatedAt": "2026-07-30T09:45:27.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": null,
@@ -713,7 +713,7 @@
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-30T06:43:57.000Z",
+      "updatedAt": "2026-07-30T09:45:27.000Z",
       "liveSources": [
         {
           "name": "线路1",
@@ -808,7 +808,7 @@
           "betBeidanList": "/api/beidan/list"
         },
         "scoreSourceUsed": "schedule",
-        "scoreUpdatedAt": "2026-07-30T06:43:57.000Z",
+        "scoreUpdatedAt": "2026-07-30T09:45:27.000Z",
         "matchesUpdatedAt": null,
         "intelUpdatedAt": null,
         "betMatchIdJingcai": null,
@@ -832,7 +832,7 @@
         "overTrend": 0,
         "underTrend": 0
       },
-      "updatedAt": "2026-07-30T06:43:57.000Z",
+      "updatedAt": "2026-07-30T09:45:27.000Z",
       "liveSources": [
         {
           "name": "线路1",
@@ -855,13 +855,13 @@
   "sync": {
     "running": false,
     "runningSince": null,
-    "lastAt": "2026-07-30T07:17:52.866Z",
+    "lastAt": "2026-07-30T10:02:04.871Z",
     "lastCount": 45,
     "timeDiff": -36,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000,
-    "gatewayWaitMs": 10952,
-    "gatewayAttempts": 1
+    "gatewayWaitMs": 18097,
+    "gatewayAttempts": 5
   },
   "filter": "jingcai",
   "dataSource": "beidan",

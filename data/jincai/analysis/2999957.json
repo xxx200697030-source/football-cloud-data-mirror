@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "scheduleId": 2999957,
-    "updatedAt": "2026-07-30T07:18:11.154Z",
+    "updatedAt": "2026-07-30T10:02:26.470Z",
     "homeTeam": "本菲卡",
     "guestTeam": "圣加仑",
     "preMatchOdds": [
@@ -68,9 +68,9 @@
           "2.45"
         ],
         "live": [
-          "2.15",
-          "3.9",
-          "2.45"
+          "2.1",
+          "3.72",
+          "2.6"
         ]
       }
     ],
@@ -16140,9 +16140,9 @@
     }
   },
   "sync": {
-    "running": false,
-    "runningSince": null,
-    "lastAt": "2026-07-30T07:18:03.776Z",
+    "running": true,
+    "runningSince": "2026-07-30T10:02:19.065Z",
+    "lastAt": "2026-07-30T10:02:17.809Z",
     "lastCount": 45,
     "timeDiff": -36,
     "intervalMs": 3600000,

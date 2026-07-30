@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "scheduleId": 2908668,
-    "updatedAt": "2026-07-30T07:18:09.858Z",
+    "updatedAt": "2026-07-30T10:02:25.240Z",
     "homeTeam": "纽约城",
     "guestTeam": "多伦多FC",
     "preMatchOdds": [
@@ -24402,6 +24402,16 @@
           "no": "3",
           "position": "左后卫",
           "name": "马修斯·佩雷拉"
+        },
+        {
+          "no": "71",
+          "position": "中前卫",
+          "name": "马库斯·西默曼契奇"
+        },
+        {
+          "no": "15",
+          "position": "中卫",
+          "name": "尼克森·戈米斯"
         }
       ]
     },
@@ -24621,9 +24631,9 @@
     }
   },
   "sync": {
-    "running": false,
-    "runningSince": null,
-    "lastAt": "2026-07-30T07:18:03.776Z",
+    "running": true,
+    "runningSince": "2026-07-30T10:02:19.065Z",
+    "lastAt": "2026-07-30T10:02:17.809Z",
     "lastCount": 45,
     "timeDiff": -36,
     "intervalMs": 3600000,

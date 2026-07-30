@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "scheduleId": 2908668,
-    "updatedAt": "2026-07-30T10:02:25.240Z",
+    "updatedAt": "2026-07-30T12:14:41.991Z",
     "homeTeam": "纽约城",
     "guestTeam": "多伦多FC",
     "preMatchOdds": [
@@ -40,9 +40,9 @@
           "0.86"
         ],
         "live": [
-          "0.95",
+          "0.92",
           "2.5/3",
-          "0.92"
+          "0.95"
         ]
       }
     ],
@@ -24632,8 +24632,8 @@
   },
   "sync": {
     "running": true,
-    "runningSince": "2026-07-30T10:02:19.065Z",
-    "lastAt": "2026-07-30T10:02:17.809Z",
+    "runningSince": "2026-07-30T12:14:40.821Z",
+    "lastAt": "2026-07-30T12:14:37.782Z",
     "lastCount": 45,
     "timeDiff": -36,
     "intervalMs": 3600000,

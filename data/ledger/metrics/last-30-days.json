@@ -3,7 +3,7 @@
   "metrics": {
     "from": "2026-06-30",
     "to": "2026-07-30",
-    "generated_at": "2026-07-30T10:02:56.848Z",
+    "generated_at": "2026-07-30T12:15:15.583Z",
     "scoring": {
       "brier": "mean multiclass squared error divided by 3; lower is better",
       "log_loss": "negative natural log probability of realised 1X2 result; lower is better"

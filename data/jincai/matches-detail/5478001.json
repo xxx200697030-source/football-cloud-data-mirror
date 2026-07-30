@@ -15,9 +15,9 @@
     "handicap": -1,
     "handicapText": "-1",
     "refOdds": [
-      "38.00",
-      "38.00",
-      "38.00"
+      null,
+      null,
+      null
     ],
     "isSingle": true,
     "playGroups": [

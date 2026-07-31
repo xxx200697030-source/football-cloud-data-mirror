@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "scheduleId": 2929679,
-    "updatedAt": "2026-07-31T07:32:25.804Z",
+    "updatedAt": "2026-07-31T10:13:37.763Z",
     "homeTeam": "济州SK",
     "guestTeam": "仁川联队",
     "preMatchOdds": [
@@ -25679,8 +25679,8 @@
   },
   "sync": {
     "running": true,
-    "runningSince": "2026-07-31T07:32:19.016Z",
-    "lastAt": "2026-07-31T07:32:18.965Z",
+    "runningSince": "2026-07-31T10:13:29.086Z",
+    "lastAt": "2026-07-31T10:13:27.831Z",
     "lastCount": 46,
     "timeDiff": -36,
     "intervalMs": 3600000,

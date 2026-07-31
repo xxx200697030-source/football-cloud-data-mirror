@@ -15,9 +15,9 @@
     "handicap": -1,
     "handicapText": "-1",
     "refOdds": [
-      null,
-      null,
-      null
+      "38.00",
+      "38.00",
+      "38.00"
     ],
     "isSingle": false,
     "playGroups": [
@@ -370,33 +370,33 @@
           {
             "idx": 3,
             "label": "3",
-            "odds": 3.4,
+            "odds": 3.3,
             "isSingle": true,
-            "prevOdds": 3.4,
+            "prevOdds": 3.3,
             "oddsTrend": 0
           },
           {
             "idx": 4,
             "label": "4",
-            "odds": 4.8,
+            "odds": 4.7,
             "isSingle": true,
-            "prevOdds": 4.8,
+            "prevOdds": 4.7,
             "oddsTrend": 0
           },
           {
             "idx": 5,
             "label": "5",
-            "odds": 7.5,
+            "odds": 8,
             "isSingle": true,
-            "prevOdds": 7.5,
+            "prevOdds": 8,
             "oddsTrend": 0
           },
           {
             "idx": 6,
             "label": "6",
-            "odds": 15,
+            "odds": 16,
             "isSingle": true,
-            "prevOdds": 15,
+            "prevOdds": 16,
             "oddsTrend": 0
           },
           {

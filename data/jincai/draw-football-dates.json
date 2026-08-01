@@ -2,46 +2,52 @@
   "code": 0,
   "data": [
     {
+      "code": 20260801,
+      "name": "08月01日 星期六",
+      "matchCount": 4,
+      "lastSyncAt": "2026-08-01T14:08:17.000Z"
+    },
+    {
       "code": 20260731,
       "name": "08月01日 星期六",
       "matchCount": 3,
-      "lastSyncAt": "2026-08-01T11:43:17.000Z"
+      "lastSyncAt": "2026-08-01T14:08:17.000Z"
     },
     {
       "code": 20260730,
       "name": "07月31日 星期五",
       "matchCount": 6,
-      "lastSyncAt": "2026-08-01T11:43:17.000Z"
+      "lastSyncAt": "2026-08-01T14:08:17.000Z"
     },
     {
       "code": 20260729,
       "name": "07月30日 星期四",
       "matchCount": 6,
-      "lastSyncAt": "2026-08-01T11:43:17.000Z"
+      "lastSyncAt": "2026-08-01T13:43:09.000Z"
     },
     {
       "code": 20260728,
       "name": "07月29日 星期三",
       "matchCount": 2,
-      "lastSyncAt": "2026-08-01T11:43:09.000Z"
+      "lastSyncAt": "2026-08-01T13:43:09.000Z"
     },
     {
       "code": 20260727,
       "name": "07月28日 星期二",
       "matchCount": 2,
-      "lastSyncAt": "2026-08-01T11:43:09.000Z"
+      "lastSyncAt": "2026-08-01T13:43:09.000Z"
     },
     {
       "code": 20260726,
       "name": "07月27日 星期一",
       "matchCount": 18,
-      "lastSyncAt": "2026-08-01T11:43:09.000Z"
+      "lastSyncAt": "2026-08-01T13:43:09.000Z"
     },
     {
       "code": 20260725,
       "name": "07月26日 星期日",
       "matchCount": 11,
-      "lastSyncAt": "2026-08-01T11:43:09.000Z"
+      "lastSyncAt": "2026-08-01T12:13:09.000Z"
     },
     {
       "code": 20260724,

@@ -2,13 +2,150 @@
   "code": 0,
   "data": {
     "dateCode": 20260801,
-    "groupTitle": null,
-    "matches": []
+    "groupTitle": "08月01日 星期六",
+    "matches": [
+      {
+        "scheduleId": 2913676,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月01日 星期六",
+        "matchNo": "周六004",
+        "leagueName": "芬超",
+        "homeTeam": "TPS图尔库",
+        "guestTeam": "玛丽港",
+        "scoreText": "3-0",
+        "halfScoreText": "2-0",
+        "details": [
+          {
+            "name": "胜（-1）",
+            "odds": "2.21"
+          },
+          {
+            "name": "胜",
+            "odds": "1.39"
+          },
+          {
+            "name": "3:0",
+            "odds": "10.5"
+          },
+          {
+            "name": "3球",
+            "odds": "3.25"
+          },
+          {
+            "name": "胜胜",
+            "odds": "1.87"
+          }
+        ],
+        "updatedAt": "2026-08-01T13:53:17.000Z"
+      },
+      {
+        "scheduleId": 2929677,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月01日 星期六",
+        "matchNo": "周六003",
+        "leagueName": "韩K联",
+        "homeTeam": "浦项制铁",
+        "guestTeam": "金泉尚武",
+        "scoreText": "0-1",
+        "halfScoreText": "0-0",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "1.46"
+          },
+          {
+            "name": "负",
+            "odds": "2.8"
+          },
+          {
+            "name": "0:1",
+            "odds": "8.75"
+          },
+          {
+            "name": "1球",
+            "odds": "4.1"
+          },
+          {
+            "name": "平负",
+            "odds": "5.95"
+          }
+        ],
+        "updatedAt": "2026-08-01T12:33:17.000Z"
+      },
+      {
+        "scheduleId": 2929676,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月01日 星期六",
+        "matchNo": "周六002",
+        "leagueName": "韩K联",
+        "homeTeam": "全北现代",
+        "guestTeam": "FC首尔",
+        "scoreText": "0-0",
+        "halfScoreText": "0-0",
+        "details": [
+          {
+            "name": "胜（+1）",
+            "odds": "1.41"
+          },
+          {
+            "name": "平",
+            "odds": "2.9"
+          },
+          {
+            "name": "0:0",
+            "odds": "12"
+          },
+          {
+            "name": "0球",
+            "odds": "12"
+          },
+          {
+            "name": "平平",
+            "odds": "4.45"
+          }
+        ],
+        "updatedAt": "2026-08-01T12:33:17.000Z"
+      },
+      {
+        "scheduleId": 2929675,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月01日 星期六",
+        "matchNo": "周六001",
+        "leagueName": "韩K联",
+        "homeTeam": "江原FC",
+        "guestTeam": "富川FC",
+        "scoreText": "0-3",
+        "halfScoreText": "0-1",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "2.38"
+          },
+          {
+            "name": "负",
+            "odds": "5.95"
+          },
+          {
+            "name": "0:3",
+            "odds": "100"
+          },
+          {
+            "name": "3球",
+            "odds": "3.6"
+          },
+          {
+            "name": "负负",
+            "odds": "11"
+          }
+        ],
+        "updatedAt": "2026-08-01T12:33:17.000Z"
+      }
+    ]
   },
   "sync": {
     "running": false,
-    "lastAt": "2026-08-01T11:43:17.215Z",
-    "lastCount": 15,
+    "lastAt": "2026-08-01T14:08:17.460Z",
+    "lastCount": 13,
     "intervalMs": 1800000
   }
 }

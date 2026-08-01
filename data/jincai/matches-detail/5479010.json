@@ -60,25 +60,25 @@
           {
             "idx": 0,
             "label": "胜",
-            "odds": 2.18,
+            "odds": 2.11,
             "isSingle": false,
-            "prevOdds": 2.18,
+            "prevOdds": 2.11,
             "oddsTrend": 0
           },
           {
             "idx": 1,
             "label": "平",
-            "odds": 3.83,
+            "odds": 4.05,
             "isSingle": false,
-            "prevOdds": 3.83,
+            "prevOdds": 4.05,
             "oddsTrend": 0
           },
           {
             "idx": 2,
             "label": "负",
-            "odds": 2.44,
+            "odds": 2.45,
             "isSingle": false,
-            "prevOdds": 2.44,
+            "prevOdds": 2.45,
             "oddsTrend": 0
           }
         ]
@@ -417,25 +417,25 @@
           {
             "idx": 0,
             "label": "胜胜",
-            "odds": 1.9,
+            "odds": 1.85,
             "isSingle": true,
-            "prevOdds": 1.9,
+            "prevOdds": 1.85,
             "oddsTrend": 0
           },
           {
             "idx": 1,
             "label": "胜平",
-            "odds": 16,
+            "odds": 17,
             "isSingle": true,
-            "prevOdds": 16,
+            "prevOdds": 17,
             "oddsTrend": 0
           },
           {
             "idx": 2,
             "label": "胜负",
-            "odds": 30,
+            "odds": 32,
             "isSingle": true,
-            "prevOdds": 30,
+            "prevOdds": 32,
             "oddsTrend": 0
           },
           {
@@ -473,17 +473,17 @@
           {
             "idx": 7,
             "label": "负平",
-            "odds": 16,
+            "odds": 17,
             "isSingle": true,
-            "prevOdds": 16,
+            "prevOdds": 17,
             "oddsTrend": 0
           },
           {
             "idx": 8,
             "label": "负负",
-            "odds": 8,
+            "odds": 8.35,
             "isSingle": true,
-            "prevOdds": 8,
+            "prevOdds": 8.35,
             "oddsTrend": 0
           }
         ]

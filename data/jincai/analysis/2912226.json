@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "scheduleId": 2912226,
-    "updatedAt": "2026-08-01T11:45:40.663Z",
+    "updatedAt": "2026-08-01T14:10:23.126Z",
     "homeTeam": "哈尔姆斯塔德",
     "guestTeam": "天狼星",
     "preMatchOdds": [
@@ -20452,7 +20452,28 @@
         ]
       }
     ],
-    "injury": null,
+    "injury": {
+      "subtitle": "伤员",
+      "home": [
+        {
+          "no": "24",
+          "position": "左后卫",
+          "name": "拉米·凯比"
+        },
+        {
+          "no": "27",
+          "position": "中前卫",
+          "name": "罗科·阿斯科内"
+        }
+      ],
+      "away": [
+        {
+          "no": "10",
+          "position": "后腰",
+          "name": "梅尔克·希尔"
+        }
+      ]
+    },
     "formFeature": [
       {
         "label": "主队对阵前8名",
@@ -20694,11 +20715,11 @@
     }
   },
   "sync": {
-    "running": false,
-    "runningSince": null,
-    "lastAt": "2026-08-01T11:45:36.269Z",
+    "running": true,
+    "runningSince": "2026-08-01T14:10:13.885Z",
+    "lastAt": "2026-08-01T14:10:13.685Z",
     "lastCount": 111,
-    "timeDiff": -37,
+    "timeDiff": -38,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000
   },

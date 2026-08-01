@@ -1223,11 +1223,11 @@
     "scheduleId": 2929676
   },
   "sync": {
-    "running": false,
-    "runningSince": null,
-    "lastAt": "2026-07-31T15:07:29.516Z",
-    "lastCount": 46,
-    "timeDiff": -36,
+    "running": true,
+    "runningSince": "2026-08-01T04:04:00.222Z",
+    "lastAt": "2026-08-01T04:03:54.391Z",
+    "lastCount": 111,
+    "timeDiff": -37,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000
   },

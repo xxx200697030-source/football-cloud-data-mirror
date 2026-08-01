@@ -2,165 +2,192 @@
   "code": 0,
   "data": {
     "scheduleId": 2929679,
-    "updatedAt": "2026-07-31T15:07:36.554Z",
+    "updatedAt": "2026-07-31T17:09:24.369Z",
     "homeTeam": "济州SK",
     "guestTeam": "仁川联队",
     "preMatchOdds": [
       {
+        "live": [
+          "2.95",
+          "2.95",
+          "2.49"
+        ],
         "type": "欧",
         "initial": [
           "3",
           "3",
           "2.42"
-        ],
-        "live": [
-          "2.95",
-          "2.95",
-          "2.49"
         ]
       },
       {
+        "live": [
+          "0.75",
+          "0/-0.5",
+          "1.14"
+        ],
         "type": "亚",
         "initial": [
           "0.78",
           "0/-0.5",
           "1.11"
-        ],
-        "live": [
-          "0.75",
-          "0/-0.5",
-          "1.14"
         ]
       },
       {
-        "type": "大",
-        "initial": [
+        "live": [
           "0.81",
           "2",
           "1.06"
         ],
-        "live": [
+        "type": "大",
+        "initial": [
           "0.81",
           "2",
           "1.06"
         ]
       }
     ],
-    "jingcaiOdds": [],
+    "jingcaiOdds": [
+      {
+        "live": [
+          "3.11",
+          "2.9",
+          "2.16"
+        ],
+        "initial": [
+          "3.11",
+          "2.9",
+          "2.16"
+        ],
+        "handicap": "0"
+      },
+      {
+        "live": [
+          "1.53",
+          "3.55",
+          "5.15"
+        ],
+        "initial": [
+          "1.53",
+          "3.55",
+          "5.15"
+        ],
+        "handicap": "+1"
+      }
+    ],
     "standings": [
       {
-        "team": "济州SK",
         "rows": [
           {
-            "scope": "总",
-            "played": "20",
             "win": "7",
             "draw": "6",
             "loss": "7",
-            "goalsFor": "19",
-            "goalsAgainst": "20",
-            "goalDiff": "-1",
-            "points": "27",
             "rank": "8",
-            "winRate": "35%"
+            "scope": "总",
+            "played": "20",
+            "points": "27",
+            "winRate": "35%",
+            "goalDiff": "-1",
+            "goalsFor": "19",
+            "goalsAgainst": "20"
           },
           {
-            "scope": "主",
-            "played": "11",
             "win": "3",
             "draw": "4",
             "loss": "4",
-            "goalsFor": "9",
-            "goalsAgainst": "12",
-            "goalDiff": "-3",
-            "points": "13",
             "rank": "6",
-            "winRate": "27%"
+            "scope": "主",
+            "played": "11",
+            "points": "13",
+            "winRate": "27%",
+            "goalDiff": "-3",
+            "goalsFor": "9",
+            "goalsAgainst": "12"
           },
           {
-            "scope": "客",
-            "played": "9",
             "win": "4",
             "draw": "2",
             "loss": "3",
-            "goalsFor": "10",
-            "goalsAgainst": "8",
-            "goalDiff": "2",
-            "points": "14",
             "rank": "9",
-            "winRate": "44%"
+            "scope": "客",
+            "played": "9",
+            "points": "14",
+            "winRate": "44%",
+            "goalDiff": "2",
+            "goalsFor": "10",
+            "goalsAgainst": "8"
           },
           {
-            "scope": "近",
-            "played": "6",
             "win": "2",
             "draw": "3",
             "loss": "1",
-            "goalsFor": "7",
-            "goalsAgainst": "6",
-            "goalDiff": "1",
-            "points": "9",
             "rank": "0",
-            "winRate": "33%"
+            "scope": "近",
+            "played": "6",
+            "points": "9",
+            "winRate": "33%",
+            "goalDiff": "1",
+            "goalsFor": "7",
+            "goalsAgainst": "6"
           }
-        ]
+        ],
+        "team": "济州SK"
       },
       {
-        "team": "仁川联队",
         "rows": [
           {
-            "scope": "总",
-            "played": "20",
             "win": "8",
             "draw": "4",
             "loss": "8",
-            "goalsFor": "25",
-            "goalsAgainst": "21",
-            "goalDiff": "4",
-            "points": "28",
             "rank": "6",
-            "winRate": "40%"
+            "scope": "总",
+            "played": "20",
+            "points": "28",
+            "winRate": "40%",
+            "goalDiff": "4",
+            "goalsFor": "25",
+            "goalsAgainst": "21"
           },
           {
-            "scope": "主",
-            "played": "11",
             "win": "4",
             "draw": "1",
             "loss": "6",
-            "goalsFor": "12",
-            "goalsAgainst": "12",
-            "goalDiff": "0",
-            "points": "13",
             "rank": "5",
-            "winRate": "36%"
+            "scope": "主",
+            "played": "11",
+            "points": "13",
+            "winRate": "36%",
+            "goalDiff": "0",
+            "goalsFor": "12",
+            "goalsAgainst": "12"
           },
           {
-            "scope": "客",
-            "played": "9",
             "win": "4",
             "draw": "3",
             "loss": "2",
-            "goalsFor": "13",
-            "goalsAgainst": "9",
-            "goalDiff": "4",
-            "points": "15",
             "rank": "8",
-            "winRate": "44%"
+            "scope": "客",
+            "played": "9",
+            "points": "15",
+            "winRate": "44%",
+            "goalDiff": "4",
+            "goalsFor": "13",
+            "goalsAgainst": "9"
           },
           {
-            "scope": "近",
-            "played": "6",
             "win": "3",
             "draw": "1",
             "loss": "2",
-            "goalsFor": "8",
-            "goalsAgainst": "4",
-            "goalDiff": "4",
-            "points": "10",
             "rank": "0",
-            "winRate": "50%"
+            "scope": "近",
+            "played": "6",
+            "points": "10",
+            "winRate": "50%",
+            "goalDiff": "4",
+            "goalsFor": "8",
+            "goalsAgainst": "4"
           }
-        ]
+        ],
+        "team": "仁川联队"
       }
     ],
     "h2h": [
@@ -24995,24 +25022,24 @@
         "team": "济州SK",
         "matches": [
           {
-            "date": "26-08-08",
-            "league": "韩K联",
-            "home": "全北现代",
             "away": "济州SK",
+            "date": "26-08-08",
+            "home": "全北现代",
+            "league": "韩K联",
             "interval": "6天"
           },
           {
-            "date": "26-08-15",
-            "league": "韩K联",
-            "home": "济州SK",
             "away": "FC安养",
+            "date": "26-08-15",
+            "home": "济州SK",
+            "league": "韩K联",
             "interval": "13天"
           },
           {
-            "date": "26-08-19",
-            "league": "韩国杯",
-            "home": "FC安养",
             "away": "济州SK",
+            "date": "26-08-19",
+            "home": "FC安养",
+            "league": "韩国杯",
             "interval": "17天"
           }
         ]
@@ -25021,24 +25048,24 @@
         "team": "仁川联队",
         "matches": [
           {
-            "date": "26-08-08",
-            "league": "韩K联",
-            "home": "江原FC",
             "away": "仁川联队",
+            "date": "26-08-08",
+            "home": "江原FC",
+            "league": "韩K联",
             "interval": "6天"
           },
           {
-            "date": "26-08-16",
-            "league": "韩K联",
-            "home": "仁川联队",
             "away": "金泉尚武",
+            "date": "26-08-16",
+            "home": "仁川联队",
+            "league": "韩K联",
             "interval": "14天"
           },
           {
-            "date": "26-08-23",
-            "league": "韩K联",
-            "home": "光州FC",
             "away": "仁川联队",
+            "date": "26-08-23",
+            "home": "光州FC",
+            "league": "韩K联",
             "interval": "21天"
           }
         ]
@@ -25046,69 +25073,42 @@
     ],
     "leagueTrend": [
       {
-        "team": "济州SK",
         "rows": [
           {
-            "scope": "总",
             "win": "11",
-            "push": "1",
             "loss": "8",
-            "winRate": "55%",
             "over": "7",
-            "overRate": "35%",
+            "push": "1",
+            "scope": "总",
             "under": "12",
+            "winRate": "55%",
+            "overRate": "35%",
             "underRate": "60%"
           },
           {
-            "scope": "主",
             "win": "5",
-            "push": "1",
             "loss": "5",
-            "winRate": "45.5%",
             "over": "4",
-            "overRate": "36.4%",
+            "push": "1",
+            "scope": "主",
             "under": "6",
+            "winRate": "45.5%",
+            "overRate": "36.4%",
             "underRate": "54.5%"
           },
           {
-            "scope": "客",
             "win": "6",
-            "push": "0",
             "loss": "3",
-            "winRate": "66.7%",
             "over": "3",
-            "overRate": "33.3%",
+            "push": "0",
+            "scope": "客",
             "under": "6",
+            "winRate": "66.7%",
+            "overRate": "33.3%",
             "underRate": "66.7%"
           },
           {
             "scope": "近六",
-            "letRecent": [
-              {
-                "text": "赢",
-                "tone": "win"
-              },
-              {
-                "text": "赢",
-                "tone": "win"
-              },
-              {
-                "text": "赢",
-                "tone": "win"
-              },
-              {
-                "text": "走",
-                "tone": "draw"
-              },
-              {
-                "text": "赢",
-                "tone": "win"
-              },
-              {
-                "text": "输",
-                "tone": "loss"
-              }
-            ],
             "ouRecent": [
               {
                 "text": "大",
@@ -25134,74 +25134,74 @@
                 "text": "大",
                 "tone": "win"
               }
+            ],
+            "letRecent": [
+              {
+                "text": "赢",
+                "tone": "win"
+              },
+              {
+                "text": "赢",
+                "tone": "win"
+              },
+              {
+                "text": "赢",
+                "tone": "win"
+              },
+              {
+                "text": "走",
+                "tone": "draw"
+              },
+              {
+                "text": "赢",
+                "tone": "win"
+              },
+              {
+                "text": "输",
+                "tone": "loss"
+              }
             ]
           }
-        ]
+        ],
+        "team": "济州SK"
       },
       {
-        "team": "仁川联队",
         "rows": [
           {
-            "scope": "总",
             "win": "10",
-            "push": "0",
             "loss": "10",
-            "winRate": "50%",
             "over": "10",
-            "overRate": "50%",
+            "push": "0",
+            "scope": "总",
             "under": "9",
+            "winRate": "50%",
+            "overRate": "50%",
             "underRate": "45%"
           },
           {
-            "scope": "主",
             "win": "4",
-            "push": "0",
             "loss": "7",
-            "winRate": "36.4%",
             "over": "5",
-            "overRate": "45.5%",
+            "push": "0",
+            "scope": "主",
             "under": "5",
+            "winRate": "36.4%",
+            "overRate": "45.5%",
             "underRate": "45.5%"
           },
           {
-            "scope": "客",
             "win": "6",
-            "push": "0",
             "loss": "3",
-            "winRate": "66.7%",
             "over": "5",
-            "overRate": "55.6%",
+            "push": "0",
+            "scope": "客",
             "under": "4",
+            "winRate": "66.7%",
+            "overRate": "55.6%",
             "underRate": "44.4%"
           },
           {
             "scope": "近六",
-            "letRecent": [
-              {
-                "text": "输",
-                "tone": "loss"
-              },
-              {
-                "text": "赢",
-                "tone": "win"
-              },
-              {
-                "text": "赢",
-                "tone": "win"
-              },
-              {
-                "text": "输",
-                "tone": "loss"
-              },
-              {
-                "text": "输",
-                "tone": "loss"
-              },
-              {
-                "text": "赢",
-                "tone": "win"
-              }
-            ],
             "ouRecent": [
               {
                 "text": "走",
@@ -25227,240 +25227,267 @@
                 "text": "大",
                 "tone": "win"
               }
+            ],
+            "letRecent": [
+              {
+                "text": "输",
+                "tone": "loss"
+              },
+              {
+                "text": "赢",
+                "tone": "win"
+              },
+              {
+                "text": "赢",
+                "tone": "win"
+              },
+              {
+                "text": "输",
+                "tone": "loss"
+              },
+              {
+                "text": "输",
+                "tone": "loss"
+              },
+              {
+                "text": "赢",
+                "tone": "win"
+              }
             ]
           }
-        ]
+        ],
+        "team": "仁川联队"
       }
     ],
     "sameHistoryTrend": [
       {
-        "team": "济州SK",
         "rows": [
           {
-            "date": "26-07-21",
-            "league": "韩K联",
-            "leagueColor": "#0542b1",
-            "home": "济州SK",
             "away": "江原FC",
-            "homeTone": "draw",
-            "awayTone": "",
+            "date": "26-07-21",
+            "home": "济州SK",
             "score": "1-1",
+            "league": "韩K联",
+            "awayTone": "",
+            "homeTone": "draw",
+            "resultTone": "win",
             "initialLine": "0/-0.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
+            "leagueColor": "#0542b1",
+            "handicapResult": "赢"
           },
           {
+            "away": "济州SK",
             "date": "26-07-05",
-            "league": "韩K联",
-            "leagueColor": "#0542b1",
             "home": "金泉尚武",
-            "away": "济州SK",
-            "homeTone": "",
+            "score": "1-1",
+            "league": "韩K联",
             "awayTone": "draw",
-            "score": "1-1",
+            "homeTone": "",
+            "resultTone": "win",
             "initialLine": "0/0.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
+            "leagueColor": "#0542b1",
+            "handicapResult": "赢"
           },
           {
-            "date": "26-04-18",
-            "league": "韩K联",
-            "leagueColor": "#0542b1",
-            "home": "济州SK",
             "away": "金泉尚武",
-            "homeTone": "draw",
-            "awayTone": "",
-            "score": "1-1",
-            "initialLine": "0/-0.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
-          },
-          {
-            "date": "26-03-15",
-            "league": "韩K联",
-            "leagueColor": "#0542b1",
+            "date": "26-04-18",
             "home": "济州SK",
-            "away": "FC首尔",
-            "homeTone": "loss",
+            "score": "1-1",
+            "league": "韩K联",
             "awayTone": "",
-            "score": "1-2",
+            "homeTone": "draw",
+            "resultTone": "win",
             "initialLine": "0/-0.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
+            "leagueColor": "#0542b1",
+            "handicapResult": "赢"
           },
           {
+            "away": "FC首尔",
+            "date": "26-03-15",
+            "home": "济州SK",
+            "score": "1-2",
+            "league": "韩K联",
+            "awayTone": "",
+            "homeTone": "loss",
+            "resultTone": "loss",
+            "initialLine": "0/-0.5",
+            "leagueColor": "#0542b1",
+            "handicapResult": "输"
+          },
+          {
+            "away": "济州SK",
             "date": "25-12-03",
-            "league": "韩K联",
-            "leagueColor": "#0542b1",
             "home": "水原三星",
-            "away": "济州SK",
-            "homeTone": "",
-            "awayTone": "win",
             "score": "0-1",
+            "league": "韩K联",
+            "awayTone": "win",
+            "homeTone": "",
+            "resultTone": "win",
             "initialLine": "0/0.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
+            "leagueColor": "#0542b1",
+            "handicapResult": "赢"
           },
           {
-            "date": "25-09-14",
-            "league": "韩K联",
-            "leagueColor": "#0542b1",
-            "home": "FC安养",
             "away": "济州SK",
-            "homeTone": "",
-            "awayTone": "loss",
+            "date": "25-09-14",
+            "home": "FC安养",
             "score": "2-1",
+            "league": "韩K联",
+            "awayTone": "loss",
+            "homeTone": "",
+            "resultTone": "loss",
             "initialLine": "0/0.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
+            "leagueColor": "#0542b1",
+            "handicapResult": "输"
           }
-        ]
+        ],
+        "team": "济州SK"
       },
       {
-        "team": "仁川联队",
         "rows": [
           {
+            "away": "仁川联队",
             "date": "26-04-18",
-            "league": "韩K联",
-            "leagueColor": "#0542b1",
             "home": "富川FC",
-            "away": "仁川联队",
-            "homeTone": "",
-            "awayTone": "draw",
             "score": "2-2",
-            "initialLine": "0/-0.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
-          },
-          {
-            "date": "26-04-05",
             "league": "韩K联",
-            "leagueColor": "#0542b1",
-            "home": "仁川联队",
-            "away": "金泉尚武",
-            "homeTone": "win",
-            "awayTone": "",
-            "score": "2-1",
-            "initialLine": "0/0.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
-          },
-          {
-            "date": "25-11-08",
-            "league": "韩K2联",
-            "leagueColor": "#0099cc",
-            "home": "全南天龙",
-            "away": "仁川联队",
-            "homeTone": "",
-            "awayTone": "loss",
-            "score": "2-1",
-            "initialLine": "0/-0.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
-          },
-          {
-            "date": "25-11-02",
-            "league": "韩K2联",
-            "leagueColor": "#0099cc",
-            "home": "仁川联队",
-            "away": "釜山偶像",
-            "homeTone": "draw",
-            "awayTone": "",
-            "score": "0-0",
-            "initialLine": "0/0.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
-          },
-          {
-            "date": "25-10-12",
-            "league": "韩K2联",
-            "leagueColor": "#0099cc",
-            "home": "城南FC",
-            "away": "仁川联队",
-            "homeTone": "",
             "awayTone": "draw",
-            "score": "2-2",
+            "homeTone": "",
+            "resultTone": "loss",
             "initialLine": "0/-0.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
+            "leagueColor": "#0542b1",
+            "handicapResult": "输"
           },
           {
-            "date": "25-10-08",
-            "league": "韩K2联",
-            "leagueColor": "#0099cc",
+            "away": "金泉尚武",
+            "date": "26-04-05",
             "home": "仁川联队",
-            "away": "水原三星",
-            "homeTone": "draw",
+            "score": "2-1",
+            "league": "韩K联",
             "awayTone": "",
-            "score": "1-1",
+            "homeTone": "win",
+            "resultTone": "win",
             "initialLine": "0/0.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
+            "leagueColor": "#0542b1",
+            "handicapResult": "赢"
+          },
+          {
+            "away": "仁川联队",
+            "date": "25-11-08",
+            "home": "全南天龙",
+            "score": "2-1",
+            "league": "韩K2联",
+            "awayTone": "loss",
+            "homeTone": "",
+            "resultTone": "loss",
+            "initialLine": "0/-0.5",
+            "leagueColor": "#0099cc",
+            "handicapResult": "输"
+          },
+          {
+            "away": "釜山偶像",
+            "date": "25-11-02",
+            "home": "仁川联队",
+            "score": "0-0",
+            "league": "韩K2联",
+            "awayTone": "",
+            "homeTone": "draw",
+            "resultTone": "loss",
+            "initialLine": "0/0.5",
+            "leagueColor": "#0099cc",
+            "handicapResult": "输"
+          },
+          {
+            "away": "仁川联队",
+            "date": "25-10-12",
+            "home": "城南FC",
+            "score": "2-2",
+            "league": "韩K2联",
+            "awayTone": "draw",
+            "homeTone": "",
+            "resultTone": "loss",
+            "initialLine": "0/-0.5",
+            "leagueColor": "#0099cc",
+            "handicapResult": "输"
+          },
+          {
+            "away": "水原三星",
+            "date": "25-10-08",
+            "home": "仁川联队",
+            "score": "1-1",
+            "league": "韩K2联",
+            "awayTone": "",
+            "homeTone": "draw",
+            "resultTone": "loss",
+            "initialLine": "0/0.5",
+            "leagueColor": "#0099cc",
+            "handicapResult": "输"
           }
-        ]
+        ],
+        "team": "仁川联队"
       }
     ],
     "injury": {
-      "subtitle": "伤员",
-      "home": [
-        {
-          "no": "8",
-          "position": "中前卫",
-          "name": "李昌珉"
-        }
-      ],
       "away": [
         {
           "no": "9",
-          "position": "中锋",
-          "name": "穆格沙"
+          "name": "穆格沙",
+          "position": "中锋"
         },
         {
           "no": "21",
-          "position": "守门员",
-          "name": "李太熙"
+          "name": "李太熙",
+          "position": "守门员"
         },
         {
           "no": "88",
-          "position": "前腰",
-          "name": "政原进"
+          "name": "政原进",
+          "position": "前腰"
         },
         {
           "no": "6",
-          "position": "后腰",
-          "name": "文智焕"
+          "name": "文智焕",
+          "position": "后腰"
         },
         {
           "no": "27",
-          "position": "左后卫",
-          "name": "杨承元"
+          "name": "杨承元",
+          "position": "左后卫"
         }
-      ]
+      ],
+      "home": [
+        {
+          "no": "8",
+          "name": "李昌珉",
+          "position": "中前卫"
+        }
+      ],
+      "subtitle": "伤员"
     },
     "formFeature": [
       {
-        "label": "主队对阵前6名",
         "win": "4",
         "draw": "1",
-        "loss": "3"
+        "loss": "3",
+        "label": "主队对阵前6名"
       },
       {
-        "label": "主队对阵后6名",
         "win": "3",
         "draw": "5",
-        "loss": "4"
+        "loss": "4",
+        "label": "主队对阵后6名"
       },
       {
-        "label": "客队对阵前6名",
         "win": "4",
         "draw": "2",
-        "loss": "5"
+        "loss": "5",
+        "label": "客队对阵前6名"
       },
       {
-        "label": "客队对阵后6名",
         "win": "4",
         "draw": "2",
-        "loss": "3"
+        "loss": "3",
+        "label": "客队对阵后6名"
       }
     ],
     "mediaAnalysis": {
@@ -25471,218 +25498,218 @@
       "defaultKey": "last5",
       "variants": {
         "last5": {
-          "key": "last5",
-          "label": "近5场",
-          "sameHomeAway": false,
           "idx": 0,
+          "key": "last5",
           "rows": [
             {
               "team": "济州SK",
-              "played": "5",
               "goals": "7",
+              "played": "5",
+              "winRate": "40%",
               "avgGoals": "1.4",
               "conceded": "5",
-              "avgConceded": "1",
-              "winRate": "40%",
               "drawRate": "60%",
-              "lossRate": "0%"
+              "lossRate": "0%",
+              "avgConceded": "1"
             },
             {
               "team": "仁川联队",
-              "played": "5",
               "goals": "4",
+              "played": "5",
+              "winRate": "40%",
               "avgGoals": "0.8",
               "conceded": "4",
-              "avgConceded": "0.8",
-              "winRate": "40%",
               "drawRate": "20%",
-              "lossRate": "40%"
+              "lossRate": "40%",
+              "avgConceded": "0.8"
             }
-          ]
+          ],
+          "label": "近5场",
+          "sameHomeAway": false
         },
         "last10": {
-          "key": "last10",
-          "label": "近10场",
-          "sameHomeAway": false,
           "idx": 1,
+          "key": "last10",
           "rows": [
             {
               "team": "济州SK",
-              "played": "10",
               "goals": "13",
+              "played": "10",
+              "winRate": "40%",
               "avgGoals": "1.3",
               "conceded": "11",
-              "avgConceded": "1.1",
-              "winRate": "40%",
               "drawRate": "40%",
-              "lossRate": "20%"
+              "lossRate": "20%",
+              "avgConceded": "1.1"
             },
             {
               "team": "仁川联队",
-              "played": "10",
               "goals": "11",
+              "played": "10",
+              "winRate": "40%",
               "avgGoals": "1.1",
               "conceded": "6",
-              "avgConceded": "0.6",
-              "winRate": "40%",
               "drawRate": "20%",
-              "lossRate": "40%"
+              "lossRate": "40%",
+              "avgConceded": "0.6"
             }
-          ]
+          ],
+          "label": "近10场",
+          "sameHomeAway": false
         },
         "last15": {
-          "key": "last15",
-          "label": "近15场",
-          "sameHomeAway": false,
           "idx": 2,
+          "key": "last15",
           "rows": [
             {
               "team": "济州SK",
-              "played": "15",
               "goals": "17",
+              "played": "15",
+              "winRate": "40%",
               "avgGoals": "1.1",
               "conceded": "15",
-              "avgConceded": "1",
-              "winRate": "40%",
               "drawRate": "33.3%",
-              "lossRate": "26.7%"
+              "lossRate": "26.7%",
+              "avgConceded": "1"
             },
             {
               "team": "仁川联队",
-              "played": "15",
               "goals": "17",
+              "played": "15",
+              "winRate": "40%",
               "avgGoals": "1.1",
               "conceded": "12",
-              "avgConceded": "0.8",
-              "winRate": "40%",
               "drawRate": "20%",
-              "lossRate": "40%"
+              "lossRate": "40%",
+              "avgConceded": "0.8"
             }
-          ]
+          ],
+          "label": "近15场",
+          "sameHomeAway": false
         },
         "last5_same": {
-          "key": "last5_same",
-          "label": "近5场",
-          "sameHomeAway": true,
           "idx": 3,
+          "key": "last5_same",
           "rows": [
             {
               "team": "济州SK",
-              "played": "5",
               "goals": "6",
+              "played": "5",
+              "winRate": "20%",
               "avgGoals": "1.2",
               "conceded": "6",
-              "avgConceded": "1.2",
-              "winRate": "20%",
               "drawRate": "60%",
-              "lossRate": "20%"
+              "lossRate": "20%",
+              "avgConceded": "1.2"
             },
             {
               "team": "仁川联队",
-              "played": "5",
               "goals": "7",
+              "played": "5",
+              "winRate": "60%",
               "avgGoals": "1.4",
               "conceded": "3",
-              "avgConceded": "0.6",
-              "winRate": "60%",
               "drawRate": "20%",
-              "lossRate": "20%"
+              "lossRate": "20%",
+              "avgConceded": "0.6"
             }
-          ]
+          ],
+          "label": "近5场",
+          "sameHomeAway": true
         },
         "last10_same": {
-          "key": "last10_same",
-          "label": "近10场",
-          "sameHomeAway": true,
           "idx": 4,
+          "key": "last10_same",
           "rows": [
             {
               "team": "济州SK",
-              "played": "10",
               "goals": "10",
+              "played": "10",
+              "winRate": "30%",
               "avgGoals": "1",
               "conceded": "12",
-              "avgConceded": "1.2",
-              "winRate": "30%",
               "drawRate": "40%",
-              "lossRate": "30%"
+              "lossRate": "30%",
+              "avgConceded": "1.2"
             },
             {
               "team": "仁川联队",
-              "played": "10",
               "goals": "14",
+              "played": "10",
+              "winRate": "40%",
               "avgGoals": "1.4",
               "conceded": "11",
-              "avgConceded": "1.1",
-              "winRate": "40%",
               "drawRate": "30%",
-              "lossRate": "30%"
+              "lossRate": "30%",
+              "avgConceded": "1.1"
             }
-          ]
+          ],
+          "label": "近10场",
+          "sameHomeAway": true
         },
         "last15_same": {
-          "key": "last15_same",
-          "label": "近15场",
-          "sameHomeAway": true,
           "idx": 5,
+          "key": "last15_same",
           "rows": [
             {
               "team": "济州SK",
-              "played": "15",
               "goals": "15",
+              "played": "15",
+              "winRate": "26.7%",
               "avgGoals": "1",
               "conceded": "17",
-              "avgConceded": "1.13",
-              "winRate": "26.7%",
               "drawRate": "40%",
-              "lossRate": "33.3%"
+              "lossRate": "33.3%",
+              "avgConceded": "1.13"
             },
             {
               "team": "仁川联队",
-              "played": "15",
               "goals": "22",
+              "played": "15",
+              "winRate": "46.7%",
               "avgGoals": "1.5",
               "conceded": "16",
-              "avgConceded": "1.07",
-              "winRate": "46.7%",
               "drawRate": "33.3%",
-              "lossRate": "20%"
+              "lossRate": "20%",
+              "avgConceded": "1.07"
             }
-          ]
+          ],
+          "label": "近15场",
+          "sameHomeAway": true
         }
       },
       "rows": [
         {
           "team": "济州SK",
-          "played": "5",
           "goals": "7",
+          "played": "5",
+          "winRate": "40%",
           "avgGoals": "1.4",
           "conceded": "5",
-          "avgConceded": "1",
-          "winRate": "40%",
           "drawRate": "60%",
-          "lossRate": "0%"
+          "lossRate": "0%",
+          "avgConceded": "1"
         },
         {
           "team": "仁川联队",
-          "played": "5",
           "goals": "4",
+          "played": "5",
+          "winRate": "40%",
           "avgGoals": "0.8",
           "conceded": "4",
-          "avgConceded": "0.8",
-          "winRate": "40%",
           "drawRate": "20%",
-          "lossRate": "40%"
+          "lossRate": "40%",
+          "avgConceded": "0.8"
         }
       ]
     }
   },
   "sync": {
-    "running": false,
-    "runningSince": null,
-    "lastAt": "2026-07-31T15:07:29.516Z",
-    "lastCount": 46,
-    "timeDiff": -36,
+    "running": true,
+    "runningSince": "2026-08-01T04:04:00.222Z",
+    "lastAt": "2026-08-01T04:03:54.391Z",
+    "lastCount": 111,
+    "timeDiff": -37,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000
   },

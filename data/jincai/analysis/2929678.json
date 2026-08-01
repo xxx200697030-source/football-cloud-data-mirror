@@ -2,165 +2,192 @@
   "code": 0,
   "data": {
     "scheduleId": 2929678,
-    "updatedAt": "2026-07-31T15:07:36.711Z",
+    "updatedAt": "2026-07-31T15:26:00.058Z",
     "homeTeam": "大田市民",
     "guestTeam": "光州FC",
     "preMatchOdds": [
       {
+        "live": [
+          "1.47",
+          "4.3",
+          "5.9"
+        ],
         "type": "欧",
         "initial": [
           "1.5",
           "4.1",
           "5.9"
-        ],
-        "live": [
-          "1.47",
-          "4.3",
-          "5.9"
         ]
       },
       {
+        "live": [
+          "0.84",
+          "1",
+          "1.04"
+        ],
         "type": "亚",
         "initial": [
           "0.91",
           "1",
           "0.97"
-        ],
-        "live": [
-          "0.84",
-          "1",
-          "1.04"
         ]
       },
       {
+        "live": [
+          "0.86",
+          "2.5",
+          "1.01"
+        ],
         "type": "大",
         "initial": [
           "0.99",
           "2.5",
           "0.88"
-        ],
-        "live": [
-          "0.86",
-          "2.5",
-          "1.01"
         ]
       }
     ],
-    "jingcaiOdds": [],
+    "jingcaiOdds": [
+      {
+        "live": [
+          "1.4",
+          "3.9",
+          "6.3"
+        ],
+        "initial": [
+          "1.4",
+          "3.9",
+          "6.3"
+        ],
+        "handicap": "0"
+      },
+      {
+        "live": [
+          "2.36",
+          "3.25",
+          "2.51"
+        ],
+        "initial": [
+          "2.36",
+          "3.25",
+          "2.51"
+        ],
+        "handicap": "-1"
+      }
+    ],
     "standings": [
       {
-        "team": "大田市民",
         "rows": [
           {
-            "scope": "总",
-            "played": "20",
             "win": "4",
             "draw": "8",
             "loss": "8",
-            "goalsFor": "23",
-            "goalsAgainst": "23",
-            "goalDiff": "0",
-            "points": "20",
             "rank": "9",
-            "winRate": "20%"
+            "scope": "总",
+            "played": "20",
+            "points": "20",
+            "winRate": "20%",
+            "goalDiff": "0",
+            "goalsFor": "23",
+            "goalsAgainst": "23"
           },
           {
-            "scope": "主",
-            "played": "10",
             "win": "0",
             "draw": "5",
             "loss": "5",
-            "goalsFor": "7",
-            "goalsAgainst": "14",
-            "goalDiff": "-7",
-            "points": "5",
             "rank": "12",
-            "winRate": "0%"
+            "scope": "主",
+            "played": "10",
+            "points": "5",
+            "winRate": "0%",
+            "goalDiff": "-7",
+            "goalsFor": "7",
+            "goalsAgainst": "14"
           },
           {
-            "scope": "客",
-            "played": "10",
             "win": "4",
             "draw": "3",
             "loss": "3",
-            "goalsFor": "16",
-            "goalsAgainst": "9",
-            "goalDiff": "7",
-            "points": "15",
             "rank": "7",
-            "winRate": "40%"
+            "scope": "客",
+            "played": "10",
+            "points": "15",
+            "winRate": "40%",
+            "goalDiff": "7",
+            "goalsFor": "16",
+            "goalsAgainst": "9"
           },
           {
-            "scope": "近",
-            "played": "6",
             "win": "0",
             "draw": "4",
             "loss": "2",
-            "goalsFor": "7",
-            "goalsAgainst": "9",
-            "goalDiff": "-2",
-            "points": "4",
             "rank": "0",
-            "winRate": "0%"
+            "scope": "近",
+            "played": "6",
+            "points": "4",
+            "winRate": "0%",
+            "goalDiff": "-2",
+            "goalsFor": "7",
+            "goalsAgainst": "9"
           }
-        ]
+        ],
+        "team": "大田市民"
       },
       {
-        "team": "光州FC",
         "rows": [
           {
-            "scope": "总",
-            "played": "20",
             "win": "1",
             "draw": "7",
             "loss": "12",
-            "goalsFor": "11",
-            "goalsAgainst": "45",
-            "goalDiff": "-34",
-            "points": "10",
             "rank": "12",
-            "winRate": "5%"
+            "scope": "总",
+            "played": "20",
+            "points": "10",
+            "winRate": "5%",
+            "goalDiff": "-34",
+            "goalsFor": "11",
+            "goalsAgainst": "45"
           },
           {
-            "scope": "主",
-            "played": "11",
             "win": "1",
             "draw": "4",
             "loss": "6",
-            "goalsFor": "8",
-            "goalsAgainst": "21",
-            "goalDiff": "-13",
-            "points": "7",
             "rank": "11",
-            "winRate": "9%"
+            "scope": "主",
+            "played": "11",
+            "points": "7",
+            "winRate": "9%",
+            "goalDiff": "-13",
+            "goalsFor": "8",
+            "goalsAgainst": "21"
           },
           {
-            "scope": "客",
-            "played": "9",
             "win": "0",
             "draw": "3",
             "loss": "6",
-            "goalsFor": "3",
-            "goalsAgainst": "24",
-            "goalDiff": "-21",
-            "points": "3",
             "rank": "12",
-            "winRate": "0%"
+            "scope": "客",
+            "played": "9",
+            "points": "3",
+            "winRate": "0%",
+            "goalDiff": "-21",
+            "goalsFor": "3",
+            "goalsAgainst": "24"
           },
           {
-            "scope": "近",
-            "played": "6",
             "win": "0",
             "draw": "3",
             "loss": "3",
-            "goalsFor": "4",
-            "goalsAgainst": "12",
-            "goalDiff": "-8",
-            "points": "3",
             "rank": "0",
-            "winRate": "0%"
+            "scope": "近",
+            "played": "6",
+            "points": "3",
+            "winRate": "0%",
+            "goalDiff": "-8",
+            "goalsFor": "4",
+            "goalsAgainst": "12"
           }
-        ]
+        ],
+        "team": "光州FC"
       }
     ],
     "h2h": [
@@ -24841,24 +24868,24 @@
         "team": "大田市民",
         "matches": [
           {
-            "date": "26-08-08",
-            "league": "韩K联",
-            "home": "FC安养",
             "away": "大田市民",
+            "date": "26-08-08",
+            "home": "FC安养",
+            "league": "韩K联",
             "interval": "6天"
           },
           {
-            "date": "26-08-15",
-            "league": "韩K联",
-            "home": "FC首尔",
             "away": "大田市民",
+            "date": "26-08-15",
+            "home": "FC首尔",
+            "league": "韩K联",
             "interval": "13天"
           },
           {
-            "date": "26-08-19",
-            "league": "韩国杯",
-            "home": "忠南牙山",
             "away": "大田市民",
+            "date": "26-08-19",
+            "home": "忠南牙山",
+            "league": "韩国杯",
             "interval": "17天"
           }
         ]
@@ -24867,24 +24894,24 @@
         "team": "光州FC",
         "matches": [
           {
-            "date": "26-08-08",
-            "league": "韩K联",
-            "home": "富川FC",
             "away": "光州FC",
+            "date": "26-08-08",
+            "home": "富川FC",
+            "league": "韩K联",
             "interval": "6天"
           },
           {
-            "date": "26-08-15",
-            "league": "韩K联",
-            "home": "光州FC",
             "away": "浦项制铁",
+            "date": "26-08-15",
+            "home": "光州FC",
+            "league": "韩K联",
             "interval": "13天"
           },
           {
-            "date": "26-08-19",
-            "league": "韩国杯",
-            "home": "蔚山市民",
             "away": "光州FC",
+            "date": "26-08-19",
+            "home": "蔚山市民",
+            "league": "韩国杯",
             "interval": "17天"
           }
         ]
@@ -24892,43 +24919,68 @@
     ],
     "leagueTrend": [
       {
-        "team": "大田市民",
         "rows": [
           {
-            "scope": "总",
             "win": "5",
-            "push": "1",
             "loss": "14",
-            "winRate": "25%",
             "over": "7",
-            "overRate": "35%",
+            "push": "1",
+            "scope": "总",
             "under": "13",
+            "winRate": "25%",
+            "overRate": "35%",
             "underRate": "65%"
           },
           {
-            "scope": "主",
             "win": "0",
-            "push": "0",
             "loss": "10",
-            "winRate": "0%",
             "over": "3",
-            "overRate": "30%",
+            "push": "0",
+            "scope": "主",
             "under": "7",
+            "winRate": "0%",
+            "overRate": "30%",
             "underRate": "70%"
           },
           {
-            "scope": "客",
             "win": "5",
-            "push": "1",
             "loss": "4",
-            "winRate": "50%",
             "over": "4",
-            "overRate": "40%",
+            "push": "1",
+            "scope": "客",
             "under": "6",
+            "winRate": "50%",
+            "overRate": "40%",
             "underRate": "60%"
           },
           {
             "scope": "近六",
+            "ouRecent": [
+              {
+                "text": "大",
+                "tone": "win"
+              },
+              {
+                "text": "小",
+                "tone": "loss"
+              },
+              {
+                "text": "大",
+                "tone": "win"
+              },
+              {
+                "text": "小",
+                "tone": "loss"
+              },
+              {
+                "text": "大",
+                "tone": "win"
+              },
+              {
+                "text": "大",
+                "tone": "win"
+              }
+            ],
             "letRecent": [
               {
                 "text": "输",
@@ -24954,7 +25006,48 @@
                 "text": "输",
                 "tone": "loss"
               }
-            ],
+            ]
+          }
+        ],
+        "team": "大田市民"
+      },
+      {
+        "rows": [
+          {
+            "win": "9",
+            "loss": "11",
+            "over": "10",
+            "push": "0",
+            "scope": "总",
+            "under": "10",
+            "winRate": "45%",
+            "overRate": "50%",
+            "underRate": "50%"
+          },
+          {
+            "win": "6",
+            "loss": "5",
+            "over": "5",
+            "push": "0",
+            "scope": "主",
+            "under": "6",
+            "winRate": "54.5%",
+            "overRate": "45.5%",
+            "underRate": "54.5%"
+          },
+          {
+            "win": "3",
+            "loss": "6",
+            "over": "5",
+            "push": "0",
+            "scope": "客",
+            "under": "4",
+            "winRate": "33.3%",
+            "overRate": "55.6%",
+            "underRate": "44.4%"
+          },
+          {
+            "scope": "近六",
             "ouRecent": [
               {
                 "text": "大",
@@ -24965,6 +25058,10 @@
                 "tone": "loss"
               },
               {
+                "text": "小",
+                "tone": "loss"
+              },
+              {
                 "text": "大",
                 "tone": "win"
               },
@@ -24975,53 +25072,8 @@
               {
                 "text": "大",
                 "tone": "win"
-              },
-              {
-                "text": "大",
-                "tone": "win"
               }
-            ]
-          }
-        ]
-      },
-      {
-        "team": "光州FC",
-        "rows": [
-          {
-            "scope": "总",
-            "win": "9",
-            "push": "0",
-            "loss": "11",
-            "winRate": "45%",
-            "over": "10",
-            "overRate": "50%",
-            "under": "10",
-            "underRate": "50%"
-          },
-          {
-            "scope": "主",
-            "win": "6",
-            "push": "0",
-            "loss": "5",
-            "winRate": "54.5%",
-            "over": "5",
-            "overRate": "45.5%",
-            "under": "6",
-            "underRate": "54.5%"
-          },
-          {
-            "scope": "客",
-            "win": "3",
-            "push": "0",
-            "loss": "6",
-            "winRate": "33.3%",
-            "over": "5",
-            "overRate": "55.6%",
-            "under": "4",
-            "underRate": "44.4%"
-          },
-          {
-            "scope": "近六",
+            ],
             "letRecent": [
               {
                 "text": "输",
@@ -25047,261 +25099,236 @@
                 "text": "输",
                 "tone": "loss"
               }
-            ],
-            "ouRecent": [
-              {
-                "text": "大",
-                "tone": "win"
-              },
-              {
-                "text": "小",
-                "tone": "loss"
-              },
-              {
-                "text": "小",
-                "tone": "loss"
-              },
-              {
-                "text": "大",
-                "tone": "win"
-              },
-              {
-                "text": "小",
-                "tone": "loss"
-              },
-              {
-                "text": "大",
-                "tone": "win"
-              }
             ]
           }
-        ]
+        ],
+        "team": "光州FC"
       }
     ],
     "sameHistoryTrend": [
       {
-        "team": "大田市民",
         "rows": [
           {
+            "away": "釜山偶像",
             "date": "22-08-07",
-            "league": "韩K2联",
-            "leagueColor": "#0099cc",
             "home": "大田市民",
-            "away": "釜山偶像",
-            "homeTone": "win",
-            "awayTone": "",
             "score": "3-0",
+            "league": "韩K2联",
+            "awayTone": "",
+            "homeTone": "win",
+            "resultTone": "win",
             "initialLine": "1",
-            "handicapResult": "赢",
-            "resultTone": "win"
+            "leagueColor": "#0099cc",
+            "handicapResult": "赢"
           },
           {
-            "date": "22-07-05",
-            "league": "韩K2联",
-            "leagueColor": "#0099cc",
-            "home": "大田市民",
             "away": "安山小绿人",
-            "homeTone": "win",
-            "awayTone": "",
+            "date": "22-07-05",
+            "home": "大田市民",
             "score": "2-0",
+            "league": "韩K2联",
+            "awayTone": "",
+            "homeTone": "win",
+            "resultTone": "win",
             "initialLine": "1",
-            "handicapResult": "赢",
-            "resultTone": "win"
+            "leagueColor": "#0099cc",
+            "handicapResult": "赢"
           },
           {
-            "date": "22-05-17",
-            "league": "韩K2联",
-            "leagueColor": "#0099cc",
-            "home": "大田市民",
             "away": "釜山偶像",
-            "homeTone": "win",
-            "awayTone": "",
+            "date": "22-05-17",
+            "home": "大田市民",
             "score": "4-3",
+            "league": "韩K2联",
+            "awayTone": "",
+            "homeTone": "win",
+            "resultTone": "draw",
             "initialLine": "1",
-            "handicapResult": "走",
-            "resultTone": "draw"
+            "leagueColor": "#0099cc",
+            "handicapResult": "走"
           },
           {
-            "date": "21-05-24",
-            "league": "韩K2联",
-            "leagueColor": "#0099cc",
-            "home": "大田市民",
             "away": "富川FC",
-            "homeTone": "win",
-            "awayTone": "",
+            "date": "21-05-24",
+            "home": "大田市民",
             "score": "4-1",
-            "initialLine": "1",
-            "handicapResult": "赢",
-            "resultTone": "win"
-          },
-          {
-            "date": "20-06-06",
-            "league": "韩国杯",
-            "leagueColor": "#3300CC",
-            "home": "大田市民",
-            "away": "春川市民",
-            "homeTone": "win",
-            "awayTone": "",
-            "score": "3-0",
-            "initialLine": "1",
-            "handicapResult": "赢",
-            "resultTone": "win"
-          },
-          {
-            "date": "16-10-23",
             "league": "韩K2联",
-            "leagueColor": "#0099cc",
-            "home": "大田市民",
-            "away": "芦原哈默尔",
-            "homeTone": "draw",
             "awayTone": "",
-            "score": "2-2",
+            "homeTone": "win",
+            "resultTone": "win",
             "initialLine": "1",
-            "handicapResult": "输",
-            "resultTone": "loss"
+            "leagueColor": "#0099cc",
+            "handicapResult": "赢"
+          },
+          {
+            "away": "春川市民",
+            "date": "20-06-06",
+            "home": "大田市民",
+            "score": "3-0",
+            "league": "韩国杯",
+            "awayTone": "",
+            "homeTone": "win",
+            "resultTone": "win",
+            "initialLine": "1",
+            "leagueColor": "#3300CC",
+            "handicapResult": "赢"
+          },
+          {
+            "away": "芦原哈默尔",
+            "date": "16-10-23",
+            "home": "大田市民",
+            "score": "2-2",
+            "league": "韩K2联",
+            "awayTone": "",
+            "homeTone": "draw",
+            "resultTone": "loss",
+            "initialLine": "1",
+            "leagueColor": "#0099cc",
+            "handicapResult": "输"
           }
-        ]
+        ],
+        "team": "大田市民"
       },
       {
-        "team": "光州FC",
         "rows": [
           {
+            "away": "光州FC",
             "date": "26-07-19",
-            "league": "韩K联",
-            "leagueColor": "#0542b1",
             "home": "FC安养",
-            "away": "光州FC",
-            "homeTone": "",
+            "score": "1-1",
+            "league": "韩K联",
             "awayTone": "draw",
-            "score": "1-1",
+            "homeTone": "",
+            "resultTone": "win",
             "initialLine": "1",
-            "handicapResult": "赢",
-            "resultTone": "win"
+            "leagueColor": "#0542b1",
+            "handicapResult": "赢"
           },
           {
-            "date": "26-07-11",
-            "league": "韩K联",
-            "leagueColor": "#0542b1",
-            "home": "光州FC",
             "away": "浦项制铁",
-            "homeTone": "loss",
-            "awayTone": "",
-            "score": "0-3",
-            "initialLine": "-1",
-            "handicapResult": "输",
-            "resultTone": "loss"
-          },
-          {
-            "date": "26-07-05",
-            "league": "韩K联",
-            "leagueColor": "#0542b1",
+            "date": "26-07-11",
             "home": "光州FC",
-            "away": "蔚山HD",
-            "homeTone": "draw",
+            "score": "0-3",
+            "league": "韩K联",
             "awayTone": "",
-            "score": "1-1",
+            "homeTone": "loss",
+            "resultTone": "loss",
             "initialLine": "-1",
-            "handicapResult": "赢",
-            "resultTone": "win"
+            "leagueColor": "#0542b1",
+            "handicapResult": "输"
           },
           {
+            "away": "蔚山HD",
+            "date": "26-07-05",
+            "home": "光州FC",
+            "score": "1-1",
+            "league": "韩K联",
+            "awayTone": "",
+            "homeTone": "draw",
+            "resultTone": "win",
+            "initialLine": "-1",
+            "leagueColor": "#0542b1",
+            "handicapResult": "赢"
+          },
+          {
+            "away": "光州FC",
             "date": "26-05-16",
-            "league": "韩K联",
-            "leagueColor": "#0542b1",
             "home": "仁川联队",
-            "away": "光州FC",
-            "homeTone": "",
-            "awayTone": "loss",
             "score": "4-0",
-            "initialLine": "1",
-            "handicapResult": "输",
-            "resultTone": "loss"
-          },
-          {
-            "date": "26-04-19",
             "league": "韩K联",
-            "leagueColor": "#0542b1",
-            "home": "蔚山HD",
-            "away": "光州FC",
-            "homeTone": "",
             "awayTone": "loss",
-            "score": "5-1",
+            "homeTone": "",
+            "resultTone": "loss",
             "initialLine": "1",
-            "handicapResult": "输",
-            "resultTone": "loss"
+            "leagueColor": "#0542b1",
+            "handicapResult": "输"
           },
           {
-            "date": "25-03-05",
-            "league": "亚冠精英",
-            "leagueColor": "#0000DB",
-            "home": "神户胜利船",
             "away": "光州FC",
-            "homeTone": "",
+            "date": "26-04-19",
+            "home": "蔚山HD",
+            "score": "5-1",
+            "league": "韩K联",
             "awayTone": "loss",
-            "score": "2-0",
+            "homeTone": "",
+            "resultTone": "loss",
             "initialLine": "1",
-            "handicapResult": "输",
-            "resultTone": "loss"
+            "leagueColor": "#0542b1",
+            "handicapResult": "输"
+          },
+          {
+            "away": "光州FC",
+            "date": "25-03-05",
+            "home": "神户胜利船",
+            "score": "2-0",
+            "league": "亚冠精英",
+            "awayTone": "loss",
+            "homeTone": "",
+            "resultTone": "loss",
+            "initialLine": "1",
+            "leagueColor": "#0000DB",
+            "handicapResult": "输"
           }
-        ]
+        ],
+        "team": "光州FC"
       }
     ],
     "injury": {
-      "subtitle": "伤员",
-      "home": [
-        {
-          "no": "7",
-          "position": "影锋",
-          "name": "石田雅俊"
-        },
-        {
-          "no": "23",
-          "position": "左后卫",
-          "name": "徐永在"
-        },
-        {
-          "no": "45",
-          "position": "中卫",
-          "name": "河昌来"
-        },
-        {
-          "no": "11",
-          "position": "右边锋",
-          "name": "严原上"
-        }
-      ],
       "away": [
         {
           "no": "10",
-          "position": "前腰",
-          "name": "崔庆录"
+          "name": "崔庆录",
+          "position": "前腰"
         }
-      ]
+      ],
+      "home": [
+        {
+          "no": "7",
+          "name": "石田雅俊",
+          "position": "影锋"
+        },
+        {
+          "no": "23",
+          "name": "徐永在",
+          "position": "左后卫"
+        },
+        {
+          "no": "45",
+          "name": "河昌来",
+          "position": "中卫"
+        },
+        {
+          "no": "11",
+          "name": "严原上",
+          "position": "右边锋"
+        }
+      ],
+      "subtitle": "伤员"
     },
     "formFeature": [
       {
-        "label": "主队对阵前6名",
         "win": "2",
         "draw": "3",
-        "loss": "4"
+        "loss": "4",
+        "label": "主队对阵前6名"
       },
       {
-        "label": "主队对阵后6名",
         "win": "2",
         "draw": "5",
-        "loss": "4"
+        "loss": "4",
+        "label": "主队对阵后6名"
       },
       {
-        "label": "客队对阵前6名",
         "win": "0",
         "draw": "2",
-        "loss": "6"
+        "loss": "6",
+        "label": "客队对阵前6名"
       },
       {
-        "label": "客队对阵后6名",
         "win": "1",
         "draw": "5",
-        "loss": "6"
+        "loss": "6",
+        "label": "客队对阵后6名"
       }
     ],
     "mediaAnalysis": {
@@ -25312,218 +25339,218 @@
       "defaultKey": "last5",
       "variants": {
         "last5": {
-          "key": "last5",
-          "label": "近5场",
-          "sameHomeAway": false,
           "idx": 0,
+          "key": "last5",
           "rows": [
             {
               "team": "大田市民",
-              "played": "5",
               "goals": "6",
+              "played": "5",
+              "winRate": "0%",
               "avgGoals": "1.2",
               "conceded": "7",
-              "avgConceded": "1.4",
-              "winRate": "0%",
               "drawRate": "80%",
-              "lossRate": "20%"
+              "lossRate": "20%",
+              "avgConceded": "1.4"
             },
             {
               "team": "光州FC",
-              "played": "5",
               "goals": "4",
+              "played": "5",
+              "winRate": "20%",
               "avgGoals": "0.8",
               "conceded": "7",
-              "avgConceded": "1.4",
-              "winRate": "20%",
               "drawRate": "40%",
-              "lossRate": "40%"
+              "lossRate": "40%",
+              "avgConceded": "1.4"
             }
-          ]
+          ],
+          "label": "近5场",
+          "sameHomeAway": false
         },
         "last10": {
-          "key": "last10",
-          "label": "近10场",
-          "sameHomeAway": false,
           "idx": 1,
+          "key": "last10",
           "rows": [
             {
               "team": "大田市民",
-              "played": "10",
               "goals": "12",
+              "played": "10",
+              "winRate": "10%",
               "avgGoals": "1.2",
               "conceded": "13",
-              "avgConceded": "1.3",
-              "winRate": "10%",
               "drawRate": "50%",
-              "lossRate": "40%"
+              "lossRate": "40%",
+              "avgConceded": "1.3"
             },
             {
               "team": "光州FC",
-              "played": "10",
               "goals": "5",
+              "played": "10",
+              "winRate": "10%",
               "avgGoals": "0.5",
               "conceded": "17",
-              "avgConceded": "1.7",
-              "winRate": "10%",
               "drawRate": "40%",
-              "lossRate": "50%"
+              "lossRate": "50%",
+              "avgConceded": "1.7"
             }
-          ]
+          ],
+          "label": "近10场",
+          "sameHomeAway": false
         },
         "last15": {
-          "key": "last15",
-          "label": "近15场",
-          "sameHomeAway": false,
           "idx": 2,
+          "key": "last15",
           "rows": [
             {
               "team": "大田市民",
-              "played": "15",
               "goals": "17",
+              "played": "15",
+              "winRate": "20%",
               "avgGoals": "1.1",
               "conceded": "18",
-              "avgConceded": "1.2",
-              "winRate": "20%",
               "drawRate": "33.3%",
-              "lossRate": "46.7%"
+              "lossRate": "46.7%",
+              "avgConceded": "1.2"
             },
             {
               "team": "光州FC",
-              "played": "15",
               "goals": "8",
+              "played": "15",
+              "winRate": "6.7%",
               "avgGoals": "0.5",
               "conceded": "34",
-              "avgConceded": "2.27",
-              "winRate": "6.7%",
               "drawRate": "26.7%",
-              "lossRate": "66.7%"
+              "lossRate": "66.7%",
+              "avgConceded": "2.27"
             }
-          ]
+          ],
+          "label": "近15场",
+          "sameHomeAway": false
         },
         "last5_same": {
-          "key": "last5_same",
-          "label": "近5场",
-          "sameHomeAway": true,
           "idx": 3,
+          "key": "last5_same",
           "rows": [
             {
               "team": "大田市民",
-              "played": "5",
               "goals": "5",
+              "played": "5",
+              "winRate": "0%",
               "avgGoals": "1",
               "conceded": "8",
-              "avgConceded": "1.6",
-              "winRate": "0%",
               "drawRate": "60%",
-              "lossRate": "40%"
+              "lossRate": "40%",
+              "avgConceded": "1.6"
             },
             {
               "team": "光州FC",
-              "played": "5",
               "goals": "2",
+              "played": "5",
+              "winRate": "0%",
               "avgGoals": "0.4",
               "conceded": "15",
-              "avgConceded": "3",
-              "winRate": "0%",
               "drawRate": "20%",
-              "lossRate": "80%"
+              "lossRate": "80%",
+              "avgConceded": "3"
             }
-          ]
+          ],
+          "label": "近5场",
+          "sameHomeAway": true
         },
         "last10_same": {
-          "key": "last10_same",
-          "label": "近10场",
-          "sameHomeAway": true,
           "idx": 4,
+          "key": "last10_same",
           "rows": [
             {
               "team": "大田市民",
-              "played": "10",
               "goals": "7",
+              "played": "10",
+              "winRate": "0%",
               "avgGoals": "0.7",
               "conceded": "14",
-              "avgConceded": "1.4",
-              "winRate": "0%",
               "drawRate": "50%",
-              "lossRate": "50%"
+              "lossRate": "50%",
+              "avgConceded": "1.4"
             },
             {
               "team": "光州FC",
-              "played": "10",
               "goals": "4",
+              "played": "10",
+              "winRate": "10%",
               "avgGoals": "0.4",
               "conceded": "24",
-              "avgConceded": "2.4",
-              "winRate": "10%",
               "drawRate": "30%",
-              "lossRate": "60%"
+              "lossRate": "60%",
+              "avgConceded": "2.4"
             }
-          ]
+          ],
+          "label": "近10场",
+          "sameHomeAway": true
         },
         "last15_same": {
-          "key": "last15_same",
-          "label": "近15场",
-          "sameHomeAway": true,
           "idx": 5,
+          "key": "last15_same",
           "rows": [
             {
               "team": "大田市民",
-              "played": "15",
               "goals": "19",
+              "played": "15",
+              "winRate": "20%",
               "avgGoals": "1.3",
               "conceded": "20",
-              "avgConceded": "1.33",
-              "winRate": "20%",
               "drawRate": "46.7%",
-              "lossRate": "33.3%"
+              "lossRate": "33.3%",
+              "avgConceded": "1.33"
             },
             {
               "team": "光州FC",
-              "played": "15",
               "goals": "8",
+              "played": "15",
+              "winRate": "13.3%",
               "avgGoals": "0.5",
               "conceded": "32",
-              "avgConceded": "2.13",
-              "winRate": "13.3%",
               "drawRate": "26.7%",
-              "lossRate": "60%"
+              "lossRate": "60%",
+              "avgConceded": "2.13"
             }
-          ]
+          ],
+          "label": "近15场",
+          "sameHomeAway": true
         }
       },
       "rows": [
         {
           "team": "大田市民",
-          "played": "5",
           "goals": "6",
+          "played": "5",
+          "winRate": "0%",
           "avgGoals": "1.2",
           "conceded": "7",
-          "avgConceded": "1.4",
-          "winRate": "0%",
           "drawRate": "80%",
-          "lossRate": "20%"
+          "lossRate": "20%",
+          "avgConceded": "1.4"
         },
         {
           "team": "光州FC",
-          "played": "5",
           "goals": "4",
+          "played": "5",
+          "winRate": "20%",
           "avgGoals": "0.8",
           "conceded": "7",
-          "avgConceded": "1.4",
-          "winRate": "20%",
           "drawRate": "40%",
-          "lossRate": "40%"
+          "lossRate": "40%",
+          "avgConceded": "1.4"
         }
       ]
     }
   },
   "sync": {
-    "running": false,
-    "runningSince": null,
-    "lastAt": "2026-07-31T15:07:29.516Z",
-    "lastCount": 46,
-    "timeDiff": -36,
+    "running": true,
+    "runningSince": "2026-08-01T04:04:00.222Z",
+    "lastAt": "2026-08-01T04:03:54.391Z",
+    "lastCount": 111,
+    "timeDiff": -37,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000
   },

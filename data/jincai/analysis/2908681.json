@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "scheduleId": 2908681,
-    "updatedAt": "2026-08-01T14:10:30.519Z",
+    "updatedAt": "2026-08-01T15:42:01.471Z",
     "homeTeam": "洛杉矶银河",
     "guestTeam": "达拉斯FC",
     "preMatchOdds": [
@@ -23518,9 +23518,9 @@
     }
   },
   "sync": {
-    "running": false,
-    "runningSince": null,
-    "lastAt": "2026-08-01T14:10:28.691Z",
+    "running": true,
+    "runningSince": "2026-08-01T15:41:57.364Z",
+    "lastAt": "2026-08-01T15:41:56.664Z",
     "lastCount": 111,
     "timeDiff": -38,
     "intervalMs": 3600000,

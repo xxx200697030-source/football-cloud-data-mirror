@@ -5,6 +5,40 @@
     "groupTitle": "08月01日 星期六",
     "matches": [
       {
+        "scheduleId": 2912225,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月01日 星期六",
+        "matchNo": "周六005",
+        "leagueName": "瑞典超",
+        "homeTeam": "赫根",
+        "guestTeam": "卡尔马",
+        "scoreText": "1-1",
+        "halfScoreText": "1-1",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "2"
+          },
+          {
+            "name": "平",
+            "odds": "3.85"
+          },
+          {
+            "name": "1:1",
+            "odds": "8"
+          },
+          {
+            "name": "2球",
+            "odds": "4.35"
+          },
+          {
+            "name": "平平",
+            "odds": "6.75"
+          }
+        ],
+        "updatedAt": "2026-08-01T14:53:17.000Z"
+      },
+      {
         "scheduleId": 2913676,
         "matchDateCode": 20260801,
         "groupTitle": "08月01日 星期六",
@@ -144,8 +178,8 @@
   },
   "sync": {
     "running": false,
-    "lastAt": "2026-08-01T14:08:17.460Z",
-    "lastCount": 13,
+    "lastAt": "2026-08-01T15:38:17.524Z",
+    "lastCount": 14,
     "intervalMs": 1800000
   }
 }

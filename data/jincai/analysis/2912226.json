@@ -2,165 +2,192 @@
   "code": 0,
   "data": {
     "scheduleId": 2912226,
-    "updatedAt": "2026-08-01T14:10:23.126Z",
+    "updatedAt": "2026-08-01T14:18:52.109Z",
     "homeTeam": "哈尔姆斯塔德",
     "guestTeam": "天狼星",
     "preMatchOdds": [
       {
+        "live": [
+          "6.7",
+          "5",
+          "1.36"
+        ],
         "type": "欧",
         "initial": [
           "5.5",
           "4.65",
           "1.46"
-        ],
-        "live": [
-          "6.7",
-          "5",
-          "1.36"
         ]
       },
       {
+        "live": [
+          "0.83",
+          "-1.5",
+          "1.05"
+        ],
         "type": "亚",
         "initial": [
           "0.84",
           "-1/1.5",
           "1.04"
-        ],
-        "live": [
-          "0.83",
-          "-1.5",
-          "1.05"
         ]
       },
       {
+        "live": [
+          "0.97",
+          "3/3.5",
+          "0.9"
+        ],
         "type": "大",
         "initial": [
           "1",
           "3/3.5",
           "0.87"
-        ],
-        "live": [
-          "0.97",
-          "3/3.5",
-          "0.9"
         ]
       }
     ],
-    "jingcaiOdds": [],
+    "jingcaiOdds": [
+      {
+        "live": [
+          "7.1",
+          "5.3",
+          "1.25"
+        ],
+        "initial": [
+          "7.1",
+          "5.3",
+          "1.25"
+        ],
+        "handicap": "0"
+      },
+      {
+        "live": [
+          "3.1",
+          "3.9",
+          "1.82"
+        ],
+        "initial": [
+          "3.1",
+          "3.9",
+          "1.82"
+        ],
+        "handicap": "+1"
+      }
+    ],
     "standings": [
       {
-        "team": "哈尔姆斯塔德",
         "rows": [
           {
-            "scope": "总",
-            "played": "14",
             "win": "1",
             "draw": "4",
             "loss": "9",
-            "goalsFor": "11",
-            "goalsAgainst": "29",
-            "goalDiff": "-18",
-            "points": "7",
             "rank": "16",
-            "winRate": "7%"
+            "scope": "总",
+            "played": "14",
+            "points": "7",
+            "winRate": "7%",
+            "goalDiff": "-18",
+            "goalsFor": "11",
+            "goalsAgainst": "29"
           },
           {
-            "scope": "主",
-            "played": "7",
             "win": "1",
             "draw": "2",
             "loss": "4",
-            "goalsFor": "6",
-            "goalsAgainst": "13",
-            "goalDiff": "-7",
-            "points": "5",
             "rank": "15",
-            "winRate": "14%"
+            "scope": "主",
+            "played": "7",
+            "points": "5",
+            "winRate": "14%",
+            "goalDiff": "-7",
+            "goalsFor": "6",
+            "goalsAgainst": "13"
           },
           {
-            "scope": "客",
-            "played": "7",
             "win": "0",
             "draw": "2",
             "loss": "5",
-            "goalsFor": "5",
-            "goalsAgainst": "16",
-            "goalDiff": "-11",
-            "points": "2",
             "rank": "15",
-            "winRate": "0%"
+            "scope": "客",
+            "played": "7",
+            "points": "2",
+            "winRate": "0%",
+            "goalDiff": "-11",
+            "goalsFor": "5",
+            "goalsAgainst": "16"
           },
           {
-            "scope": "近",
-            "played": "6",
             "win": "1",
             "draw": "1",
             "loss": "4",
-            "goalsFor": "6",
-            "goalsAgainst": "14",
-            "goalDiff": "-8",
-            "points": "4",
             "rank": "0",
-            "winRate": "17%"
+            "scope": "近",
+            "played": "6",
+            "points": "4",
+            "winRate": "17%",
+            "goalDiff": "-8",
+            "goalsFor": "6",
+            "goalsAgainst": "14"
           }
-        ]
+        ],
+        "team": "哈尔姆斯塔德"
       },
       {
-        "team": "天狼星",
         "rows": [
           {
-            "scope": "总",
-            "played": "14",
             "win": "12",
             "draw": "2",
             "loss": "0",
-            "goalsFor": "40",
-            "goalsAgainst": "17",
-            "goalDiff": "23",
-            "points": "38",
             "rank": "1",
-            "winRate": "86%"
+            "scope": "总",
+            "played": "14",
+            "points": "38",
+            "winRate": "86%",
+            "goalDiff": "23",
+            "goalsFor": "40",
+            "goalsAgainst": "17"
           },
           {
+            "win": "6",
+            "draw": "1",
+            "loss": "0",
+            "rank": "2",
             "scope": "主",
             "played": "7",
+            "points": "19",
+            "winRate": "86%",
+            "goalDiff": "12",
+            "goalsFor": "21",
+            "goalsAgainst": "9"
+          },
+          {
             "win": "6",
             "draw": "1",
             "loss": "0",
-            "goalsFor": "21",
-            "goalsAgainst": "9",
-            "goalDiff": "12",
-            "points": "19",
-            "rank": "2",
-            "winRate": "86%"
-          },
-          {
+            "rank": "1",
             "scope": "客",
             "played": "7",
-            "win": "6",
-            "draw": "1",
-            "loss": "0",
-            "goalsFor": "19",
-            "goalsAgainst": "8",
-            "goalDiff": "11",
             "points": "19",
-            "rank": "1",
-            "winRate": "86%"
+            "winRate": "86%",
+            "goalDiff": "11",
+            "goalsFor": "19",
+            "goalsAgainst": "8"
           },
           {
-            "scope": "近",
-            "played": "6",
             "win": "5",
             "draw": "1",
             "loss": "0",
-            "goalsFor": "18",
-            "goalsAgainst": "8",
-            "goalDiff": "10",
-            "points": "16",
             "rank": "0",
-            "winRate": "83%"
+            "scope": "近",
+            "played": "6",
+            "points": "16",
+            "winRate": "83%",
+            "goalDiff": "10",
+            "goalsFor": "18",
+            "goalsAgainst": "8"
           }
-        ]
+        ],
+        "team": "天狼星"
       }
     ],
     "h2h": [
@@ -20047,24 +20074,24 @@
         "team": "哈尔姆斯塔德",
         "matches": [
           {
-            "date": "26-08-09",
-            "league": "瑞典超",
-            "home": "哈尔姆斯塔德",
             "away": "哥德堡盖斯",
+            "date": "26-08-09",
+            "home": "哈尔姆斯塔德",
+            "league": "瑞典超",
             "interval": "6天"
           },
           {
-            "date": "26-08-16",
-            "league": "瑞典超",
-            "home": "赫根",
             "away": "哈尔姆斯塔德",
+            "date": "26-08-16",
+            "home": "赫根",
+            "league": "瑞典超",
             "interval": "13天"
           },
           {
-            "date": "26-08-23",
-            "league": "瑞典超",
-            "home": "奥尔格里特",
             "away": "哈尔姆斯塔德",
+            "date": "26-08-23",
+            "home": "奥尔格里特",
+            "league": "瑞典超",
             "interval": "20天"
           }
         ]
@@ -20073,24 +20100,24 @@
         "team": "天狼星",
         "matches": [
           {
-            "date": "26-08-11",
-            "league": "瑞典超",
-            "home": "天狼星",
             "away": "布洛马波卡纳",
+            "date": "26-08-11",
+            "home": "天狼星",
+            "league": "瑞典超",
             "interval": "7天"
           },
           {
-            "date": "26-08-16",
-            "league": "瑞典超",
-            "home": "米亚尔比",
             "away": "天狼星",
+            "date": "26-08-16",
+            "home": "米亚尔比",
+            "league": "瑞典超",
             "interval": "13天"
           },
           {
-            "date": "26-08-23",
-            "league": "瑞典超",
-            "home": "天狼星",
             "away": "赫根",
+            "date": "26-08-23",
+            "home": "天狼星",
+            "league": "瑞典超",
             "interval": "20天"
           }
         ]
@@ -20098,69 +20125,42 @@
     ],
     "leagueTrend": [
       {
-        "team": "哈尔姆斯塔德",
         "rows": [
           {
-            "scope": "总",
             "win": "5",
-            "push": "1",
             "loss": "8",
-            "winRate": "35.7%",
             "over": "5",
-            "overRate": "35.7%",
+            "push": "1",
+            "scope": "总",
             "under": "9",
+            "winRate": "35.7%",
+            "overRate": "35.7%",
             "underRate": "64.3%"
           },
           {
-            "scope": "主",
             "win": "3",
-            "push": "0",
             "loss": "4",
-            "winRate": "42.9%",
             "over": "3",
-            "overRate": "42.9%",
+            "push": "0",
+            "scope": "主",
             "under": "4",
+            "winRate": "42.9%",
+            "overRate": "42.9%",
             "underRate": "57.1%"
           },
           {
-            "scope": "客",
             "win": "2",
-            "push": "1",
             "loss": "4",
-            "winRate": "28.6%",
             "over": "2",
-            "overRate": "28.6%",
+            "push": "1",
+            "scope": "客",
             "under": "5",
+            "winRate": "28.6%",
+            "overRate": "28.6%",
             "underRate": "71.4%"
           },
           {
             "scope": "近六",
-            "letRecent": [
-              {
-                "text": "赢",
-                "tone": "win"
-              },
-              {
-                "text": "输",
-                "tone": "loss"
-              },
-              {
-                "text": "输",
-                "tone": "loss"
-              },
-              {
-                "text": "输",
-                "tone": "loss"
-              },
-              {
-                "text": "输",
-                "tone": "loss"
-              },
-              {
-                "text": "赢",
-                "tone": "win"
-              }
-            ],
             "ouRecent": [
               {
                 "text": "小",
@@ -20186,57 +20186,8 @@
                 "text": "小",
                 "tone": "loss"
               }
-            ]
-          }
-        ]
-      },
-      {
-        "team": "天狼星",
-        "rows": [
-          {
-            "scope": "总",
-            "win": "11",
-            "push": "2",
-            "loss": "1",
-            "winRate": "78.6%",
-            "over": "11",
-            "overRate": "78.6%",
-            "under": "2",
-            "underRate": "14.3%"
-          },
-          {
-            "scope": "主",
-            "win": "5",
-            "push": "1",
-            "loss": "1",
-            "winRate": "71.4%",
-            "over": "5",
-            "overRate": "71.4%",
-            "under": "2",
-            "underRate": "28.6%"
-          },
-          {
-            "scope": "客",
-            "win": "6",
-            "push": "1",
-            "loss": "0",
-            "winRate": "85.7%",
-            "over": "6",
-            "overRate": "85.7%",
-            "under": "0",
-            "underRate": "0%"
-          },
-          {
-            "scope": "近六",
+            ],
             "letRecent": [
-              {
-                "text": "赢",
-                "tone": "win"
-              },
-              {
-                "text": "赢",
-                "tone": "win"
-              },
               {
                 "text": "赢",
                 "tone": "win"
@@ -20246,14 +20197,63 @@
                 "tone": "loss"
               },
               {
-                "text": "赢",
-                "tone": "win"
+                "text": "输",
+                "tone": "loss"
+              },
+              {
+                "text": "输",
+                "tone": "loss"
+              },
+              {
+                "text": "输",
+                "tone": "loss"
               },
               {
                 "text": "赢",
                 "tone": "win"
               }
-            ],
+            ]
+          }
+        ],
+        "team": "哈尔姆斯塔德"
+      },
+      {
+        "rows": [
+          {
+            "win": "11",
+            "loss": "1",
+            "over": "11",
+            "push": "2",
+            "scope": "总",
+            "under": "2",
+            "winRate": "78.6%",
+            "overRate": "78.6%",
+            "underRate": "14.3%"
+          },
+          {
+            "win": "5",
+            "loss": "1",
+            "over": "5",
+            "push": "1",
+            "scope": "主",
+            "under": "2",
+            "winRate": "71.4%",
+            "overRate": "71.4%",
+            "underRate": "28.6%"
+          },
+          {
+            "win": "6",
+            "loss": "0",
+            "over": "6",
+            "push": "1",
+            "scope": "客",
+            "under": "0",
+            "winRate": "85.7%",
+            "overRate": "85.7%",
+            "underRate": "0%"
+          },
+          {
+            "scope": "近六",
             "ouRecent": [
               {
                 "text": "大",
@@ -20279,225 +20279,252 @@
                 "text": "大",
                 "tone": "win"
               }
+            ],
+            "letRecent": [
+              {
+                "text": "赢",
+                "tone": "win"
+              },
+              {
+                "text": "赢",
+                "tone": "win"
+              },
+              {
+                "text": "赢",
+                "tone": "win"
+              },
+              {
+                "text": "输",
+                "tone": "loss"
+              },
+              {
+                "text": "赢",
+                "tone": "win"
+              },
+              {
+                "text": "赢",
+                "tone": "win"
+              }
             ]
           }
-        ]
+        ],
+        "team": "天狼星"
       }
     ],
     "sameHistoryTrend": [
       {
-        "team": "哈尔姆斯塔德",
         "rows": [
           {
+            "away": "哈尔姆斯塔德",
             "date": "26-06-24",
-            "league": "球会友谊",
-            "leagueColor": "#00A8A8",
             "home": "米亚尔比",
-            "away": "哈尔姆斯塔德",
-            "homeTone": "",
-            "awayTone": "draw",
             "score": "3-3",
-            "initialLine": "1/1.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
-          },
-          {
-            "date": "26-06-17",
             "league": "球会友谊",
-            "leagueColor": "#00A8A8",
-            "home": "哥德堡盖斯",
-            "away": "哈尔姆斯塔德",
-            "homeTone": "",
             "awayTone": "draw",
+            "homeTone": "",
+            "resultTone": "win",
+            "initialLine": "1/1.5",
+            "leagueColor": "#00A8A8",
+            "handicapResult": "赢"
+          },
+          {
+            "away": "哈尔姆斯塔德",
+            "date": "26-06-17",
+            "home": "哥德堡盖斯",
             "score": "1-1",
+            "league": "球会友谊",
+            "awayTone": "draw",
+            "homeTone": "",
+            "resultTone": "win",
             "initialLine": "1/1.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
+            "leagueColor": "#00A8A8",
+            "handicapResult": "赢"
           },
           {
+            "away": "哈尔姆斯塔德",
             "date": "26-04-28",
-            "league": "瑞典超",
-            "leagueColor": "#004488",
             "home": "米亚尔比",
-            "away": "哈尔姆斯塔德",
-            "homeTone": "",
-            "awayTone": "loss",
             "score": "2-0",
+            "league": "瑞典超",
+            "awayTone": "loss",
+            "homeTone": "",
+            "resultTone": "loss",
             "initialLine": "1/1.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
+            "leagueColor": "#004488",
+            "handicapResult": "输"
           },
           {
+            "away": "哈尔姆斯塔德",
             "date": "26-03-09",
-            "league": "瑞典杯",
-            "leagueColor": "#006C6C",
             "home": "马尔默",
-            "away": "哈尔姆斯塔德",
-            "homeTone": "",
-            "awayTone": "loss",
             "score": "2-1",
-            "initialLine": "1/1.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
-          },
-          {
-            "date": "25-11-09",
-            "league": "瑞典超",
-            "leagueColor": "#004488",
-            "home": "索尔纳",
-            "away": "哈尔姆斯塔德",
-            "homeTone": "",
-            "awayTone": "win",
-            "score": "0-2",
-            "initialLine": "1/1.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
-          },
-          {
-            "date": "25-08-30",
-            "league": "瑞典超",
-            "leagueColor": "#004488",
-            "home": "米亚尔比",
-            "away": "哈尔姆斯塔德",
-            "homeTone": "",
+            "league": "瑞典杯",
             "awayTone": "loss",
-            "score": "1-0",
+            "homeTone": "",
+            "resultTone": "win",
             "initialLine": "1/1.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
+            "leagueColor": "#006C6C",
+            "handicapResult": "赢"
+          },
+          {
+            "away": "哈尔姆斯塔德",
+            "date": "25-11-09",
+            "home": "索尔纳",
+            "score": "0-2",
+            "league": "瑞典超",
+            "awayTone": "win",
+            "homeTone": "",
+            "resultTone": "win",
+            "initialLine": "1/1.5",
+            "leagueColor": "#004488",
+            "handicapResult": "赢"
+          },
+          {
+            "away": "哈尔姆斯塔德",
+            "date": "25-08-30",
+            "home": "米亚尔比",
+            "score": "1-0",
+            "league": "瑞典超",
+            "awayTone": "loss",
+            "homeTone": "",
+            "resultTone": "win",
+            "initialLine": "1/1.5",
+            "leagueColor": "#004488",
+            "handicapResult": "赢"
           }
-        ]
+        ],
+        "team": "哈尔姆斯塔德"
       },
       {
-        "team": "天狼星",
         "rows": [
           {
+            "away": "天狼星",
             "date": "24-08-21",
-            "league": "瑞典杯",
-            "leagueColor": "#006C6C",
             "home": "卡尔斯塔德",
-            "away": "天狼星",
-            "homeTone": "",
-            "awayTone": "win",
             "score": "1-3",
+            "league": "瑞典杯",
+            "awayTone": "win",
+            "homeTone": "",
+            "resultTone": "win",
             "initialLine": "-1/1.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
+            "leagueColor": "#006C6C",
+            "handicapResult": "赢"
           },
           {
-            "date": "24-02-19",
-            "league": "瑞典杯",
-            "leagueColor": "#006C6C",
-            "home": "天狼星",
             "away": "尤特斯科腾",
-            "homeTone": "win",
-            "awayTone": "",
-            "score": "2-0",
-            "initialLine": "1/1.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
-          },
-          {
-            "date": "20-11-12",
-            "league": "瑞典杯",
-            "leagueColor": "#006C6C",
-            "home": "布洛马波卡纳",
-            "away": "天狼星",
-            "homeTone": "",
-            "awayTone": "win",
-            "score": "1-3",
-            "initialLine": "-1/1.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
-          },
-          {
-            "date": "20-02-29",
-            "league": "瑞典杯",
-            "leagueColor": "#006C6C",
+            "date": "24-02-19",
             "home": "天狼星",
-            "away": "瓦斯特拉斯",
-            "homeTone": "loss",
+            "score": "2-0",
+            "league": "瑞典杯",
             "awayTone": "",
-            "score": "0-3",
+            "homeTone": "win",
+            "resultTone": "win",
             "initialLine": "1/1.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
+            "leagueColor": "#006C6C",
+            "handicapResult": "赢"
           },
           {
-            "date": "20-02-22",
-            "league": "瑞典杯",
-            "leagueColor": "#006C6C",
-            "home": "索伦蒂纳联",
             "away": "天狼星",
-            "homeTone": "",
+            "date": "20-11-12",
+            "home": "布洛马波卡纳",
+            "score": "1-3",
+            "league": "瑞典杯",
             "awayTone": "win",
-            "score": "1-8",
+            "homeTone": "",
+            "resultTone": "win",
             "initialLine": "-1/1.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
+            "leagueColor": "#006C6C",
+            "handicapResult": "赢"
           },
           {
-            "date": "19-08-22",
+            "away": "瓦斯特拉斯",
+            "date": "20-02-29",
+            "home": "天狼星",
+            "score": "0-3",
             "league": "瑞典杯",
+            "awayTone": "",
+            "homeTone": "loss",
+            "resultTone": "loss",
+            "initialLine": "1/1.5",
             "leagueColor": "#006C6C",
-            "home": "卡尔斯塔德",
+            "handicapResult": "输"
+          },
+          {
             "away": "天狼星",
+            "date": "20-02-22",
+            "home": "索伦蒂纳联",
+            "score": "1-8",
+            "league": "瑞典杯",
+            "awayTone": "win",
             "homeTone": "",
-            "awayTone": "draw",
-            "score": "0-0",
+            "resultTone": "win",
             "initialLine": "-1/1.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
+            "leagueColor": "#006C6C",
+            "handicapResult": "赢"
+          },
+          {
+            "away": "天狼星",
+            "date": "19-08-22",
+            "home": "卡尔斯塔德",
+            "score": "0-0",
+            "league": "瑞典杯",
+            "awayTone": "draw",
+            "homeTone": "",
+            "resultTone": "loss",
+            "initialLine": "-1/1.5",
+            "leagueColor": "#006C6C",
+            "handicapResult": "输"
           }
-        ]
+        ],
+        "team": "天狼星"
       }
     ],
     "injury": {
-      "subtitle": "伤员",
-      "home": [
-        {
-          "no": "24",
-          "position": "左后卫",
-          "name": "拉米·凯比"
-        },
-        {
-          "no": "27",
-          "position": "中前卫",
-          "name": "罗科·阿斯科内"
-        }
-      ],
       "away": [
         {
           "no": "10",
-          "position": "后腰",
-          "name": "梅尔克·希尔"
+          "name": "梅尔克·希尔",
+          "position": "后腰"
         }
-      ]
+      ],
+      "home": [
+        {
+          "no": "24",
+          "name": "拉米·凯比",
+          "position": "左后卫"
+        },
+        {
+          "no": "27",
+          "name": "罗科·阿斯科内",
+          "position": "中前卫"
+        }
+      ],
+      "subtitle": "伤员"
     },
     "formFeature": [
       {
-        "label": "主队对阵前8名",
         "win": "0",
         "draw": "3",
-        "loss": "2"
+        "loss": "2",
+        "label": "主队对阵前8名"
       },
       {
-        "label": "主队对阵后8名",
         "win": "1",
         "draw": "1",
-        "loss": "7"
+        "loss": "7",
+        "label": "主队对阵后8名"
       },
       {
-        "label": "客队对阵前8名",
         "win": "5",
         "draw": "2",
-        "loss": "0"
+        "loss": "0",
+        "label": "客队对阵前8名"
       },
       {
-        "label": "客队对阵后8名",
         "win": "7",
         "draw": "0",
-        "loss": "0"
+        "loss": "0",
+        "label": "客队对阵后8名"
       }
     ],
     "mediaAnalysis": {
@@ -20508,216 +20535,216 @@
       "defaultKey": "last5",
       "variants": {
         "last5": {
-          "key": "last5",
-          "label": "近5场",
-          "sameHomeAway": false,
           "idx": 0,
+          "key": "last5",
           "rows": [
             {
               "team": "哈尔姆斯塔德",
-              "played": "5",
               "goals": "5",
+              "played": "5",
+              "winRate": "0%",
               "avgGoals": "1",
               "conceded": "12",
-              "avgConceded": "2.4",
-              "winRate": "0%",
               "drawRate": "40%",
-              "lossRate": "60%"
+              "lossRate": "60%",
+              "avgConceded": "2.4"
             },
             {
               "team": "天狼星",
-              "played": "5",
               "goals": "14",
+              "played": "5",
+              "winRate": "60%",
               "avgGoals": "2.8",
               "conceded": "8",
-              "avgConceded": "1.6",
-              "winRate": "60%",
               "drawRate": "40%",
-              "lossRate": "0%"
+              "lossRate": "0%",
+              "avgConceded": "1.6"
             }
-          ]
+          ],
+          "label": "近5场",
+          "sameHomeAway": false
         },
         "last10": {
-          "key": "last10",
-          "label": "近10场",
-          "sameHomeAway": false,
           "idx": 1,
+          "key": "last10",
           "rows": [
             {
               "team": "哈尔姆斯塔德",
-              "played": "10",
               "goals": "11",
+              "played": "10",
+              "winRate": "10%",
               "avgGoals": "1.1",
               "conceded": "21",
-              "avgConceded": "2.1",
-              "winRate": "10%",
               "drawRate": "40%",
-              "lossRate": "50%"
+              "lossRate": "50%",
+              "avgConceded": "2.1"
             },
             {
               "team": "天狼星",
-              "played": "10",
               "goals": "27",
+              "played": "10",
+              "winRate": "80%",
               "avgGoals": "2.7",
               "conceded": "13",
-              "avgConceded": "1.3",
-              "winRate": "80%",
               "drawRate": "20%",
-              "lossRate": "0%"
+              "lossRate": "0%",
+              "avgConceded": "1.3"
             }
-          ]
+          ],
+          "label": "近10场",
+          "sameHomeAway": false
         },
         "last15": {
-          "key": "last15",
-          "label": "近15场",
-          "sameHomeAway": false,
           "idx": 2,
+          "key": "last15",
           "rows": [
             {
               "team": "哈尔姆斯塔德",
-              "played": "15",
               "goals": "14",
+              "played": "15",
+              "winRate": "6.7%",
               "avgGoals": "0.9",
               "conceded": "31",
-              "avgConceded": "2.07",
-              "winRate": "6.7%",
               "drawRate": "40%",
-              "lossRate": "53.3%"
+              "lossRate": "53.3%",
+              "avgConceded": "2.07"
             },
             {
               "team": "天狼星",
-              "played": "15",
               "goals": "41",
+              "played": "15",
+              "winRate": "80%",
               "avgGoals": "2.7",
               "conceded": "18",
-              "avgConceded": "1.2",
-              "winRate": "80%",
               "drawRate": "20%",
-              "lossRate": "0%"
+              "lossRate": "0%",
+              "avgConceded": "1.2"
             }
-          ]
+          ],
+          "label": "近15场",
+          "sameHomeAway": false
         },
         "last5_same": {
-          "key": "last5_same",
-          "label": "近5场",
-          "sameHomeAway": true,
           "idx": 3,
+          "key": "last5_same",
           "rows": [
             {
               "team": "哈尔姆斯塔德",
-              "played": "5",
               "goals": "5",
+              "played": "5",
+              "winRate": "20%",
               "avgGoals": "1",
               "conceded": "9",
-              "avgConceded": "1.8",
-              "winRate": "20%",
               "drawRate": "20%",
-              "lossRate": "60%"
+              "lossRate": "60%",
+              "avgConceded": "1.8"
             },
             {
               "team": "天狼星",
-              "played": "5",
               "goals": "13",
+              "played": "5",
+              "winRate": "80%",
               "avgGoals": "2.6",
               "conceded": "6",
-              "avgConceded": "1.2",
-              "winRate": "80%",
               "drawRate": "20%",
-              "lossRate": "0%"
+              "lossRate": "0%",
+              "avgConceded": "1.2"
             }
-          ]
+          ],
+          "label": "近5场",
+          "sameHomeAway": true
         },
         "last10_same": {
-          "key": "last10_same",
-          "label": "近10场",
-          "sameHomeAway": true,
           "idx": 4,
+          "key": "last10_same",
           "rows": [
             {
               "team": "哈尔姆斯塔德",
-              "played": "10",
               "goals": "10",
+              "played": "10",
+              "winRate": "30%",
               "avgGoals": "1",
               "conceded": "15",
-              "avgConceded": "1.5",
-              "winRate": "30%",
               "drawRate": "30%",
-              "lossRate": "40%"
+              "lossRate": "40%",
+              "avgConceded": "1.5"
             },
             {
               "team": "天狼星",
-              "played": "10",
               "goals": "25",
+              "played": "10",
+              "winRate": "80%",
               "avgGoals": "2.5",
               "conceded": "12",
-              "avgConceded": "1.2",
-              "winRate": "80%",
               "drawRate": "20%",
-              "lossRate": "0%"
+              "lossRate": "0%",
+              "avgConceded": "1.2"
             }
-          ]
+          ],
+          "label": "近10场",
+          "sameHomeAway": true
         },
         "last15_same": {
-          "key": "last15_same",
-          "label": "近15场",
-          "sameHomeAway": true,
           "idx": 5,
+          "key": "last15_same",
           "rows": [
             {
               "team": "哈尔姆斯塔德",
-              "played": "15",
               "goals": "12",
+              "played": "15",
+              "winRate": "26.7%",
               "avgGoals": "0.8",
               "conceded": "20",
-              "avgConceded": "1.33",
-              "winRate": "26.7%",
               "drawRate": "33.3%",
-              "lossRate": "40%"
+              "lossRate": "40%",
+              "avgConceded": "1.33"
             },
             {
               "team": "天狼星",
-              "played": "15",
               "goals": "38",
+              "played": "15",
+              "winRate": "66.7%",
               "avgGoals": "2.5",
               "conceded": "25",
-              "avgConceded": "1.67",
-              "winRate": "66.7%",
               "drawRate": "20%",
-              "lossRate": "13.3%"
+              "lossRate": "13.3%",
+              "avgConceded": "1.67"
             }
-          ]
+          ],
+          "label": "近15场",
+          "sameHomeAway": true
         }
       },
       "rows": [
         {
           "team": "哈尔姆斯塔德",
-          "played": "5",
           "goals": "5",
+          "played": "5",
+          "winRate": "0%",
           "avgGoals": "1",
           "conceded": "12",
-          "avgConceded": "2.4",
-          "winRate": "0%",
           "drawRate": "40%",
-          "lossRate": "60%"
+          "lossRate": "60%",
+          "avgConceded": "2.4"
         },
         {
           "team": "天狼星",
-          "played": "5",
           "goals": "14",
+          "played": "5",
+          "winRate": "60%",
           "avgGoals": "2.8",
           "conceded": "8",
-          "avgConceded": "1.6",
-          "winRate": "60%",
           "drawRate": "40%",
-          "lossRate": "0%"
+          "lossRate": "0%",
+          "avgConceded": "1.6"
         }
       ]
     }
   },
   "sync": {
     "running": true,
-    "runningSince": "2026-08-01T14:10:13.885Z",
-    "lastAt": "2026-08-01T14:10:13.685Z",
+    "runningSince": "2026-08-01T15:41:57.364Z",
+    "lastAt": "2026-08-01T15:41:56.664Z",
     "lastCount": 111,
     "timeDiff": -38,
     "intervalMs": 3600000,

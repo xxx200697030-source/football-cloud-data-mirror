@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "scheduleId": 2991113,
-    "updatedAt": "2026-08-01T07:12:35.796Z",
+    "updatedAt": "2026-08-01T09:35:12.836Z",
     "homeTeam": "米拉索",
     "guestTeam": "格雷米奥",
     "preMatchOdds": [
@@ -18170,11 +18170,11 @@
     }
   },
   "sync": {
-    "running": true,
-    "runningSince": "2026-08-01T07:12:26.896Z",
-    "lastAt": "2026-08-01T07:12:21.878Z",
+    "running": false,
+    "runningSince": null,
+    "lastAt": "2026-08-01T09:35:11.051Z",
     "lastCount": 111,
-    "timeDiff": -37,
+    "timeDiff": -38,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000
   },

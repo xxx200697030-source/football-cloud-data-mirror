@@ -370,41 +370,41 @@
           {
             "idx": 3,
             "label": "3",
-            "odds": 3.5,
+            "odds": 3.4,
             "isSingle": true,
-            "prevOdds": 3.5,
+            "prevOdds": 3.4,
             "oddsTrend": 0
           },
           {
             "idx": 4,
             "label": "4",
-            "odds": 4.4,
+            "odds": 4.25,
             "isSingle": true,
-            "prevOdds": 4.4,
+            "prevOdds": 4.25,
             "oddsTrend": 0
           },
           {
             "idx": 5,
             "label": "5",
-            "odds": 6.7,
+            "odds": 6.9,
             "isSingle": true,
-            "prevOdds": 6.7,
+            "prevOdds": 6.9,
             "oddsTrend": 0
           },
           {
             "idx": 6,
             "label": "6",
-            "odds": 11,
+            "odds": 12,
             "isSingle": true,
-            "prevOdds": 11,
+            "prevOdds": 12,
             "oddsTrend": 0
           },
           {
             "idx": 7,
             "label": "7+",
-            "odds": 14,
+            "odds": 15,
             "isSingle": true,
-            "prevOdds": 14,
+            "prevOdds": 15,
             "oddsTrend": 0
           }
         ]

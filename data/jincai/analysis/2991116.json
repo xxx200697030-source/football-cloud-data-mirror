@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "scheduleId": 2991116,
-    "updatedAt": "2026-08-01T04:04:03.931Z",
+    "updatedAt": "2026-08-01T07:12:32.042Z",
     "homeTeam": "桑托斯",
     "guestTeam": "瑞模贝雷",
     "preMatchOdds": [
@@ -40,9 +40,9 @@
           "0.95"
         ],
         "live": [
-          "0.78",
+          "0.76",
           "2/2.5",
-          "1.09"
+          "1.12"
         ]
       }
     ],
@@ -16208,8 +16208,8 @@
   },
   "sync": {
     "running": true,
-    "runningSince": "2026-08-01T04:04:00.222Z",
-    "lastAt": "2026-08-01T04:03:54.391Z",
+    "runningSince": "2026-08-01T07:12:26.896Z",
+    "lastAt": "2026-08-01T07:12:21.878Z",
     "lastCount": 111,
     "timeDiff": -37,
     "intervalMs": 3600000,

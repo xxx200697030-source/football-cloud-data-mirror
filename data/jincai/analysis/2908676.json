@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "scheduleId": 2908676,
-    "updatedAt": "2026-08-01T04:04:04.204Z",
+    "updatedAt": "2026-08-01T07:12:32.365Z",
     "homeTeam": "芝加哥火焰",
     "guestTeam": "夏洛特FC",
     "preMatchOdds": [
@@ -29,7 +29,7 @@
         "live": [
           "0.89",
           "1",
-          "0.99"
+          "1"
         ]
       },
       {
@@ -19289,8 +19289,8 @@
   },
   "sync": {
     "running": true,
-    "runningSince": "2026-08-01T04:04:00.222Z",
-    "lastAt": "2026-08-01T04:03:54.391Z",
+    "runningSince": "2026-08-01T07:12:26.896Z",
+    "lastAt": "2026-08-01T07:12:21.878Z",
     "lastCount": 111,
     "timeDiff": -37,
     "intervalMs": 3600000,

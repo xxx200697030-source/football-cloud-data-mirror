@@ -1,12 +1,12 @@
 {
   "ok": true,
   "service": "football-cloud-data-mirror",
-  "generatedAt": "2026-08-01T09:35:53.040Z",
+  "generatedAt": "2026-08-01T11:46:24.627Z",
   "timezone": "Asia/Shanghai",
   "beijingDate": "2026-08-01",
   "sourceBase": "https://web.jingcai6.cn/api/cloud-football",
-  "matchIdCount": 34,
-  "scheduleIdCount": 34,
+  "matchIdCount": 31,
+  "scheduleIdCount": 31,
   "requiredFailures": [],
   "requests": [
     {
@@ -14,7 +14,7 @@
       "file": "jincai/health.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:34:55.265Z",
+      "fetchedAt": "2026-08-01T11:45:55.353Z",
       "bytes": 50
     },
     {
@@ -22,7 +22,7 @@
       "file": "ledger/health.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:34:57.040Z",
+      "fetchedAt": "2026-08-01T11:45:56.291Z",
       "bytes": 123
     },
     {
@@ -30,23 +30,23 @@
       "file": "jincai/matches-list.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:34:57.232Z",
-      "bytes": 196916
+      "fetchedAt": "2026-08-01T11:45:56.484Z",
+      "bytes": 179496
     },
     {
       "relativeUrl": "/jincai/score-football/list?filter=jingcai&fresh=1",
       "file": "jincai/score-football-list.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:04.247Z",
-      "bytes": 44905
+      "fetchedAt": "2026-08-01T11:46:02.425Z",
+      "bytes": 46812
     },
     {
       "relativeUrl": "/jincai/draw-football/dates",
       "file": "jincai/draw-football-dates.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:29.075Z",
+      "fetchedAt": "2026-08-01T11:46:12.730Z",
       "bytes": 7761
     },
     {
@@ -54,7 +54,7 @@
       "file": "jincai/draw-football/20260730.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:29.302Z",
+      "fetchedAt": "2026-08-01T11:46:12.960Z",
       "bytes": 2775
     },
     {
@@ -62,7 +62,7 @@
       "file": "jincai/draw-football/20260731.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:29.529Z",
+      "fetchedAt": "2026-08-01T11:46:13.185Z",
       "bytes": 1459
     },
     {
@@ -70,7 +70,7 @@
       "file": "jincai/draw-football/20260801.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:29.751Z",
+      "fetchedAt": "2026-08-01T11:46:13.423Z",
       "bytes": 167
     },
     {
@@ -78,7 +78,7 @@
       "file": "ledger/summary/2026-07-31.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:30.399Z",
+      "fetchedAt": "2026-08-01T11:46:13.680Z",
       "bytes": 431
     },
     {
@@ -86,7 +86,7 @@
       "file": "ledger/summary/2026-08-01.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:30.589Z",
+      "fetchedAt": "2026-08-01T11:46:13.876Z",
       "bytes": 431
     },
     {
@@ -94,7 +94,7 @@
       "file": "ledger/metrics/last-30-days.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:30.783Z",
+      "fetchedAt": "2026-08-01T11:46:14.073Z",
       "bytes": 576
     },
     {
@@ -102,7 +102,7 @@
       "file": "ledger/metrics/current-year.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:30.974Z",
+      "fetchedAt": "2026-08-01T11:46:14.267Z",
       "bytes": 576
     },
     {
@@ -110,71 +110,39 @@
       "file": "jincai/matches-detail/5481001.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:31.170Z",
+      "fetchedAt": "2026-08-01T11:46:14.471Z",
       "bytes": 5068
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5479001",
-      "file": "jincai/matches-detail/5479001.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:31.464Z",
-      "bytes": 5061
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5481002",
-      "file": "jincai/matches-detail/5481002.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:31.171Z",
-      "bytes": 5055
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5481003",
-      "file": "jincai/matches-detail/5481003.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:31.172Z",
-      "bytes": 5083
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5479002",
-      "file": "jincai/matches-detail/5479002.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:31.748Z",
-      "bytes": 5076
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5481004",
-      "file": "jincai/matches-detail/5481004.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:31.173Z",
-      "bytes": 5073
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5479003",
-      "file": "jincai/matches-detail/5479003.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:31.900Z",
-      "bytes": 5086
     },
     {
       "relativeUrl": "/jincai/matches/detail/5479004",
       "file": "jincai/matches-detail/5479004.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:31.906Z",
-      "bytes": 5069
+      "fetchedAt": "2026-08-01T11:46:14.781Z",
+      "bytes": 5065
+    },
+    {
+      "relativeUrl": "/jincai/matches/detail/5481003",
+      "file": "jincai/matches-detail/5481003.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:14.473Z",
+      "bytes": 5083
+    },
+    {
+      "relativeUrl": "/jincai/matches/detail/5481002",
+      "file": "jincai/matches-detail/5481002.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:14.472Z",
+      "bytes": 5055
     },
     {
       "relativeUrl": "/jincai/matches/detail/5479005",
       "file": "jincai/matches-detail/5479005.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:32.019Z",
+      "fetchedAt": "2026-08-01T11:46:15.151Z",
       "bytes": 5061
     },
     {
@@ -182,159 +150,175 @@
       "file": "jincai/matches-detail/5479006.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:32.051Z",
-      "bytes": 5060
+      "fetchedAt": "2026-08-01T11:46:15.382Z",
+      "bytes": 5058
     },
     {
       "relativeUrl": "/jincai/matches/detail/5479007",
       "file": "jincai/matches-detail/5479007.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:32.177Z",
-      "bytes": 5053
+      "fetchedAt": "2026-08-01T11:46:15.396Z",
+      "bytes": 5043
     },
     {
       "relativeUrl": "/jincai/matches/detail/5479008",
       "file": "jincai/matches-detail/5479008.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:32.187Z",
-      "bytes": 5051
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5479009",
-      "file": "jincai/matches-detail/5479009.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:32.312Z",
-      "bytes": 5062
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5479010",
-      "file": "jincai/matches-detail/5479010.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:32.333Z",
-      "bytes": 5095
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5479012",
-      "file": "jincai/matches-detail/5479012.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:32.470Z",
-      "bytes": 5077
+      "fetchedAt": "2026-08-01T11:46:15.401Z",
+      "bytes": 5045
     },
     {
       "relativeUrl": "/jincai/matches/detail/5479011",
       "file": "jincai/matches-detail/5479011.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:32.469Z",
-      "bytes": 5075
+      "fetchedAt": "2026-08-01T11:46:15.660Z",
+      "bytes": 5071
+    },
+    {
+      "relativeUrl": "/jincai/matches/detail/5479010",
+      "file": "jincai/matches-detail/5479010.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:15.658Z",
+      "bytes": 5065
+    },
+    {
+      "relativeUrl": "/jincai/matches/detail/5479009",
+      "file": "jincai/matches-detail/5479009.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:15.638Z",
+      "bytes": 5062
+    },
+    {
+      "relativeUrl": "/jincai/matches/detail/5481004",
+      "file": "jincai/matches-detail/5481004.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:14.474Z",
+      "bytes": 5073
     },
     {
       "relativeUrl": "/jincai/matches/detail/5479013",
       "file": "jincai/matches-detail/5479013.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:32.586Z",
-      "bytes": 5073
+      "fetchedAt": "2026-08-01T11:46:16.023Z",
+      "bytes": 5083
+    },
+    {
+      "relativeUrl": "/jincai/matches/detail/5479012",
+      "file": "jincai/matches-detail/5479012.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:16.017Z",
+      "bytes": 5079
     },
     {
       "relativeUrl": "/jincai/matches/detail/5479014",
       "file": "jincai/matches-detail/5479014.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:32.612Z",
-      "bytes": 5075
+      "fetchedAt": "2026-08-01T11:46:16.025Z",
+      "bytes": 5085
     },
     {
       "relativeUrl": "/jincai/matches/detail/5479016",
       "file": "jincai/matches-detail/5479016.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:32.779Z",
-      "bytes": 5084
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5479015",
-      "file": "jincai/matches-detail/5479015.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:32.777Z",
-      "bytes": 5069
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5480001",
-      "file": "jincai/matches-detail/5480001.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:32.859Z",
-      "bytes": 5060
+      "fetchedAt": "2026-08-01T11:46:16.410Z",
+      "bytes": 5082
     },
     {
       "relativeUrl": "/jincai/matches/detail/5480002",
       "file": "jincai/matches-detail/5480002.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:32.905Z",
+      "fetchedAt": "2026-08-01T11:46:16.412Z",
       "bytes": 5068
     },
     {
-      "relativeUrl": "/jincai/matches/detail/5480004",
-      "file": "jincai/matches-detail/5480004.json",
+      "relativeUrl": "/jincai/matches/detail/5480001",
+      "file": "jincai/matches-detail/5480001.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:33.128Z",
-      "bytes": 5070
+      "fetchedAt": "2026-08-01T11:46:16.411Z",
+      "bytes": 5060
     },
     {
       "relativeUrl": "/jincai/matches/detail/5480005",
       "file": "jincai/matches-detail/5480005.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:33.135Z",
+      "fetchedAt": "2026-08-01T11:46:16.700Z",
       "bytes": 5074
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5480006",
-      "file": "jincai/matches-detail/5480006.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:33.183Z",
-      "bytes": 5062
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5480007",
-      "file": "jincai/matches-detail/5480007.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:33.418Z",
-      "bytes": 5055
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5480008",
-      "file": "jincai/matches-detail/5480008.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:33.418Z",
-      "bytes": 5064
     },
     {
       "relativeUrl": "/jincai/matches/detail/5480003",
       "file": "jincai/matches-detail/5480003.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:33.127Z",
+      "fetchedAt": "2026-08-01T11:46:16.671Z",
       "bytes": 5067
+    },
+    {
+      "relativeUrl": "/jincai/matches/detail/5479015",
+      "file": "jincai/matches-detail/5479015.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:16.262Z",
+      "bytes": 5069
+    },
+    {
+      "relativeUrl": "/jincai/matches/detail/5480006",
+      "file": "jincai/matches-detail/5480006.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:16.948Z",
+      "bytes": 5062
+    },
+    {
+      "relativeUrl": "/jincai/matches/detail/5480008",
+      "file": "jincai/matches-detail/5480008.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:17.146Z",
+      "bytes": 5064
+    },
+    {
+      "relativeUrl": "/jincai/matches/detail/5480004",
+      "file": "jincai/matches-detail/5480004.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:16.698Z",
+      "bytes": 5070
+    },
+    {
+      "relativeUrl": "/jincai/matches/detail/5480009",
+      "file": "jincai/matches-detail/5480009.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:17.181Z",
+      "bytes": 5055
+    },
+    {
+      "relativeUrl": "/jincai/matches/detail/5480007",
+      "file": "jincai/matches-detail/5480007.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:16.979Z",
+      "bytes": 5055
     },
     {
       "relativeUrl": "/jincai/matches/detail/5480010",
       "file": "jincai/matches-detail/5480010.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:33.701Z",
+      "fetchedAt": "2026-08-01T11:46:17.580Z",
       "bytes": 5059
     },
     {
@@ -342,7 +326,7 @@
       "file": "jincai/matches-detail/5480011.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:33.708Z",
+      "fetchedAt": "2026-08-01T11:46:17.584Z",
       "bytes": 5055
     },
     {
@@ -350,495 +334,423 @@
       "file": "jincai/matches-detail/5480012.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:33.835Z",
+      "fetchedAt": "2026-08-01T11:46:17.585Z",
       "bytes": 5067
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5480009",
-      "file": "jincai/matches-detail/5480009.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:33.464Z",
-      "bytes": 5055
-    },
-    {
-      "relativeUrl": "/jincai/matches/detail/5480014",
-      "file": "jincai/matches-detail/5480014.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:33.993Z",
-      "bytes": 5071
     },
     {
       "relativeUrl": "/jincai/matches/detail/5480013",
       "file": "jincai/matches-detail/5480013.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:33.981Z",
+      "fetchedAt": "2026-08-01T11:46:17.629Z",
       "bytes": 5059
+    },
+    {
+      "relativeUrl": "/jincai/matches/detail/5480014",
+      "file": "jincai/matches-detail/5480014.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:17.841Z",
+      "bytes": 5071
     },
     {
       "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912221",
       "file": "jincai/analysis/2912221.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:34.251Z",
-      "bytes": 173647
-    },
-    {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912221",
-      "file": "jincai/trend/2912221.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:35.506Z",
-      "bytes": 8716
+      "fetchedAt": "2026-08-01T11:46:18.079Z",
+      "bytes": 173626
     },
     {
       "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912226",
       "file": "jincai/analysis/2912226.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:34.251Z",
-      "bytes": 196268
-    },
-    {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2991117",
-      "file": "jincai/analysis/2991117.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:34.251Z",
-      "bytes": 220642
-    },
-    {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912226",
-      "file": "jincai/trend/2912226.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:35.907Z",
-      "bytes": 8748
-    },
-    {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2991117",
-      "file": "jincai/trend/2991117.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:36.076Z",
-      "bytes": 8538
-    },
-    {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2929675",
-      "file": "jincai/analysis/2929675.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:35.734Z",
-      "bytes": 182025
-    },
-    {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2929675",
-      "file": "jincai/trend/2929675.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:37.192Z",
-      "bytes": 8478
-    },
-    {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2929676",
-      "file": "jincai/analysis/2929676.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:36.175Z",
-      "bytes": 248750
-    },
-    {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2929676",
-      "file": "jincai/trend/2929676.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:37.588Z",
-      "bytes": 8411
-    },
-    {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2929677",
-      "file": "jincai/analysis/2929677.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:36.479Z",
-      "bytes": 245006
-    },
-    {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2929677",
-      "file": "jincai/trend/2929677.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:37.983Z",
-      "bytes": 8551
-    },
-    {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2913676",
-      "file": "jincai/analysis/2913676.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:37.445Z",
-      "bytes": 224168
-    },
-    {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2913676",
-      "file": "jincai/trend/2913676.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:39.602Z",
-      "bytes": 8606
-    },
-    {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912225",
-      "file": "jincai/analysis/2912225.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:37.835Z",
-      "bytes": 229321
-    },
-    {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912225",
-      "file": "jincai/trend/2912225.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:40.116Z",
-      "bytes": 8640
+      "fetchedAt": "2026-08-01T11:46:18.079Z",
+      "bytes": 196247
     },
     {
       "relativeUrl": "/jincai/score-football/analysis?schedule_id=2913681",
       "file": "jincai/analysis/2913681.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:34.250Z",
-      "bytes": 255702
+      "fetchedAt": "2026-08-01T11:46:18.079Z",
+      "bytes": 255681
+    },
+    {
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912221",
+      "file": "jincai/trend/2912221.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:18.930Z",
+      "bytes": 8695
+    },
+    {
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912226",
+      "file": "jincai/trend/2912226.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:18.950Z",
+      "bytes": 8727
     },
     {
       "relativeUrl": "/jincai/score-football/trend?schedule_id=2913681",
       "file": "jincai/trend/2913681.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:41.061Z",
-      "bytes": 8510
+      "fetchedAt": "2026-08-01T11:46:18.968Z",
+      "bytes": 8489
     },
     {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2913679",
-      "file": "jincai/analysis/2913679.json",
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2991117",
+      "file": "jincai/analysis/2991117.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:39.874Z",
-      "bytes": 203982
+      "fetchedAt": "2026-08-01T11:46:18.079Z",
+      "bytes": 220621
     },
     {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2913679",
-      "file": "jincai/trend/2913679.json",
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2913676",
+      "file": "jincai/analysis/2913676.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:42.271Z",
-      "bytes": 8663
+      "fetchedAt": "2026-08-01T11:46:19.156Z",
+      "bytes": 224147
     },
     {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912856",
-      "file": "jincai/analysis/2912856.json",
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912225",
+      "file": "jincai/analysis/2912225.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:40.389Z",
-      "bytes": 218757
+      "fetchedAt": "2026-08-01T11:46:19.171Z",
+      "bytes": 229300
     },
     {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912856",
-      "file": "jincai/trend/2912856.json",
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2991117",
+      "file": "jincai/trend/2991117.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:42.750Z",
-      "bytes": 8497
+      "fetchedAt": "2026-08-01T11:46:19.256Z",
+      "bytes": 8517
     },
     {
       "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912853",
       "file": "jincai/analysis/2912853.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:38.211Z",
-      "bytes": 217277
+      "fetchedAt": "2026-08-01T11:46:19.189Z",
+      "bytes": 217256
     },
     {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2913680",
-      "file": "jincai/analysis/2913680.json",
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2913676",
+      "file": "jincai/trend/2913676.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:41.335Z",
-      "bytes": 184855
+      "fetchedAt": "2026-08-01T11:46:19.415Z",
+      "bytes": 8585
+    },
+    {
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912225",
+      "file": "jincai/trend/2912225.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:19.454Z",
+      "bytes": 8619
     },
     {
       "relativeUrl": "/jincai/score-football/trend?schedule_id=2912853",
       "file": "jincai/trend/2912853.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:43.406Z",
-      "bytes": 8732
+      "fetchedAt": "2026-08-01T11:46:19.519Z",
+      "bytes": 8711
+    },
+    {
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2913679",
+      "file": "jincai/analysis/2913679.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:19.485Z",
+      "bytes": 203961
+    },
+    {
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912856",
+      "file": "jincai/analysis/2912856.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:19.634Z",
+      "bytes": 218736
+    },
+    {
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2913680",
+      "file": "jincai/analysis/2913680.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:19.674Z",
+      "bytes": 184834
+    },
+    {
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912856",
+      "file": "jincai/trend/2912856.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:19.916Z",
+      "bytes": 8476
     },
     {
       "relativeUrl": "/jincai/score-football/trend?schedule_id=2913680",
       "file": "jincai/trend/2913680.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:43.563Z",
-      "bytes": 8607
+      "fetchedAt": "2026-08-01T11:46:19.929Z",
+      "bytes": 8586
     },
     {
       "relativeUrl": "/jincai/score-football/analysis?schedule_id=2908672",
       "file": "jincai/analysis/2908672.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:42.654Z",
-      "bytes": 189304
+      "fetchedAt": "2026-08-01T11:46:19.749Z",
+      "bytes": 189281
     },
     {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2991116",
-      "file": "jincai/analysis/2991116.json",
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2913679",
+      "file": "jincai/trend/2913679.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:43.669Z",
-      "bytes": 153576
-    },
-    {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2991116",
-      "file": "jincai/trend/2991116.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:44.463Z",
-      "bytes": 8376
+      "fetchedAt": "2026-08-01T11:46:19.777Z",
+      "bytes": 8642
     },
     {
       "relativeUrl": "/jincai/score-football/trend?schedule_id=2908672",
       "file": "jincai/trend/2908672.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:44.131Z",
-      "bytes": 8641
+      "fetchedAt": "2026-08-01T11:46:20.375Z",
+      "bytes": 8620
     },
     {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2908676",
-      "file": "jincai/analysis/2908676.json",
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2991116",
+      "file": "jincai/analysis/2991116.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:43.979Z",
-      "bytes": 182574
+      "fetchedAt": "2026-08-01T11:46:20.156Z",
+      "bytes": 153555
     },
     {
       "relativeUrl": "/jincai/score-football/analysis?schedule_id=2908675",
       "file": "jincai/analysis/2908675.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:43.401Z",
-      "bytes": 225468
+      "fetchedAt": "2026-08-01T11:46:20.142Z",
+      "bytes": 225446
     },
     {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2908676",
-      "file": "jincai/trend/2908676.json",
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2991116",
+      "file": "jincai/trend/2991116.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:44.917Z",
-      "bytes": 8610
-    },
-    {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2908679",
-      "file": "jincai/analysis/2908679.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:44.694Z",
-      "bytes": 168684
-    },
-    {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2908681",
-      "file": "jincai/analysis/2908681.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:44.762Z",
-      "bytes": 223607
-    },
-    {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2908679",
-      "file": "jincai/trend/2908679.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:45.495Z",
-      "bytes": 8489
-    },
-    {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2908681",
-      "file": "jincai/trend/2908681.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:45.874Z",
-      "bytes": 8646
+      "fetchedAt": "2026-08-01T11:46:20.797Z",
+      "bytes": 8355
     },
     {
       "relativeUrl": "/jincai/score-football/trend?schedule_id=2908675",
       "file": "jincai/trend/2908675.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:45.022Z",
-      "bytes": 8636
+      "fetchedAt": "2026-08-01T11:46:20.811Z",
+      "bytes": 8615
     },
     {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2908682",
-      "file": "jincai/analysis/2908682.json",
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2908676",
+      "file": "jincai/analysis/2908676.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:45.353Z",
-      "bytes": 243422
+      "fetchedAt": "2026-08-01T11:46:20.404Z",
+      "bytes": 182550
     },
     {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2908682",
-      "file": "jincai/trend/2908682.json",
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2908676",
+      "file": "jincai/trend/2908676.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:46.291Z",
-      "bytes": 8531
+      "fetchedAt": "2026-08-01T11:46:21.061Z",
+      "bytes": 8589
+    },
+    {
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2908679",
+      "file": "jincai/analysis/2908679.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:20.723Z",
+      "bytes": 168663
+    },
+    {
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2908679",
+      "file": "jincai/trend/2908679.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:21.474Z",
+      "bytes": 8468
     },
     {
       "relativeUrl": "/jincai/score-football/analysis?schedule_id=2929680",
       "file": "jincai/analysis/2929680.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:45.910Z",
-      "bytes": 168373
+      "fetchedAt": "2026-08-01T11:46:21.285Z",
+      "bytes": 168352
     },
     {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2929680",
-      "file": "jincai/trend/2929680.json",
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2908681",
+      "file": "jincai/analysis/2908681.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:46.669Z",
-      "bytes": 8296
+      "fetchedAt": "2026-08-01T11:46:21.021Z",
+      "bytes": 223586
     },
     {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2929678",
-      "file": "jincai/analysis/2929678.json",
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2908682",
+      "file": "jincai/analysis/2908682.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:46.139Z",
-      "bytes": 239511
-    },
-    {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2929678",
-      "file": "jincai/trend/2929678.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:47.093Z",
-      "bytes": 8269
+      "fetchedAt": "2026-08-01T11:46:21.033Z",
+      "bytes": 243400
     },
     {
       "relativeUrl": "/jincai/score-football/analysis?schedule_id=2929679",
       "file": "jincai/analysis/2929679.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:46.128Z",
-      "bytes": 240898
+      "fetchedAt": "2026-08-01T11:46:21.697Z",
+      "bytes": 240877
     },
     {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912220",
-      "file": "jincai/analysis/2912220.json",
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2929680",
+      "file": "jincai/trend/2929680.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:46.535Z",
-      "bytes": 196022
+      "fetchedAt": "2026-08-01T11:46:21.723Z",
+      "bytes": 8275
+    },
+    {
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2908681",
+      "file": "jincai/trend/2908681.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:21.739Z",
+      "bytes": 8625
+    },
+    {
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2908682",
+      "file": "jincai/trend/2908682.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:21.804Z",
+      "bytes": 8509
     },
     {
       "relativeUrl": "/jincai/score-football/trend?schedule_id=2929679",
       "file": "jincai/trend/2929679.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:47.434Z",
-      "bytes": 7776
+      "fetchedAt": "2026-08-01T11:46:21.937Z",
+      "bytes": 7755
     },
     {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912220",
-      "file": "jincai/trend/2912220.json",
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2929678",
+      "file": "jincai/analysis/2929678.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:47.473Z",
-      "bytes": 8706
+      "fetchedAt": "2026-08-01T11:46:21.940Z",
+      "bytes": 239490
+    },
+    {
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912220",
+      "file": "jincai/analysis/2912220.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:21.962Z",
+      "bytes": 196001
     },
     {
       "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912224",
       "file": "jincai/analysis/2912224.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:46.935Z",
-      "bytes": 183931
+      "fetchedAt": "2026-08-01T11:46:22.019Z",
+      "bytes": 183910
     },
     {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912219",
-      "file": "jincai/analysis/2912219.json",
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2929678",
+      "file": "jincai/trend/2929678.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:47.697Z",
-      "bytes": 158167
+      "fetchedAt": "2026-08-01T11:46:22.213Z",
+      "bytes": 8248
     },
     {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912219",
-      "file": "jincai/trend/2912219.json",
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912220",
+      "file": "jincai/trend/2912220.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:48.218Z",
-      "bytes": 8636
+      "fetchedAt": "2026-08-01T11:46:22.251Z",
+      "bytes": 8685
     },
     {
       "relativeUrl": "/jincai/score-football/trend?schedule_id=2912224",
       "file": "jincai/trend/2912224.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:48.192Z",
-      "bytes": 8588
+      "fetchedAt": "2026-08-01T11:46:22.264Z",
+      "bytes": 8567
     },
     {
       "relativeUrl": "/jincai/score-football/analysis?schedule_id=2913677",
       "file": "jincai/analysis/2913677.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:47.328Z",
-      "bytes": 250828
+      "fetchedAt": "2026-08-01T11:46:22.158Z",
+      "bytes": 250807
     },
     {
       "relativeUrl": "/jincai/score-football/trend?schedule_id=2913677",
       "file": "jincai/trend/2913677.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:48.640Z",
+      "fetchedAt": "2026-08-01T11:46:22.593Z",
       "bytes": 8136
-    },
-    {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912854",
-      "file": "jincai/analysis/2912854.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:48.439Z",
-      "bytes": 185653
-    },
-    {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912854",
-      "file": "jincai/trend/2912854.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:49.404Z",
-      "bytes": 8249
     },
     {
       "relativeUrl": "/jincai/score-football/analysis?schedule_id=2913678",
       "file": "jincai/analysis/2913678.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:47.667Z",
-      "bytes": 231540
+      "fetchedAt": "2026-08-01T11:46:22.562Z",
+      "bytes": 231519
+    },
+    {
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912854",
+      "file": "jincai/analysis/2912854.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:22.564Z",
+      "bytes": 185632
+    },
+    {
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912219",
+      "file": "jincai/analysis/2912219.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:22.563Z",
+      "bytes": 158146
     },
     {
       "relativeUrl": "/jincai/score-football/trend?schedule_id=2913678",
       "file": "jincai/trend/2913678.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:49.730Z",
+      "fetchedAt": "2026-08-01T11:46:22.846Z",
       "bytes": 8493
     },
     {
@@ -846,15 +758,31 @@
       "file": "jincai/analysis/2912855.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:48.449Z",
-      "bytes": 230889
+      "fetchedAt": "2026-08-01T11:46:22.833Z",
+      "bytes": 230868
+    },
+    {
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912854",
+      "file": "jincai/trend/2912854.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:22.885Z",
+      "bytes": 8249
+    },
+    {
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912219",
+      "file": "jincai/trend/2912219.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:22.896Z",
+      "bytes": 8615
     },
     {
       "relativeUrl": "/jincai/score-football/trend?schedule_id=2912855",
       "file": "jincai/trend/2912855.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:50.267Z",
+      "fetchedAt": "2026-08-01T11:46:23.107Z",
       "bytes": 8492
     },
     {
@@ -862,7 +790,7 @@
       "file": "jincai/analysis/2912850.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:48.860Z",
+      "fetchedAt": "2026-08-01T11:46:23.079Z",
       "bytes": 212699
     },
     {
@@ -870,56 +798,56 @@
       "file": "jincai/trend/2912850.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:51.121Z",
-      "bytes": 8395
-    },
-    {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912852",
-      "file": "jincai/analysis/2912852.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:49.650Z",
-      "bytes": 250979
-    },
-    {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912852",
-      "file": "jincai/trend/2912852.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:51.764Z",
-      "bytes": 8377
-    },
-    {
-      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2991112",
-      "file": "jincai/analysis/2991112.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:50.544Z",
-      "bytes": 268954
-    },
-    {
-      "relativeUrl": "/jincai/score-football/trend?schedule_id=2991112",
-      "file": "jincai/trend/2991112.json",
-      "ok": true,
-      "status": 200,
-      "fetchedAt": "2026-08-01T09:35:52.393Z",
-      "bytes": 7818
+      "fetchedAt": "2026-08-01T11:46:23.356Z",
+      "bytes": 8416
     },
     {
       "relativeUrl": "/jincai/score-football/analysis?schedule_id=2991113",
       "file": "jincai/analysis/2991113.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:49.991Z",
+      "fetchedAt": "2026-08-01T11:46:23.115Z",
       "bytes": 171397
+    },
+    {
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2912852",
+      "file": "jincai/analysis/2912852.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:23.108Z",
+      "bytes": 251000
     },
     {
       "relativeUrl": "/jincai/score-football/trend?schedule_id=2991113",
       "file": "jincai/trend/2991113.json",
       "ok": true,
       "status": 200,
-      "fetchedAt": "2026-08-01T09:35:52.796Z",
+      "fetchedAt": "2026-08-01T11:46:23.636Z",
       "bytes": 8537
+    },
+    {
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2912852",
+      "file": "jincai/trend/2912852.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:23.822Z",
+      "bytes": 8398
+    },
+    {
+      "relativeUrl": "/jincai/score-football/analysis?schedule_id=2991112",
+      "file": "jincai/analysis/2991112.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:23.330Z",
+      "bytes": 268975
+    },
+    {
+      "relativeUrl": "/jincai/score-football/trend?schedule_id=2991112",
+      "file": "jincai/trend/2991112.json",
+      "ok": true,
+      "status": 200,
+      "fetchedAt": "2026-08-01T11:46:24.397Z",
+      "bytes": 7839
     }
   ]
 }

@@ -19561,9 +19561,9 @@
     }
   },
   "sync": {
-    "running": true,
-    "runningSince": "2026-08-01T09:34:55.804Z",
-    "lastAt": "2026-08-01T09:34:50.654Z",
+    "running": false,
+    "runningSince": null,
+    "lastAt": "2026-08-01T11:45:36.269Z",
     "lastCount": 111,
     "timeDiff": -37,
     "intervalMs": 3600000,

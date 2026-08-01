@@ -1,18 +1,18 @@
 {
   "ok": true,
   "date": "2026-08-01",
-  "snapshot_count": 6,
+  "snapshot_count": 7,
   "prediction_freeze_count": 0,
   "latest_snapshot": {
-    "snapshot_id": "20260801T085525Z-prefetch-1700",
-    "captured_at": "2026-08-01T08:55:25.506Z",
-    "trigger": "prefetch-1700",
+    "snapshot_id": "20260801T105525Z-prefetch-1900",
+    "captured_at": "2026-08-01T10:55:25.605Z",
+    "trigger": "prefetch-1900",
     "source_status": {
-      "draw_dates": "active_verified",
       "draw_today": "active_verified",
+      "draw_dates": "active_verified",
       "matches": "active_verified",
       "scores": "active_verified"
     },
-    "immutable_hash": "18a216126875da004c8b6318de8c80243ec4d4a34e877c0c4f9fc189ffc9583f"
+    "immutable_hash": "e6261dc939250087bcc717fc271fe3978645da232401c7b7c8235c21e7495ed7"
   }
 }

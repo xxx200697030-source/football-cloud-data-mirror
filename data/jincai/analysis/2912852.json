@@ -26687,10 +26687,10 @@
   },
   "sync": {
     "running": true,
-    "runningSince": "2026-08-02T07:15:22.251Z",
-    "lastAt": "2026-08-02T07:15:22.126Z",
+    "runningSince": "2026-08-02T09:36:31.994Z",
+    "lastAt": "2026-08-02T09:36:25.751Z",
     "lastCount": 107,
-    "timeDiff": -39,
+    "timeDiff": -38,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000
   },

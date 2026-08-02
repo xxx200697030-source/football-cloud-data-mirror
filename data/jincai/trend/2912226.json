@@ -1244,11 +1244,11 @@
     "scheduleId": 2912226
   },
   "sync": {
-    "running": false,
-    "runningSince": null,
-    "lastAt": "2026-08-02T14:12:51.972Z",
+    "running": true,
+    "runningSince": "2026-08-02T15:42:29.919Z",
+    "lastAt": "2026-08-02T15:42:24.703Z",
     "lastCount": 107,
-    "timeDiff": -38,
+    "timeDiff": -39,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000
   },

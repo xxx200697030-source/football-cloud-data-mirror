@@ -5,6 +5,74 @@
     "groupTitle": "08月02日 星期日",
     "matches": [
       {
+        "scheduleId": 2908682,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月02日 星期日",
+        "matchNo": "周六016",
+        "leagueName": "美职业",
+        "homeTeam": "波特兰伐木者",
+        "guestTeam": "西雅图音速",
+        "scoreText": "2-1",
+        "halfScoreText": "1-1",
+        "details": [
+          {
+            "name": "平（-1）",
+            "odds": "3.95"
+          },
+          {
+            "name": "胜",
+            "odds": "1.91"
+          },
+          {
+            "name": "2:1",
+            "odds": "7.5"
+          },
+          {
+            "name": "3球",
+            "odds": "3.6"
+          },
+          {
+            "name": "平胜",
+            "odds": "4.9"
+          }
+        ],
+        "updatedAt": "2026-08-02T04:58:18.000Z"
+      },
+      {
+        "scheduleId": 2908681,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月02日 星期日",
+        "matchNo": "周六015",
+        "leagueName": "美职业",
+        "homeTeam": "洛杉矶银河",
+        "guestTeam": "达拉斯FC",
+        "scoreText": "0-0",
+        "halfScoreText": "0-0",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "1.51"
+          },
+          {
+            "name": "平",
+            "odds": "3.35"
+          },
+          {
+            "name": "0:0",
+            "odds": "20"
+          },
+          {
+            "name": "0球",
+            "odds": "20"
+          },
+          {
+            "name": "平平",
+            "odds": "6.15"
+          }
+        ],
+        "updatedAt": "2026-08-02T04:33:18.000Z"
+      },
+      {
         "scheduleId": 2908679,
         "matchDateCode": 20260801,
         "groupTitle": "08月02日 星期日",
@@ -484,8 +552,8 @@
   },
   "sync": {
     "running": false,
-    "lastAt": "2026-08-02T04:08:18.423Z",
-    "lastCount": 23,
+    "lastAt": "2026-08-02T07:13:18.701Z",
+    "lastCount": 25,
     "intervalMs": 1800000
   }
 }

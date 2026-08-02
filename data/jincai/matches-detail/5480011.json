@@ -370,9 +370,9 @@
           {
             "idx": 3,
             "label": "3",
-            "odds": 3.4,
+            "odds": 3.3,
             "isSingle": true,
-            "prevOdds": 3.4,
+            "prevOdds": 3.3,
             "oddsTrend": 0
           },
           {
@@ -386,9 +386,9 @@
           {
             "idx": 5,
             "label": "5",
-            "odds": 7.5,
+            "odds": 8,
             "isSingle": true,
-            "prevOdds": 7.5,
+            "prevOdds": 8,
             "oddsTrend": 0
           },
           {

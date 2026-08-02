@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "scheduleId": 2991117,
-    "updatedAt": "2026-08-02T09:36:31.863Z",
+    "updatedAt": "2026-08-02T11:44:14.173Z",
     "homeTeam": "巴拉纳竞技",
     "guestTeam": "维多利亚",
     "preMatchOdds": [
@@ -23412,7 +23412,7 @@
   "sync": {
     "running": false,
     "runningSince": null,
-    "lastAt": "2026-08-02T09:36:25.751Z",
+    "lastAt": "2026-08-02T11:44:10.806Z",
     "lastCount": 107,
     "timeDiff": -38,
     "intervalMs": 3600000,

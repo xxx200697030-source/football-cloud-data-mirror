@@ -354,9 +354,9 @@
           {
             "idx": 1,
             "label": "1",
-            "odds": 8,
+            "odds": 7.5,
             "isSingle": true,
-            "prevOdds": 8,
+            "prevOdds": 7.5,
             "oddsTrend": 0
           },
           {
@@ -378,9 +378,9 @@
           {
             "idx": 4,
             "label": "4",
-            "odds": 4.2,
+            "odds": 4.3,
             "isSingle": true,
-            "prevOdds": 4.2,
+            "prevOdds": 4.3,
             "oddsTrend": 0
           },
           {
@@ -394,9 +394,9 @@
           {
             "idx": 6,
             "label": "6",
-            "odds": 9.25,
+            "odds": 9.5,
             "isSingle": true,
-            "prevOdds": 9.25,
+            "prevOdds": 9.5,
             "oddsTrend": 0
           },
           {

@@ -2,8 +2,314 @@
   "code": 0,
   "data": {
     "dateCode": 20260801,
-    "groupTitle": "08月01日 星期六",
+    "groupTitle": "08月02日 星期日",
     "matches": [
+      {
+        "scheduleId": 2908679,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月02日 星期日",
+        "matchNo": "周六014",
+        "leagueName": "美职业",
+        "homeTeam": "圣路易斯城",
+        "guestTeam": "皇家盐湖城",
+        "scoreText": "1-1",
+        "halfScoreText": "0-0",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "1.69"
+          },
+          {
+            "name": "平",
+            "odds": "3.75"
+          },
+          {
+            "name": "1:1",
+            "odds": "8"
+          },
+          {
+            "name": "2球",
+            "odds": "4.15"
+          },
+          {
+            "name": "平平",
+            "odds": "6.9"
+          }
+        ],
+        "updatedAt": "2026-08-02T02:33:18.000Z"
+      },
+      {
+        "scheduleId": 2908676,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月02日 星期日",
+        "matchNo": "周六013",
+        "leagueName": "美职业",
+        "homeTeam": "芝加哥火焰",
+        "guestTeam": "夏洛特FC",
+        "scoreText": "2-1",
+        "halfScoreText": "1-1",
+        "details": [
+          {
+            "name": "平（-1）",
+            "odds": "3.45"
+          },
+          {
+            "name": "胜",
+            "odds": "1.37"
+          },
+          {
+            "name": "2:1",
+            "odds": "6.75"
+          },
+          {
+            "name": "3球",
+            "odds": "3.5"
+          },
+          {
+            "name": "平胜",
+            "odds": "4.3"
+          }
+        ],
+        "updatedAt": "2026-08-02T02:38:18.000Z"
+      },
+      {
+        "scheduleId": 2991116,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月02日 星期日",
+        "matchNo": "周六012",
+        "leagueName": "巴西杯",
+        "homeTeam": "桑托斯",
+        "guestTeam": "里莫",
+        "scoreText": "0-0",
+        "halfScoreText": "0-0",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "2.44"
+          },
+          {
+            "name": "平",
+            "odds": "3.82"
+          },
+          {
+            "name": "0:0",
+            "odds": "12.5"
+          },
+          {
+            "name": "0球",
+            "odds": "12.5"
+          },
+          {
+            "name": "平平",
+            "odds": "6.25"
+          }
+        ],
+        "updatedAt": "2026-08-02T02:03:18.000Z"
+      },
+      {
+        "scheduleId": 2908675,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月02日 星期日",
+        "matchNo": "周六011",
+        "leagueName": "美职业",
+        "homeTeam": "温哥华白帽",
+        "guestTeam": "洛杉矶FC",
+        "scoreText": "1-1",
+        "halfScoreText": "0-1",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "1.68"
+          },
+          {
+            "name": "平",
+            "odds": "3.65"
+          },
+          {
+            "name": "1:1",
+            "odds": "8"
+          },
+          {
+            "name": "2球",
+            "odds": "4.45"
+          },
+          {
+            "name": "负平",
+            "odds": "13"
+          }
+        ],
+        "updatedAt": "2026-08-02T01:38:18.000Z"
+      },
+      {
+        "scheduleId": 2908672,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月02日 星期日",
+        "matchNo": "周六010",
+        "leagueName": "美职业",
+        "homeTeam": "国际迈阿密",
+        "guestTeam": "哥伦布机员",
+        "scoreText": "2-2",
+        "halfScoreText": "2-1",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "2.5"
+          },
+          {
+            "name": "平",
+            "odds": "4.65"
+          },
+          {
+            "name": "2:2",
+            "odds": "12"
+          },
+          {
+            "name": "4球",
+            "odds": "4.1"
+          },
+          {
+            "name": "胜平",
+            "odds": "17"
+          }
+        ],
+        "updatedAt": "2026-08-02T02:13:09.000Z"
+      },
+      {
+        "scheduleId": 2913680,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月02日 星期日",
+        "matchNo": "周六009",
+        "leagueName": "芬超",
+        "homeTeam": "赫尔火花",
+        "guestTeam": "古比斯",
+        "scoreText": "0-1",
+        "halfScoreText": "0-1",
+        "details": [
+          {
+            "name": "平（+1）",
+            "odds": "3.65"
+          },
+          {
+            "name": "负",
+            "odds": "1.84"
+          },
+          {
+            "name": "0:1",
+            "odds": "9.25"
+          },
+          {
+            "name": "1球",
+            "odds": "6.3"
+          },
+          {
+            "name": "负负",
+            "odds": "3.15"
+          }
+        ],
+        "updatedAt": "2026-08-01T17:58:17.000Z"
+      },
+      {
+        "scheduleId": 2912856,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月02日 星期日",
+        "matchNo": "周六008",
+        "leagueName": "挪超",
+        "homeTeam": "斯达",
+        "guestTeam": "维京",
+        "scoreText": "0-3",
+        "halfScoreText": "0-3",
+        "details": [
+          {
+            "name": "负（+1）",
+            "odds": "2.1"
+          },
+          {
+            "name": "负",
+            "odds": "1.36"
+          },
+          {
+            "name": "0:3",
+            "odds": "10.5"
+          },
+          {
+            "name": "3球",
+            "odds": "3.4"
+          },
+          {
+            "name": "负负",
+            "odds": "1.8"
+          }
+        ],
+        "updatedAt": "2026-08-01T17:58:17.000Z"
+      },
+      {
+        "scheduleId": 2913679,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月01日 星期六",
+        "matchNo": "周六007",
+        "leagueName": "芬超",
+        "homeTeam": "拉赫蒂",
+        "guestTeam": "雅罗",
+        "scoreText": "2-0",
+        "halfScoreText": "1-0",
+        "details": [
+          {
+            "name": "胜（-1）",
+            "odds": "2.52"
+          },
+          {
+            "name": "胜",
+            "odds": "1.39"
+          },
+          {
+            "name": "2:0",
+            "odds": "6.75"
+          },
+          {
+            "name": "2球",
+            "odds": "3.35"
+          },
+          {
+            "name": "胜胜",
+            "odds": "2"
+          }
+        ],
+        "updatedAt": "2026-08-01T16:53:17.000Z"
+      },
+      {
+        "scheduleId": 2912853,
+        "matchDateCode": 20260801,
+        "groupTitle": "08月01日 星期六",
+        "matchNo": "周六006",
+        "leagueName": "挪超",
+        "homeTeam": "腓特烈",
+        "guestTeam": "桑德菲杰",
+        "scoreText": "1-0",
+        "halfScoreText": "1-0",
+        "details": [
+          {
+            "name": "平（-1）",
+            "odds": "3.95"
+          },
+          {
+            "name": "胜",
+            "odds": "2.11"
+          },
+          {
+            "name": "1:0",
+            "odds": "9"
+          },
+          {
+            "name": "1球",
+            "odds": "5.6"
+          },
+          {
+            "name": "胜胜",
+            "odds": "3.3"
+          }
+        ],
+        "updatedAt": "2026-08-01T15:58:17.000Z"
+      },
       {
         "scheduleId": 2912225,
         "matchDateCode": 20260801,
@@ -178,8 +484,8 @@
   },
   "sync": {
     "running": false,
-    "lastAt": "2026-08-01T15:38:17.524Z",
-    "lastCount": 14,
+    "lastAt": "2026-08-02T04:08:18.423Z",
+    "lastCount": 23,
     "intervalMs": 1800000
   }
 }

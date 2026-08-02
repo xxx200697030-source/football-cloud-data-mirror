@@ -2,165 +2,192 @@
   "code": 0,
   "data": {
     "scheduleId": 2912221,
-    "updatedAt": "2026-08-01T15:42:00.761Z",
+    "updatedAt": "2026-08-01T17:31:10.404Z",
     "homeTeam": "尤尔加登",
     "guestTeam": "瓦斯特拉斯",
     "preMatchOdds": [
       {
+        "live": [
+          "1.44",
+          "4.7",
+          "5.7"
+        ],
         "type": "欧",
         "initial": [
           "1.44",
           "4.7",
           "5.7"
-        ],
-        "live": [
-          "1.44",
-          "4.7",
-          "5.7"
         ]
       },
       {
+        "live": [
+          "0.99",
+          "1/1.5",
+          "0.89"
+        ],
         "type": "亚",
         "initial": [
           "0.99",
           "1/1.5",
           "0.89"
-        ],
-        "live": [
-          "0.99",
-          "1/1.5",
-          "0.89"
         ]
       },
       {
-        "type": "大",
-        "initial": [
+        "live": [
           "0.97",
           "3/3.5",
           "0.9"
         ],
-        "live": [
+        "type": "大",
+        "initial": [
           "0.97",
           "3/3.5",
           "0.9"
         ]
       }
     ],
-    "jingcaiOdds": [],
+    "jingcaiOdds": [
+      {
+        "live": [
+          "1.38",
+          "4.5",
+          "5.5"
+        ],
+        "initial": [
+          "1.38",
+          "4.5",
+          "5.5"
+        ],
+        "handicap": "0"
+      },
+      {
+        "live": [
+          "2.13",
+          "3.68",
+          "2.58"
+        ],
+        "initial": [
+          "2.13",
+          "3.68",
+          "2.58"
+        ],
+        "handicap": "-1"
+      }
+    ],
     "standings": [
       {
-        "team": "尤尔加登",
         "rows": [
           {
-            "scope": "总",
-            "played": "13",
             "win": "7",
             "draw": "2",
             "loss": "4",
-            "goalsFor": "27",
-            "goalsAgainst": "15",
-            "goalDiff": "12",
-            "points": "23",
             "rank": "4",
-            "winRate": "54%"
+            "scope": "总",
+            "played": "13",
+            "points": "23",
+            "winRate": "54%",
+            "goalDiff": "12",
+            "goalsFor": "27",
+            "goalsAgainst": "15"
           },
           {
-            "scope": "主",
-            "played": "7",
             "win": "3",
             "draw": "1",
             "loss": "3",
-            "goalsFor": "16",
-            "goalsAgainst": "9",
-            "goalDiff": "7",
-            "points": "10",
             "rank": "7",
-            "winRate": "43%"
+            "scope": "主",
+            "played": "7",
+            "points": "10",
+            "winRate": "43%",
+            "goalDiff": "7",
+            "goalsFor": "16",
+            "goalsAgainst": "9"
           },
           {
-            "scope": "客",
-            "played": "6",
             "win": "4",
             "draw": "1",
             "loss": "1",
-            "goalsFor": "11",
-            "goalsAgainst": "6",
-            "goalDiff": "5",
-            "points": "13",
             "rank": "2",
-            "winRate": "67%"
+            "scope": "客",
+            "played": "6",
+            "points": "13",
+            "winRate": "67%",
+            "goalDiff": "5",
+            "goalsFor": "11",
+            "goalsAgainst": "6"
           },
           {
-            "scope": "近",
-            "played": "6",
             "win": "3",
             "draw": "1",
             "loss": "2",
-            "goalsFor": "11",
-            "goalsAgainst": "7",
-            "goalDiff": "4",
-            "points": "10",
             "rank": "0",
-            "winRate": "50%"
+            "scope": "近",
+            "played": "6",
+            "points": "10",
+            "winRate": "50%",
+            "goalDiff": "4",
+            "goalsFor": "11",
+            "goalsAgainst": "7"
           }
-        ]
+        ],
+        "team": "尤尔加登"
       },
       {
-        "team": "瓦斯特拉斯",
         "rows": [
           {
-            "scope": "总",
-            "played": "14",
             "win": "6",
             "draw": "4",
             "loss": "4",
-            "goalsFor": "24",
-            "goalsAgainst": "23",
-            "goalDiff": "1",
-            "points": "22",
             "rank": "5",
-            "winRate": "43%"
+            "scope": "总",
+            "played": "14",
+            "points": "22",
+            "winRate": "43%",
+            "goalDiff": "1",
+            "goalsFor": "24",
+            "goalsAgainst": "23"
           },
           {
-            "scope": "主",
-            "played": "7",
             "win": "2",
             "draw": "3",
             "loss": "2",
-            "goalsFor": "14",
-            "goalsAgainst": "12",
-            "goalDiff": "2",
-            "points": "9",
             "rank": "9",
-            "winRate": "29%"
+            "scope": "主",
+            "played": "7",
+            "points": "9",
+            "winRate": "29%",
+            "goalDiff": "2",
+            "goalsFor": "14",
+            "goalsAgainst": "12"
           },
           {
-            "scope": "客",
-            "played": "7",
             "win": "4",
             "draw": "1",
             "loss": "2",
-            "goalsFor": "10",
-            "goalsAgainst": "11",
-            "goalDiff": "-1",
-            "points": "13",
             "rank": "4",
-            "winRate": "57%"
+            "scope": "客",
+            "played": "7",
+            "points": "13",
+            "winRate": "57%",
+            "goalDiff": "-1",
+            "goalsFor": "10",
+            "goalsAgainst": "11"
           },
           {
-            "scope": "近",
-            "played": "6",
             "win": "4",
             "draw": "1",
             "loss": "1",
-            "goalsFor": "14",
-            "goalsAgainst": "8",
-            "goalDiff": "6",
-            "points": "13",
             "rank": "0",
-            "winRate": "67%"
+            "scope": "近",
+            "played": "6",
+            "points": "13",
+            "winRate": "67%",
+            "goalDiff": "6",
+            "goalsFor": "14",
+            "goalsAgainst": "8"
           }
-        ]
+        ],
+        "team": "瓦斯特拉斯"
       }
     ],
     "h2h": [
@@ -17562,24 +17589,24 @@
         "team": "尤尔加登",
         "matches": [
           {
-            "date": "26-08-11",
-            "league": "瑞典超",
-            "home": "瓦斯特拉斯",
             "away": "尤尔加登",
+            "date": "26-08-11",
+            "home": "瓦斯特拉斯",
+            "league": "瑞典超",
             "interval": "7天"
           },
           {
-            "date": "26-08-16",
-            "league": "瑞典超",
-            "home": "尤尔加登",
             "away": "索尔纳",
+            "date": "26-08-16",
+            "home": "尤尔加登",
+            "league": "瑞典超",
             "interval": "13天"
           },
           {
-            "date": "26-08-20",
-            "league": "瑞典杯",
-            "home": "哈宁厄",
             "away": "尤尔加登",
+            "date": "26-08-20",
+            "home": "哈宁厄",
+            "league": "瑞典杯",
             "interval": "16天"
           }
         ]
@@ -17588,24 +17615,24 @@
         "team": "瓦斯特拉斯",
         "matches": [
           {
-            "date": "26-08-11",
-            "league": "瑞典超",
-            "home": "瓦斯特拉斯",
             "away": "尤尔加登",
+            "date": "26-08-11",
+            "home": "瓦斯特拉斯",
+            "league": "瑞典超",
             "interval": "7天"
           },
           {
-            "date": "26-08-16",
-            "league": "瑞典超",
-            "home": "埃尔夫斯堡",
             "away": "瓦斯特拉斯",
+            "date": "26-08-16",
+            "home": "埃尔夫斯堡",
+            "league": "瑞典超",
             "interval": "13天"
           },
           {
-            "date": "26-08-23",
-            "league": "瑞典超",
-            "home": "瓦斯特拉斯",
             "away": "卡尔马",
+            "date": "26-08-23",
+            "home": "瓦斯特拉斯",
+            "league": "瑞典超",
             "interval": "20天"
           }
         ]
@@ -17613,69 +17640,42 @@
     ],
     "leagueTrend": [
       {
-        "team": "尤尔加登",
         "rows": [
           {
-            "scope": "总",
             "win": "8",
-            "push": "0",
             "loss": "5",
-            "winRate": "61.5%",
             "over": "6",
-            "overRate": "46.2%",
+            "push": "0",
+            "scope": "总",
             "under": "6",
+            "winRate": "61.5%",
+            "overRate": "46.2%",
             "underRate": "46.2%"
           },
           {
-            "scope": "主",
             "win": "4",
-            "push": "0",
             "loss": "3",
-            "winRate": "57.1%",
             "over": "3",
-            "overRate": "42.9%",
+            "push": "0",
+            "scope": "主",
             "under": "3",
+            "winRate": "57.1%",
+            "overRate": "42.9%",
             "underRate": "42.9%"
           },
           {
-            "scope": "客",
             "win": "4",
-            "push": "0",
             "loss": "2",
-            "winRate": "66.7%",
             "over": "3",
-            "overRate": "50%",
+            "push": "0",
+            "scope": "客",
             "under": "3",
+            "winRate": "66.7%",
+            "overRate": "50%",
             "underRate": "50%"
           },
           {
             "scope": "近六",
-            "letRecent": [
-              {
-                "text": "赢",
-                "tone": "win"
-              },
-              {
-                "text": "输",
-                "tone": "loss"
-              },
-              {
-                "text": "赢",
-                "tone": "win"
-              },
-              {
-                "text": "赢",
-                "tone": "win"
-              },
-              {
-                "text": "输",
-                "tone": "loss"
-              },
-              {
-                "text": "输",
-                "tone": "loss"
-              }
-            ],
             "ouRecent": [
               {
                 "text": "小",
@@ -17701,56 +17701,15 @@
                 "text": "大",
                 "tone": "win"
               }
-            ]
-          }
-        ]
-      },
-      {
-        "team": "瓦斯特拉斯",
-        "rows": [
-          {
-            "scope": "总",
-            "win": "9",
-            "push": "1",
-            "loss": "4",
-            "winRate": "64.3%",
-            "over": "7",
-            "overRate": "50%",
-            "under": "6",
-            "underRate": "42.9%"
-          },
-          {
-            "scope": "主",
-            "win": "4",
-            "push": "1",
-            "loss": "2",
-            "winRate": "57.1%",
-            "over": "3",
-            "overRate": "42.9%",
-            "under": "4",
-            "underRate": "57.1%"
-          },
-          {
-            "scope": "客",
-            "win": "5",
-            "push": "0",
-            "loss": "2",
-            "winRate": "71.4%",
-            "over": "4",
-            "overRate": "57.1%",
-            "under": "2",
-            "underRate": "28.6%"
-          },
-          {
-            "scope": "近六",
+            ],
             "letRecent": [
               {
                 "text": "赢",
                 "tone": "win"
               },
               {
-                "text": "赢",
-                "tone": "win"
+                "text": "输",
+                "tone": "loss"
               },
               {
                 "text": "赢",
@@ -17765,10 +17724,51 @@
                 "tone": "loss"
               },
               {
-                "text": "赢",
-                "tone": "win"
+                "text": "输",
+                "tone": "loss"
               }
-            ],
+            ]
+          }
+        ],
+        "team": "尤尔加登"
+      },
+      {
+        "rows": [
+          {
+            "win": "9",
+            "loss": "4",
+            "over": "7",
+            "push": "1",
+            "scope": "总",
+            "under": "6",
+            "winRate": "64.3%",
+            "overRate": "50%",
+            "underRate": "42.9%"
+          },
+          {
+            "win": "4",
+            "loss": "2",
+            "over": "3",
+            "push": "1",
+            "scope": "主",
+            "under": "4",
+            "winRate": "57.1%",
+            "overRate": "42.9%",
+            "underRate": "57.1%"
+          },
+          {
+            "win": "5",
+            "loss": "2",
+            "over": "4",
+            "push": "0",
+            "scope": "客",
+            "under": "2",
+            "winRate": "71.4%",
+            "overRate": "57.1%",
+            "underRate": "28.6%"
+          },
+          {
+            "scope": "近六",
             "ouRecent": [
               {
                 "text": "小",
@@ -17794,204 +17794,231 @@
                 "text": "大",
                 "tone": "win"
               }
+            ],
+            "letRecent": [
+              {
+                "text": "赢",
+                "tone": "win"
+              },
+              {
+                "text": "赢",
+                "tone": "win"
+              },
+              {
+                "text": "赢",
+                "tone": "win"
+              },
+              {
+                "text": "赢",
+                "tone": "win"
+              },
+              {
+                "text": "输",
+                "tone": "loss"
+              },
+              {
+                "text": "赢",
+                "tone": "win"
+              }
             ]
           }
-        ]
+        ],
+        "team": "瓦斯特拉斯"
       }
     ],
     "sameHistoryTrend": [
       {
-        "team": "尤尔加登",
         "rows": [
           {
-            "date": "26-07-21",
-            "league": "瑞典超",
-            "leagueColor": "#004488",
-            "home": "奥尔格里特",
             "away": "尤尔加登",
-            "homeTone": "",
-            "awayTone": "draw",
+            "date": "26-07-21",
+            "home": "奥尔格里特",
             "score": "0-0",
+            "league": "瑞典超",
+            "awayTone": "draw",
+            "homeTone": "",
+            "resultTone": "loss",
             "initialLine": "-1/1.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
+            "leagueColor": "#004488",
+            "handicapResult": "输"
           },
           {
+            "away": "布洛马波卡纳",
             "date": "26-05-23",
-            "league": "瑞典超",
-            "leagueColor": "#004488",
             "home": "尤尔加登",
-            "away": "布洛马波卡纳",
-            "homeTone": "loss",
-            "awayTone": "",
             "score": "1-2",
+            "league": "瑞典超",
+            "awayTone": "",
+            "homeTone": "loss",
+            "resultTone": "loss",
             "initialLine": "1/1.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
+            "leagueColor": "#004488",
+            "handicapResult": "输"
           },
           {
-            "date": "26-03-08",
-            "league": "瑞典杯",
-            "leagueColor": "#006C6C",
-            "home": "尤尔加登",
             "away": "布洛马波卡纳",
-            "homeTone": "win",
-            "awayTone": "",
+            "date": "26-03-08",
+            "home": "尤尔加登",
             "score": "2-0",
+            "league": "瑞典杯",
+            "awayTone": "",
+            "homeTone": "win",
+            "resultTone": "win",
             "initialLine": "1/1.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
+            "leagueColor": "#006C6C",
+            "handicapResult": "赢"
           },
           {
-            "date": "24-11-10",
-            "league": "瑞典超",
-            "leagueColor": "#004488",
-            "home": "尤尔加登",
             "away": "北雪平",
-            "homeTone": "win",
-            "awayTone": "",
-            "score": "3-1",
-            "initialLine": "1/1.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
-          },
-          {
-            "date": "24-08-16",
-            "league": "欧协联",
-            "leagueColor": "#D078D8",
+            "date": "24-11-10",
             "home": "尤尔加登",
-            "away": "埃尔维斯",
-            "homeTone": "win",
-            "awayTone": "",
             "score": "3-1",
-            "initialLine": "1/1.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
-          },
-          {
-            "date": "24-07-14",
             "league": "瑞典超",
-            "leagueColor": "#004488",
-            "home": "尤尔加登",
-            "away": "韦纳穆",
-            "homeTone": "win",
             "awayTone": "",
-            "score": "1-0",
+            "homeTone": "win",
+            "resultTone": "win",
             "initialLine": "1/1.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
+            "leagueColor": "#004488",
+            "handicapResult": "赢"
+          },
+          {
+            "away": "埃尔维斯",
+            "date": "24-08-16",
+            "home": "尤尔加登",
+            "score": "3-1",
+            "league": "欧协联",
+            "awayTone": "",
+            "homeTone": "win",
+            "resultTone": "win",
+            "initialLine": "1/1.5",
+            "leagueColor": "#D078D8",
+            "handicapResult": "赢"
+          },
+          {
+            "away": "韦纳穆",
+            "date": "24-07-14",
+            "home": "尤尔加登",
+            "score": "1-0",
+            "league": "瑞典超",
+            "awayTone": "",
+            "homeTone": "win",
+            "resultTone": "loss",
+            "initialLine": "1/1.5",
+            "leagueColor": "#004488",
+            "handicapResult": "输"
           }
-        ]
+        ],
+        "team": "尤尔加登"
       },
       {
-        "team": "瓦斯特拉斯",
         "rows": [
           {
+            "away": "瓦斯特拉斯",
             "date": "25-03-03",
-            "league": "瑞典杯",
-            "leagueColor": "#006C6C",
             "home": "马尔默",
-            "away": "瓦斯特拉斯",
-            "homeTone": "",
-            "awayTone": "loss",
             "score": "3-0",
+            "league": "瑞典杯",
+            "awayTone": "loss",
+            "homeTone": "",
+            "resultTone": "loss",
             "initialLine": "1/1.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
+            "leagueColor": "#006C6C",
+            "handicapResult": "输"
           },
           {
+            "away": "瓦斯特拉斯",
             "date": "23-02-18",
-            "league": "瑞典杯",
-            "leagueColor": "#006C6C",
             "home": "索尔纳",
-            "away": "瓦斯特拉斯",
-            "homeTone": "",
-            "awayTone": "draw",
             "score": "1-1",
+            "league": "瑞典杯",
+            "awayTone": "draw",
+            "homeTone": "",
+            "resultTone": "win",
             "initialLine": "1/1.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
+            "leagueColor": "#006C6C",
+            "handicapResult": "赢"
           },
           {
+            "away": "瓦斯特拉斯",
             "date": "20-10-06",
-            "league": "瑞典甲",
-            "leagueColor": "#0054A8",
             "home": "代格福什",
-            "away": "瓦斯特拉斯",
-            "homeTone": "",
-            "awayTone": "loss",
             "score": "4-1",
-            "initialLine": "1/1.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
-          },
-          {
-            "date": "20-02-29",
-            "league": "瑞典杯",
-            "leagueColor": "#006C6C",
-            "home": "天狼星",
-            "away": "瓦斯特拉斯",
-            "homeTone": "",
-            "awayTone": "win",
-            "score": "0-3",
-            "initialLine": "1/1.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
-          },
-          {
-            "date": "20-02-22",
-            "league": "瑞典杯",
-            "leagueColor": "#006C6C",
-            "home": "哥德堡",
-            "away": "瓦斯特拉斯",
-            "homeTone": "",
-            "awayTone": "loss",
-            "score": "2-0",
-            "initialLine": "1/1.5",
-            "handicapResult": "输",
-            "resultTone": "loss"
-          },
-          {
-            "date": "19-11-03",
             "league": "瑞典甲",
-            "leagueColor": "#0054A8",
-            "home": "布拉格",
-            "away": "瓦斯特拉斯",
-            "homeTone": "",
             "awayTone": "loss",
-            "score": "2-1",
+            "homeTone": "",
+            "resultTone": "loss",
             "initialLine": "1/1.5",
-            "handicapResult": "赢",
-            "resultTone": "win"
+            "leagueColor": "#0054A8",
+            "handicapResult": "输"
+          },
+          {
+            "away": "瓦斯特拉斯",
+            "date": "20-02-29",
+            "home": "天狼星",
+            "score": "0-3",
+            "league": "瑞典杯",
+            "awayTone": "win",
+            "homeTone": "",
+            "resultTone": "win",
+            "initialLine": "1/1.5",
+            "leagueColor": "#006C6C",
+            "handicapResult": "赢"
+          },
+          {
+            "away": "瓦斯特拉斯",
+            "date": "20-02-22",
+            "home": "哥德堡",
+            "score": "2-0",
+            "league": "瑞典杯",
+            "awayTone": "loss",
+            "homeTone": "",
+            "resultTone": "loss",
+            "initialLine": "1/1.5",
+            "leagueColor": "#006C6C",
+            "handicapResult": "输"
+          },
+          {
+            "away": "瓦斯特拉斯",
+            "date": "19-11-03",
+            "home": "布拉格",
+            "score": "2-1",
+            "league": "瑞典甲",
+            "awayTone": "loss",
+            "homeTone": "",
+            "resultTone": "win",
+            "initialLine": "1/1.5",
+            "leagueColor": "#0054A8",
+            "handicapResult": "赢"
           }
-        ]
+        ],
+        "team": "瓦斯特拉斯"
       }
     ],
     "injury": null,
     "formFeature": [
       {
-        "label": "主队对阵前8名",
         "win": "2",
         "draw": "1",
-        "loss": "4"
+        "loss": "4",
+        "label": "主队对阵前8名"
       },
       {
-        "label": "主队对阵后8名",
         "win": "5",
         "draw": "1",
-        "loss": "0"
+        "loss": "0",
+        "label": "主队对阵后8名"
       },
       {
-        "label": "客队对阵前8名",
         "win": "0",
         "draw": "2",
-        "loss": "2"
+        "loss": "2",
+        "label": "客队对阵前8名"
       },
       {
-        "label": "客队对阵后8名",
         "win": "5",
         "draw": "2",
-        "loss": "2"
+        "loss": "2",
+        "label": "客队对阵后8名"
       }
     ],
     "mediaAnalysis": {
@@ -18002,217 +18029,217 @@
       "defaultKey": "last5",
       "variants": {
         "last5": {
-          "key": "last5",
-          "label": "近5场",
-          "sameHomeAway": false,
           "idx": 0,
+          "key": "last5",
           "rows": [
             {
               "team": "尤尔加登",
-              "played": "5",
               "goals": "9",
+              "played": "5",
+              "winRate": "60%",
               "avgGoals": "1.8",
               "conceded": "3",
-              "avgConceded": "0.6",
-              "winRate": "60%",
               "drawRate": "40%",
-              "lossRate": "0%"
+              "lossRate": "0%",
+              "avgConceded": "0.6"
             },
             {
               "team": "瓦斯特拉斯",
-              "played": "5",
               "goals": "9",
+              "played": "5",
+              "winRate": "60%",
               "avgGoals": "1.8",
               "conceded": "4",
-              "avgConceded": "0.8",
-              "winRate": "60%",
               "drawRate": "20%",
-              "lossRate": "20%"
+              "lossRate": "20%",
+              "avgConceded": "0.8"
             }
-          ]
+          ],
+          "label": "近5场",
+          "sameHomeAway": false
         },
         "last10": {
-          "key": "last10",
-          "label": "近10场",
-          "sameHomeAway": false,
           "idx": 1,
+          "key": "last10",
           "rows": [
             {
               "team": "尤尔加登",
-              "played": "10",
               "goals": "23",
+              "played": "10",
+              "winRate": "50%",
               "avgGoals": "2.3",
               "conceded": "11",
-              "avgConceded": "1.1",
-              "winRate": "50%",
               "drawRate": "30%",
-              "lossRate": "20%"
+              "lossRate": "20%",
+              "avgConceded": "1.1"
             },
             {
               "team": "瓦斯特拉斯",
-              "played": "10",
               "goals": "17",
+              "played": "10",
+              "winRate": "40%",
               "avgGoals": "1.7",
               "conceded": "16",
-              "avgConceded": "1.6",
-              "winRate": "40%",
               "drawRate": "20%",
-              "lossRate": "40%"
+              "lossRate": "40%",
+              "avgConceded": "1.6"
             }
-          ]
+          ],
+          "label": "近10场",
+          "sameHomeAway": false
         },
         "last15": {
-          "key": "last15",
-          "label": "近15场",
-          "sameHomeAway": false,
           "idx": 2,
+          "key": "last15",
           "rows": [
             {
               "team": "尤尔加登",
-              "played": "15",
               "goals": "32",
+              "played": "15",
+              "winRate": "53.3%",
               "avgGoals": "2.1",
               "conceded": "18",
-              "avgConceded": "1.2",
-              "winRate": "53.3%",
               "drawRate": "20%",
-              "lossRate": "26.7%"
+              "lossRate": "26.7%",
+              "avgConceded": "1.2"
             },
             {
               "team": "瓦斯特拉斯",
-              "played": "15",
               "goals": "26",
+              "played": "15",
+              "winRate": "40%",
               "avgGoals": "1.7",
               "conceded": "26",
-              "avgConceded": "1.73",
-              "winRate": "40%",
               "drawRate": "26.7%",
-              "lossRate": "33.3%"
+              "lossRate": "33.3%",
+              "avgConceded": "1.73"
             }
-          ]
+          ],
+          "label": "近15场",
+          "sameHomeAway": false
         },
         "last5_same": {
-          "key": "last5_same",
-          "label": "近5场",
-          "sameHomeAway": true,
           "idx": 3,
+          "key": "last5_same",
           "rows": [
             {
               "team": "尤尔加登",
-              "played": "5",
               "goals": "13",
+              "played": "5",
+              "winRate": "40%",
               "avgGoals": "2.6",
               "conceded": "6",
-              "avgConceded": "1.2",
-              "winRate": "40%",
               "drawRate": "20%",
-              "lossRate": "40%"
+              "lossRate": "40%",
+              "avgConceded": "1.2"
             },
             {
               "team": "瓦斯特拉斯",
-              "played": "5",
               "goals": "8",
+              "played": "5",
+              "winRate": "40%",
               "avgGoals": "1.6",
               "conceded": "9",
-              "avgConceded": "1.8",
-              "winRate": "40%",
               "drawRate": "20%",
-              "lossRate": "40%"
+              "lossRate": "40%",
+              "avgConceded": "1.8"
             }
-          ]
+          ],
+          "label": "近5场",
+          "sameHomeAway": true
         },
         "last10_same": {
-          "key": "last10_same",
-          "label": "近10场",
-          "sameHomeAway": true,
           "idx": 4,
+          "key": "last10_same",
           "rows": [
             {
               "team": "尤尔加登",
-              "played": "10",
               "goals": "24",
+              "played": "10",
+              "winRate": "60%",
               "avgGoals": "2.4",
               "conceded": "12",
-              "avgConceded": "1.2",
-              "winRate": "60%",
               "drawRate": "10%",
-              "lossRate": "30%"
+              "lossRate": "30%",
+              "avgConceded": "1.2"
             },
             {
               "team": "瓦斯特拉斯",
-              "played": "10",
               "goals": "15",
+              "played": "10",
+              "winRate": "40%",
               "avgGoals": "1.5",
               "conceded": "20",
-              "avgConceded": "2",
-              "winRate": "40%",
               "drawRate": "20%",
-              "lossRate": "40%"
+              "lossRate": "40%",
+              "avgConceded": "2"
             }
-          ]
+          ],
+          "label": "近10场",
+          "sameHomeAway": true
         },
         "last15_same": {
-          "key": "last15_same",
-          "label": "近15场",
-          "sameHomeAway": true,
           "idx": 5,
+          "key": "last15_same",
           "rows": [
             {
               "team": "尤尔加登",
-              "played": "15",
               "goals": "40",
+              "played": "15",
+              "winRate": "60%",
               "avgGoals": "2.7",
               "conceded": "19",
-              "avgConceded": "1.27",
-              "winRate": "60%",
               "drawRate": "13.3%",
-              "lossRate": "26.7%"
+              "lossRate": "26.7%",
+              "avgConceded": "1.27"
             },
             {
               "team": "瓦斯特拉斯",
-              "played": "15",
               "goals": "30",
+              "played": "15",
+              "winRate": "60%",
               "avgGoals": "2",
               "conceded": "22",
-              "avgConceded": "1.47",
-              "winRate": "60%",
               "drawRate": "13.3%",
-              "lossRate": "26.7%"
+              "lossRate": "26.7%",
+              "avgConceded": "1.47"
             }
-          ]
+          ],
+          "label": "近15场",
+          "sameHomeAway": true
         }
       },
       "rows": [
         {
           "team": "尤尔加登",
-          "played": "5",
           "goals": "9",
+          "played": "5",
+          "winRate": "60%",
           "avgGoals": "1.8",
           "conceded": "3",
-          "avgConceded": "0.6",
-          "winRate": "60%",
           "drawRate": "40%",
-          "lossRate": "0%"
+          "lossRate": "0%",
+          "avgConceded": "0.6"
         },
         {
           "team": "瓦斯特拉斯",
-          "played": "5",
           "goals": "9",
+          "played": "5",
+          "winRate": "60%",
           "avgGoals": "1.8",
           "conceded": "4",
-          "avgConceded": "0.8",
-          "winRate": "60%",
           "drawRate": "20%",
-          "lossRate": "20%"
+          "lossRate": "20%",
+          "avgConceded": "0.8"
         }
       ]
     }
   },
   "sync": {
     "running": true,
-    "runningSince": "2026-08-01T15:41:57.364Z",
-    "lastAt": "2026-08-01T15:41:56.664Z",
-    "lastCount": 111,
+    "runningSince": "2026-08-02T04:08:27.982Z",
+    "lastAt": "2026-08-02T04:08:26.064Z",
+    "lastCount": 112,
     "timeDiff": -38,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000

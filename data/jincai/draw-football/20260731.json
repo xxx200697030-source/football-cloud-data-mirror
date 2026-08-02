@@ -110,8 +110,8 @@
   },
   "sync": {
     "running": false,
-    "lastAt": "2026-08-01T15:38:17.524Z",
-    "lastCount": 14,
+    "lastAt": "2026-08-02T04:08:18.423Z",
+    "lastCount": 23,
     "intervalMs": 1800000
   }
 }

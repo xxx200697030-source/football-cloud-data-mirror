@@ -2,15 +2,15 @@
   "code": 0,
   "data": {
     "scheduleId": 2912226,
-    "updatedAt": "2026-08-01T14:18:52.109Z",
+    "updatedAt": "2026-08-03T00:43:42.029Z",
     "homeTeam": "哈尔姆斯塔德",
     "guestTeam": "天狼星",
     "preMatchOdds": [
       {
         "live": [
-          "6.7",
-          "5",
-          "1.36"
+          "7.1",
+          "5.1",
+          "1.34"
         ],
         "type": "欧",
         "initial": [
@@ -21,9 +21,9 @@
       },
       {
         "live": [
-          "0.83",
+          "0.87",
           "-1.5",
-          "1.05"
+          "1.01"
         ],
         "type": "亚",
         "initial": [
@@ -20742,10 +20742,10 @@
     }
   },
   "sync": {
-    "running": true,
-    "runningSince": "2026-08-02T15:42:29.919Z",
-    "lastAt": "2026-08-02T15:42:24.703Z",
-    "lastCount": 107,
+    "running": false,
+    "runningSince": null,
+    "lastAt": "2026-08-03T04:19:21.563Z",
+    "lastCount": 33,
     "timeDiff": -39,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000

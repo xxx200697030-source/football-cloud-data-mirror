@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "scheduleId": 2912221,
-    "updatedAt": "2026-08-01T17:31:10.404Z",
+    "updatedAt": "2026-08-03T00:43:42.177Z",
     "homeTeam": "尤尔加登",
     "guestTeam": "瓦斯特拉斯",
     "preMatchOdds": [
@@ -21,9 +21,9 @@
       },
       {
         "live": [
-          "0.99",
+          "1",
           "1/1.5",
-          "0.89"
+          "0.88"
         ],
         "type": "亚",
         "initial": [
@@ -107,7 +107,7 @@
             "win": "4",
             "draw": "1",
             "loss": "1",
-            "rank": "2",
+            "rank": "3",
             "scope": "客",
             "played": "6",
             "points": "13",
@@ -138,7 +138,7 @@
             "win": "6",
             "draw": "4",
             "loss": "4",
-            "rank": "5",
+            "rank": "6",
             "scope": "总",
             "played": "14",
             "points": "22",
@@ -164,7 +164,7 @@
             "win": "4",
             "draw": "1",
             "loss": "2",
-            "rank": "4",
+            "rank": "5",
             "scope": "客",
             "played": "7",
             "points": "13",
@@ -18236,10 +18236,10 @@
     }
   },
   "sync": {
-    "running": true,
-    "runningSince": "2026-08-02T15:42:29.919Z",
-    "lastAt": "2026-08-02T15:42:24.703Z",
-    "lastCount": 107,
+    "running": false,
+    "runningSince": null,
+    "lastAt": "2026-08-03T04:19:21.563Z",
+    "lastCount": 33,
     "timeDiff": -39,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000

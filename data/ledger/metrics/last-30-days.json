@@ -1,9 +1,9 @@
 {
   "ok": true,
   "metrics": {
-    "from": "2026-07-03",
-    "to": "2026-08-02",
-    "generated_at": "2026-08-02T15:43:06.269Z",
+    "from": "2026-07-04",
+    "to": "2026-08-03",
+    "generated_at": "2026-08-03T04:20:02.680Z",
     "scoring": {
       "brier": "mean multiclass squared error divided by 3; lower is better",
       "log_loss": "negative natural log probability of realised 1X2 result; lower is better"

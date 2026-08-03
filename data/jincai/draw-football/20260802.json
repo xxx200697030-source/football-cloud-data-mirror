@@ -2,8 +2,280 @@
   "code": 0,
   "data": {
     "dateCode": 20260802,
-    "groupTitle": "08月02日 星期日",
+    "groupTitle": "08月03日 星期一",
     "matches": [
+      {
+        "scheduleId": 2991112,
+        "matchDateCode": 20260802,
+        "groupTitle": "08月03日 星期一",
+        "matchNo": "周日014",
+        "leagueName": "巴西杯",
+        "homeTeam": "巴西国际",
+        "guestTeam": "科林蒂安",
+        "scoreText": "2-0",
+        "halfScoreText": "0-0",
+        "details": [
+          {
+            "name": "胜（-1）",
+            "odds": "5.55"
+          },
+          {
+            "name": "胜",
+            "odds": "2.24"
+          },
+          {
+            "name": "2:0",
+            "odds": "9.5"
+          },
+          {
+            "name": "2球",
+            "odds": "3"
+          },
+          {
+            "name": "平胜",
+            "odds": "4.4"
+          }
+        ],
+        "updatedAt": "2026-08-03T00:33:19.000Z"
+      },
+      {
+        "scheduleId": 2991113,
+        "matchDateCode": 20260802,
+        "groupTitle": "08月03日 星期一",
+        "matchNo": "周日013",
+        "leagueName": "巴西杯",
+        "homeTeam": "米拉索",
+        "guestTeam": "格雷米奥",
+        "scoreText": "1-1",
+        "halfScoreText": "1-0",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "1.77"
+          },
+          {
+            "name": "平",
+            "odds": "2.9"
+          },
+          {
+            "name": "1:1",
+            "odds": "5.75"
+          },
+          {
+            "name": "2球",
+            "odds": "2.8"
+          },
+          {
+            "name": "胜平",
+            "odds": "15"
+          }
+        ],
+        "updatedAt": "2026-08-02T23:03:19.000Z"
+      },
+      {
+        "scheduleId": 2912852,
+        "matchDateCode": 20260802,
+        "groupTitle": "08月03日 星期一",
+        "matchNo": "周日012",
+        "leagueName": "挪超",
+        "homeTeam": "布兰",
+        "guestTeam": "罗森博格",
+        "scoreText": "3-2",
+        "halfScoreText": "1-0",
+        "details": [
+          {
+            "name": "平（-1）",
+            "odds": "3.85"
+          },
+          {
+            "name": "胜",
+            "odds": "1.9"
+          },
+          {
+            "name": "3:2",
+            "odds": "17"
+          },
+          {
+            "name": "5球",
+            "odds": "6.5"
+          },
+          {
+            "name": "胜胜",
+            "odds": "3.1"
+          }
+        ],
+        "updatedAt": "2026-08-02T19:13:09.000Z"
+      },
+      {
+        "scheduleId": 2912850,
+        "matchDateCode": 20260802,
+        "groupTitle": "08月02日 星期日",
+        "matchNo": "周日011",
+        "leagueName": "挪超",
+        "homeTeam": "奥勒松",
+        "guestTeam": "特罗姆瑟",
+        "scoreText": "2-6",
+        "halfScoreText": "1-1",
+        "details": [
+          {
+            "name": "负（+1）",
+            "odds": "3.6"
+          },
+          {
+            "name": "负",
+            "odds": "1.83"
+          },
+          {
+            "name": "负其他",
+            "odds": "40"
+          },
+          {
+            "name": "7+球",
+            "odds": "21"
+          },
+          {
+            "name": "平负",
+            "odds": "4.7"
+          }
+        ],
+        "updatedAt": "2026-08-02T16:58:19.000Z"
+      },
+      {
+        "scheduleId": 2912855,
+        "matchDateCode": 20260802,
+        "groupTitle": "08月02日 星期日",
+        "matchNo": "周日010",
+        "leagueName": "挪超",
+        "homeTeam": "莫尔德",
+        "guestTeam": "萨普斯堡",
+        "scoreText": "3-3",
+        "halfScoreText": "1-1",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "2.31"
+          },
+          {
+            "name": "平",
+            "odds": "4.3"
+          },
+          {
+            "name": "3:3",
+            "odds": "38"
+          },
+          {
+            "name": "6球",
+            "odds": "10"
+          },
+          {
+            "name": "平平",
+            "odds": "7.5"
+          }
+        ],
+        "updatedAt": "2026-08-02T16:58:19.000Z"
+      },
+      {
+        "scheduleId": 2912854,
+        "matchDateCode": 20260802,
+        "groupTitle": "08月02日 星期日",
+        "matchNo": "周日009",
+        "leagueName": "挪超",
+        "homeTeam": "奥斯KFUM",
+        "guestTeam": "基斯迪辛特",
+        "scoreText": "2-1",
+        "halfScoreText": "2-0",
+        "details": [
+          {
+            "name": "平（-1）",
+            "odds": "3.25"
+          },
+          {
+            "name": "胜",
+            "odds": "1.6"
+          },
+          {
+            "name": "2:1",
+            "odds": "6.5"
+          },
+          {
+            "name": "3球",
+            "odds": "3.3"
+          },
+          {
+            "name": "胜胜",
+            "odds": "2.5"
+          }
+        ],
+        "updatedAt": "2026-08-02T16:58:19.000Z"
+      },
+      {
+        "scheduleId": 2912219,
+        "matchDateCode": 20260802,
+        "groupTitle": "08月02日 星期日",
+        "matchNo": "周日008",
+        "leagueName": "瑞典超",
+        "homeTeam": "索尔纳",
+        "guestTeam": "厄格里特",
+        "scoreText": "0-3",
+        "halfScoreText": "0-2",
+        "details": [
+          {
+            "name": "负（-1）",
+            "odds": "2.48"
+          },
+          {
+            "name": "负",
+            "odds": "5.65"
+          },
+          {
+            "name": "0:3",
+            "odds": "90"
+          },
+          {
+            "name": "3球",
+            "odds": "3.4"
+          },
+          {
+            "name": "负负",
+            "odds": "10.5"
+          }
+        ],
+        "updatedAt": "2026-08-02T16:23:19.000Z"
+      },
+      {
+        "scheduleId": 2913678,
+        "matchDateCode": 20260802,
+        "groupTitle": "08月02日 星期日",
+        "matchNo": "周日007",
+        "leagueName": "芬超",
+        "homeTeam": "AC奥卢",
+        "guestTeam": "坦山猫",
+        "scoreText": "1-0",
+        "halfScoreText": "0-0",
+        "details": [
+          {
+            "name": "平（-1）",
+            "odds": "4.3"
+          },
+          {
+            "name": "胜",
+            "odds": "2.35"
+          },
+          {
+            "name": "1:0",
+            "odds": "9.25"
+          },
+          {
+            "name": "1球",
+            "odds": "5.6"
+          },
+          {
+            "name": "平胜",
+            "odds": "5.7"
+          }
+        ],
+        "updatedAt": "2026-08-02T15:58:19.000Z"
+      },
       {
         "scheduleId": 2913677,
         "matchDateCode": 20260802,
@@ -212,8 +484,8 @@
   },
   "sync": {
     "running": false,
-    "lastAt": "2026-08-02T15:38:19.479Z",
-    "lastCount": 25,
+    "lastAt": "2026-08-03T04:18:20.043Z",
+    "lastCount": 33,
     "intervalMs": 1800000
   }
 }

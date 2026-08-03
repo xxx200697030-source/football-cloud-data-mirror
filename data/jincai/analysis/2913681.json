@@ -2,15 +2,15 @@
   "code": 0,
   "data": {
     "scheduleId": 2913681,
-    "updatedAt": "2026-08-01T15:00:15.384Z",
+    "updatedAt": "2026-08-03T00:43:41.819Z",
     "homeTeam": "塞伊奈约基",
     "guestTeam": "赫尔辛基",
     "preMatchOdds": [
       {
         "live": [
-          "3.15",
+          "3.1",
           "3.85",
-          "1.99"
+          "2.01"
         ],
         "type": "欧",
         "initial": [
@@ -21,9 +21,9 @@
       },
       {
         "live": [
-          "0.89",
+          "0.87",
           "-0.5",
-          "0.99"
+          "1.01"
         ],
         "type": "亚",
         "initial": [
@@ -107,7 +107,7 @@
             "win": "1",
             "draw": "3",
             "loss": "5",
-            "rank": "9",
+            "rank": "8",
             "scope": "客",
             "played": "9",
             "points": "6",
@@ -138,7 +138,7 @@
             "win": "8",
             "draw": "4",
             "loss": "5",
-            "rank": "3",
+            "rank": "4",
             "scope": "总",
             "played": "17",
             "points": "28",
@@ -151,7 +151,7 @@
             "win": "5",
             "draw": "2",
             "loss": "2",
-            "rank": "4",
+            "rank": "6",
             "scope": "主",
             "played": "9",
             "points": "17",
@@ -27137,10 +27137,10 @@
     }
   },
   "sync": {
-    "running": true,
-    "runningSince": "2026-08-02T15:42:29.919Z",
-    "lastAt": "2026-08-02T15:42:24.703Z",
-    "lastCount": 107,
+    "running": false,
+    "runningSince": null,
+    "lastAt": "2026-08-03T04:19:21.563Z",
+    "lastCount": 33,
     "timeDiff": -39,
     "intervalMs": 3600000,
     "liveIntervalMs": 15000
